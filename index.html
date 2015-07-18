@@ -299,6 +299,10 @@
         L.mapbox.accessToken = 'pk.eyJ1IjoiYXJ5YW5qYWJiYXJpIiwiYSI6IjJhMGM3Y2VjZGU2ZjRhZTVjZGRkYjYzMzI4MmMzMDNiIn0.kZlSR_oToMC4VOmNCIfIfg';
         var map = L.mapbox.map('map', 'aryanjabbari.cb525595', { zoomControl: false});
         
+        var featureLayer = L.mapbox.featureLayer()
+        .loadURL('geojson.geojson')
+        .addTo(map);
+
         map.scrollWheelZoom.disable();       
     </script>
 
