@@ -1,0 +1,6001 @@
+[ 
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7896131, 40.7666136]
+  },
+
+  "properties": {
+    "title": "Arya Kabab House",
+    "description": "Cuisine: Other | 33-35 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8040319, 40.7610935]
+  },
+
+  "properties": {
+    "title": "Da Myun",
+    "description": "Cuisine: Korean, Noodle Shops | 41-10 162nd St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8330519, 40.7587756]
+  },
+
+  "properties": {
+    "title": "Hang",
+    "description": "Cuisine: Mala Tang | 133-35 Roosevelt Ave., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83340559999999, 40.7605112]
+  },
+
+  "properties": {
+    "title": "Kissa Bar",
+    "description": "Cuisine: Mix | 133-42 37th Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8263839, 40.7601344]
+  },
+
+  "properties": {
+    "title": "Teaus",
+    "description": "Cuisine: Teahouses | 40-10 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8308029, 40.7629604]
+  },
+
+  "properties": {
+    "title": "Moon Cafe",
+    "description": "Cuisine: Cafes & Coffeehouses | 137-06 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.829437, 40.757178]
+  },
+
+  "properties": {
+    "title": "Lanzhou Handmade Noodle",
+    "description": "Cuisine: Chinese | 41-28 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.9013944, 40.7004988]
+  },
+
+  "properties": {
+    "title": "Fruitti Yummi",
+    "description": "Cuisine: Desserts | 57-51 Myrtle Ave, Flushing NY 11385",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8318649, 40.759222]
+  },
+
+  "properties": {
+    "title": "Magic Tea House",
+    "description": "Cuisine: Dessert | 135-03 Roosevelt Ave., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290528, 40.7593211]
+  },
+
+  "properties": {
+    "title": "Chong Qing Hot Pot",
+    "description": "Cuisine: Chinese | 136-20 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.830497, 40.759167]
+  },
+
+  "properties": {
+    "title": "QQbee",
+    "description": "Cuisine: Desserts, Asian (other) | 40-10 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83227099999999, 40.76052500000001]
+  },
+
+  "properties": {
+    "title": "Yummy Sushi House",
+    "description": "Cuisine: Sushi | 135-11 38th Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82813, 40.76033]
+  },
+
+  "properties": {
+    "title": "Palace Restaurant",
+    "description": "Cuisine: Chinese | 136-55 Roosevelt Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7934781, 40.7701871]
+  },
+
+  "properties": {
+    "title": "Kalamaki GR",
+    "description": "Cuisine: Greek, Mediterranean | 29-06 172nd St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8330519, 40.7587756]
+  },
+
+  "properties": {
+    "title": "Mango Mango",
+    "description": "Cuisine: Dessert | 133-35 Roosevelt Ave., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8330519, 40.7587756]
+  },
+
+  "properties": {
+    "title": "JB Crispy Pancake",
+    "description": "Cuisine: Taiwanese | 133-35 Roosevelt Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7857614, 40.7523954]
+  },
+
+  "properties": {
+    "title": "Piccolo Sogno Pizzeria Trttr",
+    "description": "Cuisine: Italian, Pizza | 195-14 47th Ave, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.788966, 40.7576359]
+  },
+
+  "properties": {
+    "title": "Silk Hookah Lounge & Grill",
+    "description": "Cuisine: Middle Eastern | 192-08 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.78421000000002, 40.7577566]
+  },
+
+  "properties": {
+    "title": "North Shore Diner",
+    "description": "Cuisine: Diners & Coffee Shops | 196-52 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.820371, 40.7246014]
+  },
+
+  "properties": {
+    "title": "Masuyo Asian Fusion",
+    "description": "Cuisine: Japanese | 73-01 Main St., Kew Gardens Hill NY 11367",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7838871, 40.757582]
+  },
+
+  "properties": {
+    "title": "Gammeeok Tang",
+    "description": "Cuisine: Korean | 196-50 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.84539269999999, 40.7722519]
+  },
+
+  "properties": {
+    "title": "Sparkys Deli",
+    "description": "Cuisine: Delis, Sandwiches | 28-28 College Point Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.803814, 40.7599724]
+  },
+
+  "properties": {
+    "title": "Baoding CFC",
+    "description": "Cuisine: Chinese | 42-05 162nd St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8269499, 40.7607984]
+  },
+
+  "properties": {
+    "title": "Chung Moo",
+    "description": "Cuisine: Korean, Sushi | 39-04 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80304869999999, 40.7613075]
+  },
+
+  "properties": {
+    "title": "Arirang Restaurant",
+    "description": "Cuisine: Korean, Soups | 41-04 163rd St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.78936500000002, 40.766316]
+  },
+
+  "properties": {
+    "title": "Thanya Thai Cuisine",
+    "description": "Cuisine: Thai | 33-47 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8231548, 40.7646173]
+  },
+
+  "properties": {
+    "title": "Kennedy Fried Chicken",
+    "description": "Cuisine: Chicken | 136-04 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83302599999999, 40.760178]
+  },
+
+  "properties": {
+    "title": "Cutting Board",
+    "description": "Cuisine: Hong Kong | 37-20 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8325428, 40.7597325]
+  },
+
+  "properties": {
+    "title": "Lu's Seafood",
+    "description": "Cuisine: Taiwanese | 38-18 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Nu Wok Kitchen",
+    "description": "Cuisine: Chinese | 60-06 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8315744, 40.75868759999999]
+  },
+
+  "properties": {
+    "title": "Fu Run",
+    "description": "Cuisine: North East Chinese | 40-09 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8200521, 40.7653624]
+  },
+
+  "properties": {
+    "title": "Tong Tong Tonkatsu",
+    "description": "Cuisine: Japanese, Korean | 146-17A Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83081, 40.758854]
+  },
+
+  "properties": {
+    "title": "Shang Hai Si Fang Dis",
+    "description": "Cuisine: Chinese | 135-25 40th Rd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8293716, 40.76020889999999]
+  },
+
+  "properties": {
+    "title": "Fay Da Bakery",
+    "description": "Cuisine: Chinese | 136-18 39th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8121693, 40.764641]
+  },
+
+  "properties": {
+    "title": "Lee-Soo Restaurant",
+    "description": "Cuisine: Korean | 152-24 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8257817, 40.7460806]
+  },
+
+  "properties": {
+    "title": "Asian Gourmet",
+    "description": "Cuisine: Sushi | 57-11 Main St., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.828262, 40.7642181]
+  },
+
+  "properties": {
+    "title": "Sushi Family Express",
+    "description": "Cuisine: Japanese, Sushi, Korean | 35-48 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80693370000002, 40.7633477]
+  },
+
+  "properties": {
+    "title": "BBQ Village",
+    "description": "Cuisine: Korean, Barbecue | 157-26 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290528, 40.7593211]
+  },
+
+  "properties": {
+    "title": "Xiao Yuan Huan",
+    "description": "Cuisine: Chinese | 136-20 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290528, 40.7593211]
+  },
+
+  "properties": {
+    "title": "Kung Fu Tea",
+    "description": "Cuisine: Cafes & Coffeehouses | 136-20 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8069908, 40.763396]
+  },
+
+  "properties": {
+    "title": "Seoul Soon Dae",
+    "description": "Cuisine: Korean | 158-15 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82688569999999, 40.7519411]
+  },
+
+  "properties": {
+    "title": "Spicy Road",
+    "description": "Cuisine: Chinese | 43-18 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80792629999999, 40.7636712]
+  },
+
+  "properties": {
+    "title": "Mad For Chicken",
+    "description": "Cuisine: Chicken, Korean | 157-18 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8326589, 40.7598502]
+  },
+
+  "properties": {
+    "title": "Nan Xiang Dumpling House",
+    "description": "Cuisine: Shanghai | 38-12 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8339551, 40.7558896]
+  },
+
+  "properties": {
+    "title": "OK Ryan",
+    "description": "Cuisine: Chinese | 41-04 College Point Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83081, 40.758854]
+  },
+
+  "properties": {
+    "title": "Yao Tai Lou",
+    "description": "Cuisine: Chinese | 135-25A 40th Rd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8038555, 40.7627062]
+  },
+
+  "properties": {
+    "title": "Sik Gaek",
+    "description": "Cuisine: Korean | 161-29 Crocheron Ave, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8294362, 40.7590825]
+  },
+
+  "properties": {
+    "title": "Grand Restaurant",
+    "description": "Cuisine: Chinese | 40-21 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Mixx",
+    "description": "Cuisine: Burgers, Sandwiches | 44-03 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8304685, 40.7596083]
+  },
+
+  "properties": {
+    "title": "Coco Fresh Tea & Juice",
+    "description": "Cuisine: Teahouses, Desserts | 39-22 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8315499, 40.764769]
+  },
+
+  "properties": {
+    "title": "Kato Cafe",
+    "description": "Cuisine: Chinese | 135-01 35th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8259441, 40.7436134]
+  },
+
+  "properties": {
+    "title": "Asian Cafe",
+    "description": "Cuisine: Asian Fusion | 59-08 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7906891, 40.7676605]
+  },
+
+  "properties": {
+    "title": "Francis Lewis Gourmet Deli",
+    "description": "Cuisine: Delis, Sandwiches | 32-61 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7895186, 40.7698624]
+  },
+
+  "properties": {
+    "title": "Great Wall",
+    "description": "Cuisine: Chinese | 199-19 32nd Ave, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8148805, 40.765247]
+  },
+
+  "properties": {
+    "title": "Jjajang.com",
+    "description": "Cuisine: Chinese, Korean, Seafood | 150-05 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8079092, 40.76366549999999]
+  },
+
+  "properties": {
+    "title": "Yupdduk NYC",
+    "description": "Cuisine: Korean | 157-22 Northern Blvd., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82980289999999, 40.7589428]
+  },
+
+  "properties": {
+    "title": "Hly Chinese Cuisine",
+    "description": "Cuisine: Chinese | 43-23 Main St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290528, 40.7593211]
+  },
+
+  "properties": {
+    "title": "LZ Cafe",
+    "description": "Cuisine: Chinese | 136-20 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82300289999999, 40.7646369]
+  },
+
+  "properties": {
+    "title": "Super Deli",
+    "description": "Cuisine: Delis, Sandwiches | 144-10 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Fay Da Bakery",
+    "description": "Cuisine: Chinese | 46-15 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82827069999999, 40.7632827]
+  },
+
+  "properties": {
+    "title": "Roll Zip",
+    "description": "Cuisine: Korean, Japanese, Sushi | 36-14 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.830457, 40.7593244]
+  },
+
+  "properties": {
+    "title": "Flushing Noodle Shop",
+    "description": "Cuisine: Chinese | 135-42 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83196819999999, 40.75950539999999]
+  },
+
+  "properties": {
+    "title": "KUNG FU HIBACHI",
+    "description": "Cuisine: Asian Fusion | 39-07 Prince St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8295468, 40.7632692]
+  },
+
+  "properties": {
+    "title": "Hunan House",
+    "description": "Cuisine: Hunan | 137-40 Northern Blvd., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8327709, 40.759986]
+  },
+
+  "properties": {
+    "title": "Bangkok Thai Cuisine",
+    "description": "Cuisine: Thai | 38-04 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.830996, 40.7587819]
+  },
+
+  "properties": {
+    "title": "Malay Restaurant",
+    "description": "Cuisine: Malaysian | 135-17 40th Rd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.81786149999999, 40.7652537]
+  },
+
+  "properties": {
+    "title": "O' Crab!",
+    "description": "Cuisine: Cajun | 147-34 Northern Blvd., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.81535819999999, 40.7715326]
+  },
+
+  "properties": {
+    "title": "Browne Park Deli",
+    "description": "Cuisine: Delis, Sandwiches | 150-09 Bayside Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8046492, 40.76219450000001]
+  },
+
+  "properties": {
+    "title": "Izakaya Kan",
+    "description": "Cuisine: Korean, Japanese, Sushi | 160-30 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8264806, 40.7601089]
+  },
+
+  "properties": {
+    "title": "Teaus",
+    "description": "Cuisine: Tea | 4010 Union St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80696979999999, 40.7633894]
+  },
+
+  "properties": {
+    "title": "BBQ Chicken",
+    "description": "Cuisine: Chicken, Barbecue, Wings | 158-23 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80982159999999, 40.76429479999999]
+  },
+
+  "properties": {
+    "title": "IHOP",
+    "description": "Cuisine: Diners & Coffee Shops | 155-17 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Hyderabadi Biryani",
+    "description": "Cuisine: Indian | 44-27 Kissena Blvd., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "New Kissena",
+    "description": "Cuisine: Chinese | 44-29 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82764850000001, 40.763952]
+  },
+
+  "properties": {
+    "title": "Flushing Best",
+    "description": "Cuisine: Delis, Sandwiches | 138-16 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82565, 40.745482]
+  },
+
+  "properties": {
+    "title": "Shanghai Cuisine 33",
+    "description": "Cuisine: Shanghai | 57-33 Main St., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82985099999999, 40.758158]
+  },
+
+  "properties": {
+    "title": "Zhu Ji Dumpling Stall",
+    "description": "Cuisine: Chinese | 40-52 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8052809, 40.7627874]
+  },
+
+  "properties": {
+    "title": "New Age Market",
+    "description": "Cuisine: Dessert | 160-06 Northern Blvd., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290528, 40.7593211]
+  },
+
+  "properties": {
+    "title": "Gong Cha",
+    "description": "Cuisine: Teahouses | 136-20 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82985099999999, 40.758158]
+  },
+
+  "properties": {
+    "title": "Red Bowl",
+    "description": "Cuisine: Mix Chinese | 40-52 Main St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82694699999999, 40.759339]
+  },
+
+  "properties": {
+    "title": "Sol Hyang Gee",
+    "description": "Cuisine: BBQ Skewers | 136-73 41st Rd., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8340858, 40.7568178]
+  },
+
+  "properties": {
+    "title": "Crazy Crab",
+    "description": "Cuisine: Chinese | 40-42 College Point Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8332678, 40.76104309999999]
+  },
+
+  "properties": {
+    "title": "Xiao Dong Bei",
+    "description": "Cuisine: North East Chinese | 133-51 37th Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8330235, 40.7606738]
+  },
+
+  "properties": {
+    "title": "Chen Mapo Szechuan",
+    "description": "Cuisine: Szechuan | 37-04 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7858023, 40.7524027]
+  },
+
+  "properties": {
+    "title": "New Cathay",
+    "description": "Cuisine: Chinese | 195-12 47th Ave, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.788325, 40.752124]
+  },
+
+  "properties": {
+    "title": "Michael & Sons",
+    "description": "Cuisine: Italian, Pizza | 192-13 47th Ave, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7846319, 40.7579363]
+  },
+
+  "properties": {
+    "title": "Mythos Authentic Greek Cuisine",
+    "description": "Cuisine: Greek | 196-29 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.822546, 40.766793]
+  },
+
+  "properties": {
+    "title": "Dae Bak",
+    "description": "Cuisine: Korean, Barbecue | 146-06 34th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8330519, 40.7587756]
+  },
+
+  "properties": {
+    "title": "Mango Mango Dessert",
+    "description": "Cuisine: Desserts | 133-35 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82769449999999, 40.7546369]
+  },
+
+  "properties": {
+    "title": "Tous les Jours",
+    "description": "Cuisine: Cafes & Coffeehouses | 42-35 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8302081, 40.7608139]
+  },
+
+  "properties": {
+    "title": "Foo Kee Seafood",
+    "description": "Cuisine: Chinese | 136-14 38th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8324959, 40.7603239]
+  },
+
+  "properties": {
+    "title": "East Lake Seafood",
+    "description": "Cuisine: Chinese | 37-17 Prince St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8306659, 40.758913]
+  },
+
+  "properties": {
+    "title": "Red Happy Family",
+    "description": "Cuisine: Chinese | 135-29 40th Rd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Quickly NYC",
+    "description": "Cuisine: Japanese, Asian (other) | 41-40 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82843319999999, 40.7549757]
+  },
+
+  "properties": {
+    "title": "Wu Chinese Restaurant",
+    "description": "Cuisine: Cantonese | 42-12A Main St., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7905852, 40.7675449]
+  },
+
+  "properties": {
+    "title": "Taco Hut",
+    "description": "Cuisine: Southwestern, Mexican | 32-67 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8032173, 40.7623033]
+  },
+
+  "properties": {
+    "title": "Je Ju Do",
+    "description": "Cuisine: Sushi, Japanese, Korean | 162-10 Crocheron Ave, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.815142, 40.762528]
+  },
+
+  "properties": {
+    "title": "Okinae",
+    "description": "Cuisine: Korean | 40-30 149th Pl, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290528, 40.7593211]
+  },
+
+  "properties": {
+    "title": "Pho Bac Express",
+    "description": "Cuisine: Vietnamese | 136-20 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8281334, 40.7629785]
+  },
+
+  "properties": {
+    "title": "Dong Hae Ru",
+    "description": "Cuisine: Korean | 36-26 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7897098, 40.7667599]
+  },
+
+  "properties": {
+    "title": "Graziella",
+    "description": "Cuisine: Italian, Pizza | 33-29 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8047601, 40.7560382]
+  },
+
+  "properties": {
+    "title": "New Dragon Kitchen",
+    "description": "Cuisine: Chinese | 45-12 162nd St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8177402, 40.7652649]
+  },
+
+  "properties": {
+    "title": "Picnic Garden",
+    "description": "Cuisine: Korean, Barbecue | 147-42 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8322657, 40.75952960000001]
+  },
+
+  "properties": {
+    "title": "The COOP Express",
+    "description": "Cuisine: Korean | 39-16 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8311101, 40.7624427]
+  },
+
+  "properties": {
+    "title": "Happy Family Hotpot Restaurant",
+    "description": "Cuisine: Chinese | 36-35 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8135108, 40.7650999]
+  },
+
+  "properties": {
+    "title": "Kyedong",
+    "description": "Cuisine: Korean, Chicken | 150-54 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290528, 40.7593211]
+  },
+
+  "properties": {
+    "title": "Noodle Village",
+    "description": "Cuisine: Chinese | 136-20 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8303083, 40.7598758]
+  },
+
+  "properties": {
+    "title": "Tong Hai Tung",
+    "description": "Cuisine: Chinese | 41-12 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8281196, 40.7550779]
+  },
+
+  "properties": {
+    "title": "East Buffet",
+    "description": "Cuisine: Chinese | 42-07 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8360247, 40.7688082]
+  },
+
+  "properties": {
+    "title": "Sarku Japan",
+    "description": "Cuisine: Chinese | 133-38 Whitestone Expy, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82782929999999, 40.762493]
+  },
+
+  "properties": {
+    "title": "Jang Tuh",
+    "description": "Cuisine: Korean | 136-93 37th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7933364, 40.7701812]
+  },
+
+  "properties": {
+    "title": "Asian Chef",
+    "description": "Cuisine: Chinese | 29-04 172nd St., Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83196819999999, 40.75950539999999]
+  },
+
+  "properties": {
+    "title": "Spicy & Tasty",
+    "description": "Cuisine: Chinese | 39-07 Prince St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.826931, 40.753104]
+  },
+
+  "properties": {
+    "title": "Lu Xiang Yuan",
+    "description": "Cuisine: Chinese | 42-87 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.828298, 40.7635099]
+  },
+
+  "properties": {
+    "title": "Udon West",
+    "description": "Cuisine: Japanese, Noodle Shops | 137-80 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.825777, 40.751591]
+  },
+
+  "properties": {
+    "title": "Great Wall Kitchen",
+    "description": "Cuisine: Chinese | 43-41 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8017792, 40.7624571]
+  },
+
+  "properties": {
+    "title": "Hwa Lung Kitchen",
+    "description": "Cuisine: Chinese | 36-07 164th St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80299649999999, 40.7621723]
+  },
+
+  "properties": {
+    "title": "Tong Sam Gyup Goo Yi",
+    "description": "Cuisine: Korean | 162-23 Depot Rd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.815716, 40.755377]
+  },
+
+  "properties": {
+    "title": "Yao Fhing",
+    "description": "Cuisine: Chinese | 45-06 Parsons Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7903848, 40.7675833]
+  },
+
+  "properties": {
+    "title": "Gyro Corner",
+    "description": "Cuisine: Greek, Mediterranean | 32-69 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.829922, 40.758296]
+  },
+
+  "properties": {
+    "title": "On & On",
+    "description": "Cuisine: Chinese | 40-46 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8148621, 40.7620607]
+  },
+
+  "properties": {
+    "title": "Han Joo Chik Naeng Myun & BBQ",
+    "description": "Cuisine: Korean, Barbecue | 41-06 149th Pl, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8224577, 40.7543036]
+  },
+
+  "properties": {
+    "title": "Asian Food Products",
+    "description": "Cuisine: Asian (other) | 140-13 Cherry Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8313114, 40.7599879]
+  },
+
+  "properties": {
+    "title": "Asian Jewels",
+    "description": "Cuisine: Chinese | 133-30 39th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.820882, 40.7672676]
+  },
+
+  "properties": {
+    "title": "El Recuerdo",
+    "description": "Cuisine: South American, Seafood | 146-05 34th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8296084, 40.7617056]
+  },
+
+  "properties": {
+    "title": "Ajisen Ramen",
+    "description": "Cuisine: Japanese, Noodle Shops | 38-10 138th St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.833541, 40.759974]
+  },
+
+  "properties": {
+    "title": "Diverse Dim Sum",
+    "description": "Cuisine: Chinese | 133-31 39th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.79417880000001, 40.7795949]
+  },
+
+  "properties": {
+    "title": "King Noodle",
+    "description": "Cuisine: Mix Chinese | 20-02 Utopia Parkway, Whitestone NY 11357",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7868704, 40.7580883]
+  },
+
+  "properties": {
+    "title": "Gyro World",
+    "description": "Cuisine: Middle Eastern | 194-23 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8344778, 40.7692995]
+  },
+
+  "properties": {
+    "title": "Amore Pizzeria",
+    "description": "Cuisine: Pizza, Italian | 30-27 Stratton St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80476019999999, 40.7623597]
+  },
+
+  "properties": {
+    "title": "Cheogajip Chicken",
+    "description": "Cuisine: Korean, Chicken, Pizza | 160-24 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8267473, 40.7613084]
+  },
+
+  "properties": {
+    "title": "San Soo Kap San",
+    "description": "Cuisine: Korean, Barbecue, Sushi | 38-13 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82813, 40.76033]
+  },
+
+  "properties": {
+    "title": "Lucia Pizza",
+    "description": "Cuisine: Pizza, Italian | 136-55 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8210271, 40.7674093]
+  },
+
+  "properties": {
+    "title": "Delicias Hispanas Deli",
+    "description": "Cuisine: Delis, Sandwiches | 146-01 34th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.81344, 40.762474]
+  },
+
+  "properties": {
+    "title": "Luxury Fusion",
+    "description": "Cuisine: Korean | 41-13 150th St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8265948, 40.77146510000001]
+  },
+
+  "properties": {
+    "title": "Noodle Flower",
+    "description": "Cuisine: Korean | 29-18 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83117829999999, 40.7636968]
+  },
+
+  "properties": {
+    "title": "Magna Ristorante",
+    "description": "Cuisine: Italian | 35-25 Farrington St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7954139, 40.757945]
+  },
+
+  "properties": {
+    "title": "San Soo Kap San",
+    "description": "Cuisine: Korean, Barbecue | 171-10 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83535789999999, 40.7569735]
+  },
+
+  "properties": {
+    "title": "Five Guys Burgers & Fries",
+    "description": "Cuisine: Burgers | 40-24 College Point Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82253, 40.764463]
+  },
+
+  "properties": {
+    "title": "Samwongahk",
+    "description": "Cuisine: Chinese | 144-20 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8259411, 40.7434878]
+  },
+
+  "properties": {
+    "title": "Kan Wah",
+    "description": "Cuisine: Chinese | 59-14 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7865953, 40.7404607]
+  },
+
+  "properties": {
+    "title": "David's Cookies",
+    "description": "Cuisine: Pastry | 61-08 188th St., Fresh Meadows NY 11365",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8047801, 40.7559809]
+  },
+
+  "properties": {
+    "title": "Dae Sung Kal Kuk Soo",
+    "description": "Cuisine: Korean, Noodle Shops | 45-14 162nd St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80488919999999, 40.7625103]
+  },
+
+  "properties": {
+    "title": "Cheong Hae Jin",
+    "description": "Cuisine: Korean, Sushi, Japanese | 160-20 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.81349949999999, 40.7650989]
+  },
+
+  "properties": {
+    "title": "East Seafood",
+    "description": "Cuisine: Korean, Sushi | 150-60 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8149657, 40.7755875]
+  },
+
+  "properties": {
+    "title": "NY & Seoul",
+    "description": "Cuisine: Korean, Barbecue | 41-05 150th St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.814351, 40.764824]
+  },
+
+  "properties": {
+    "title": "Gateaux Bakery & Cafe",
+    "description": "Cuisine: Cafes & Coffeehouses | 150-24 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.79557779999999, 40.7580302]
+  },
+
+  "properties": {
+    "title": "El Rancho",
+    "description": "Cuisine: South American | 171-03 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82758609999999, 40.7602179]
+  },
+
+  "properties": {
+    "title": "Mapo Galmaegi",
+    "description": "Cuisine: Korean, Barbecue | 136-71 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Fay Da Bakery",
+    "description": "Cuisine: Chinese | 41-33 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8169913, 40.7528258]
+  },
+
+  "properties": {
+    "title": "Temple Canteen",
+    "description": "Cuisine: Indian | 45-57 Bowne St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8288431, 40.7575194]
+  },
+
+  "properties": {
+    "title": "No. 1 East",
+    "description": "Cuisine: Chinese | 41-27 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82798679999999, 40.7551876]
+  },
+
+  "properties": {
+    "title": "Tai Pan Bakery",
+    "description": "Cuisine: Chinese | 42-05 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8316193, 40.75636720000001]
+  },
+
+  "properties": {
+    "title": "Sun Mary",
+    "description": "Cuisine: Bakeries | 133-57 41st Rd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.81482439999999, 40.7620155]
+  },
+
+  "properties": {
+    "title": "Hahm Ji Bach",
+    "description": "Cuisine: Korean | 41-08 149th Pl, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Regina Pizzeria",
+    "description": "Cuisine: Pizza, Italian | 60-08 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82769449999999, 40.7546369]
+  },
+
+  "properties": {
+    "title": "Dumpling Galaxy",
+    "description": "Cuisine: Dumpling | 42-35 Main St., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8269031, 40.7638912]
+  },
+
+  "properties": {
+    "title": "Kum Gang San",
+    "description": "Cuisine: Korean | 138-28 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Great House",
+    "description": "Cuisine: Chinese | 41-13 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83296949999999, 40.7539614]
+  },
+
+  "properties": {
+    "title": "Fay Da Bakery",
+    "description": "Cuisine: Chinese | 40-24 College Point Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8273029, 40.7539473]
+  },
+
+  "properties": {
+    "title": "Kabul Kabob House",
+    "description": "Cuisine: Central Asian, Persian | 42-51 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82580800000001, 40.751624]
+  },
+
+  "properties": {
+    "title": "Al Rahmania",
+    "description": "Cuisine: Indian, Pakistani | 43-39 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8269031, 40.7638912]
+  },
+
+  "properties": {
+    "title": "Janchi Janchi",
+    "description": "Cuisine: Korean | 138-28 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.78914809999999, 40.765817]
+  },
+
+  "properties": {
+    "title": "Primo Amore",
+    "description": "Cuisine: Italian | 34-33 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8332083, 40.7538829]
+  },
+
+  "properties": {
+    "title": "Las Hermanas",
+    "description": "Cuisine: Latin American | 42-26 College Point Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83283279999999, 40.7600184]
+  },
+
+  "properties": {
+    "title": "Pho Vietnamese Cuisine",
+    "description": "Cuisine: Vietnamese | 38-02 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7927457, 40.7529952]
+  },
+
+  "properties": {
+    "title": "Moon Star",
+    "description": "Cuisine: Chinese | 172-16 46th Ave, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8254942, 40.7586735]
+  },
+
+  "properties": {
+    "title": "Poon Deli Convenience",
+    "description": "Cuisine: Delis, Sandwiches | 41-23 Union St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80411959999999, 40.7613052]
+  },
+
+  "properties": {
+    "title": "Milk Barn Farms",
+    "description": "Cuisine: Delis, Sandwiches | 41-02 162nd St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Woo Chon",
+    "description": "Cuisine: Korean, Barbecue | 41-19 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.829714, 40.7587648]
+  },
+
+  "properties": {
+    "title": "Barone Pizza",
+    "description": "Cuisine: Pizza, Italian | 40-27 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80354969999999, 40.7613878]
+  },
+
+  "properties": {
+    "title": "La Amistad Bakery",
+    "description": "Cuisine: South American, Bakeries | 40-37 162nd St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8262441, 40.7596116]
+  },
+
+  "properties": {
+    "title": "Mani 1",
+    "description": "Cuisine: Chinese | 40-26 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8041148, 40.7606957]
+  },
+
+  "properties": {
+    "title": "New Asian",
+    "description": "Cuisine: Chinese | 41-24 162nd St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "SINGAS",
+    "description": "Cuisine: Italian | 43-69 Kissena Blvd., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82240270000001, 40.7572504]
+  },
+
+  "properties": {
+    "title": "Venice Pizza",
+    "description": "Cuisine: Pizza, Italian | 41-94 Bowne St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82786899999999, 40.766517]
+  },
+
+  "properties": {
+    "title": "Gaji Gaji",
+    "description": "Cuisine: Korean | 34-12 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82688569999999, 40.7519411]
+  },
+
+  "properties": {
+    "title": "New York Handu BBQ",
+    "description": "Cuisine: Chinese | 43-18 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8260645, 40.751886]
+  },
+
+  "properties": {
+    "title": "Choopan Kabab",
+    "description": "Cuisine: Halal | 43-27 Main Street, Flushing NY 11367",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Lao Dong Bei",
+    "description": "Cuisine: North East Chinese | 44-09 Kissena Blvd., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.814949, 40.763238]
+  },
+
+  "properties": {
+    "title": "Geum Sung",
+    "description": "Cuisine: Korean | 40-07 149th Pl, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8230471, 40.7647686]
+  },
+
+  "properties": {
+    "title": "Peking Chinese Restaurant",
+    "description": "Cuisine: Chinese | 144-11 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.832701, 40.758926]
+  },
+
+  "properties": {
+    "title": "Taiwanes Food",
+    "description": "Cuisine: Chinese | 133-49 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8465989, 40.7744913]
+  },
+
+  "properties": {
+    "title": "JC Deli",
+    "description": "Cuisine: Delis, Sandwiches | 25-75 College Point Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82556559999999, 40.7643282]
+  },
+
+  "properties": {
+    "title": "Peking Empire",
+    "description": "Cuisine: Chinese | 141-06 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.822366, 40.7269921]
+  },
+
+  "properties": {
+    "title": "Sandwich Bar",
+    "description": "Cuisine: Sandwiches | 71-32 Main St, Flushing NY 11367",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7954556, 40.7729731]
+  },
+
+  "properties": {
+    "title": "Matese Pizzeria",
+    "description": "Cuisine: Pizza, Italian | 26-15 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8358525, 40.7590497]
+  },
+
+  "properties": {
+    "title": "Mandu Factory",
+    "description": "Cuisine: Korean | 131-01 39th Ave, Flushing NY 13354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Ke Zhang",
+    "description": "Cuisine: Chinese | 45-72 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83075199999999, 40.7584609]
+  },
+
+  "properties": {
+    "title": "Shanghai Tide",
+    "description": "Cuisine: Chinese | 135-20 40th Rd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8024628, 40.7609451]
+  },
+
+  "properties": {
+    "title": "Rolly Kimbab",
+    "description": "Cuisine: Korean | 163-16 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Fukuoka Shabu Shabu",
+    "description": "Cuisine: Chinese | 45-68 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8316028, 40.7635044]
+  },
+
+  "properties": {
+    "title": "Spicy King",
+    "description": "Cuisine: Chinese | 35-34 Farrington St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8259447, 40.7434246]
+  },
+
+  "properties": {
+    "title": "Kung Fu Xiao Long Bao",
+    "description": "Cuisine: Shanghai | 59-16 Main St., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.808048, 40.7637119]
+  },
+
+  "properties": {
+    "title": "Axis Bar",
+    "description": "Cuisine: Korean, Cocktails | 157-02 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8289593, 40.7588413]
+  },
+
+  "properties": {
+    "title": "Red Chopstick",
+    "description": "Cuisine: Chinese | 136-17 41st Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8154605, 40.7621889]
+  },
+
+  "properties": {
+    "title": "Su Ra Chung",
+    "description": "Cuisine: Korean | 149-09 41st Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8316365, 40.7597148]
+  },
+
+  "properties": {
+    "title": "Deluge",
+    "description": "Cuisine: Asian Fusion | 135-20 39th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8040169, 40.7615797]
+  },
+
+  "properties": {
+    "title": "Fratelli Pizzeria",
+    "description": "Cuisine: Pizza, Sandwiches | 40-36 162nd St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7960117, 40.77330449999999]
+  },
+
+  "properties": {
+    "title": "Pizza Club Slices & Squares",
+    "description": "Cuisine: Pizza, Italian | 25-71 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Tost Cafe",
+    "description": "Cuisine: Cafes & Coffeehouses | 60-10 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.832852, 40.758869]
+  },
+
+  "properties": {
+    "title": "Little Pepper Hot Pot",
+    "description": "Cuisine: Chinese | 133-43 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8306868, 40.7607289]
+  },
+
+  "properties": {
+    "title": "AH2 Ice Tea",
+    "description": "Cuisine: Tea | 38-03 Main St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8296149, 40.7608044]
+  },
+
+  "properties": {
+    "title": "Koreana",
+    "description": "Cuisine: Korean, Barbecue, Sushi | 136-20 38th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8285063, 40.7590465]
+  },
+
+  "properties": {
+    "title": "Henan Feng Wei",
+    "description": "Cuisine: Chinese | 136-31 41st Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.830952, 40.758802]
+  },
+
+  "properties": {
+    "title": "Xiao Du Hui",
+    "description": "Cuisine: Chinese | 135-19 40th Rd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83275650000002, 40.7589104]
+  },
+
+  "properties": {
+    "title": "New Golden Szechuan",
+    "description": "Cuisine: Szechuan | 133-47 Roosevelt Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80041109999999, 40.7600219]
+  },
+
+  "properties": {
+    "title": "Bangane",
+    "description": "Cuisine: Korean | 165-19 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8250302, 40.7574966]
+  },
+
+  "properties": {
+    "title": "Gong Cha",
+    "description": "Cuisine: Tea | 40-06 Union St., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Pho Hong",
+    "description": "Cuisine: Vietnamese | 41-01 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.830153, 40.761179]
+  },
+
+  "properties": {
+    "title": "Minnis Shabu Shabu II",
+    "description": "Cuisine: Chinese | 136-17 38th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8292163, 40.7603288]
+  },
+
+  "properties": {
+    "title": "Jade Asian",
+    "description": "Cuisine: Chinese | 136-28 39th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.830612, 40.758924]
+  },
+
+  "properties": {
+    "title": "Curry Leaves Malaysian",
+    "description": "Cuisine: Malaysian | 135-31 40th Rd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7875262, 40.7581231]
+  },
+
+  "properties": {
+    "title": "El Patron",
+    "description": "Cuisine: Mexican | 194-01 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7874367, 40.7581296]
+  },
+
+  "properties": {
+    "title": "Galbi Ma Eul",
+    "description": "Cuisine: Korean, Barbecue | 194-03 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83444899999999, 40.7692443]
+  },
+
+  "properties": {
+    "title": "Domand Deli & Caterers",
+    "description": "Cuisine: Delis, Sandwiches | 30-29 Stratton St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82710399999999, 40.752203]
+  },
+
+  "properties": {
+    "title": "Bubblechai Sushi",
+    "description": "Cuisine: Japanese | 43-06 Main St., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8147324, 40.7623544]
+  },
+
+  "properties": {
+    "title": "Mae Il Jan Chi",
+    "description": "Cuisine: Korean | 149-32 41st Ave., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7902531, 40.7679324]
+  },
+
+  "properties": {
+    "title": "Big Apple",
+    "description": "Cuisine: Chinese | 32-55 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Lucky Hand Pull Noodle House",
+    "description": "Cuisine: Chinese | 46-22 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8260533, 40.74401]
+  },
+
+  "properties": {
+    "title": "88 Canteen",
+    "description": "Cuisine: Taiwanese | 58-46 Main St., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Yi-Jia",
+    "description": "Cuisine: Chinese | 46-26 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Tasty House 18",
+    "description": "Cuisine: Chinese | 44-12 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8269811, 40.7714919]
+  },
+
+  "properties": {
+    "title": "Great East",
+    "description": "Cuisine: Chinese | 29-30 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.829437, 40.757178]
+  },
+
+  "properties": {
+    "title": "New Super Snack",
+    "description": "Cuisine: Asian (other) | 41-28 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83364499999999, 40.7589929]
+  },
+
+  "properties": {
+    "title": "Mogu Sushi",
+    "description": "Cuisine: Japanese, Sushi | 133-22 39th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Yu Garden",
+    "description": "Cuisine: Shanghai | 46-20 Kissena Blvd., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8316718, 40.7641952]
+  },
+
+  "properties": {
+    "title": "Zebra Lounge",
+    "description": "Cuisine: Asian Fusion, Cocktails | 35-06 Farrington St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8226588, 40.754257]
+  },
+
+  "properties": {
+    "title": "Golden Palace",
+    "description": "Cuisine: Chinese | 140-09 Cherry Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8259447, 40.7434246]
+  },
+
+  "properties": {
+    "title": "Tasty Roast House",
+    "description": "Cuisine: Chinese | 59-16 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8269576, 40.7713861]
+  },
+
+  "properties": {
+    "title": "GaHwa",
+    "description": "Cuisine: Korean | 29-32 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83018100000001, 40.7601218]
+  },
+
+  "properties": {
+    "title": "Taipan Snack",
+    "description": "Cuisine: Chinese | 39-01 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8329945, 40.760606]
+  },
+
+  "properties": {
+    "title": "KULU Desserts",
+    "description": "Cuisine: Desserts | 37-06 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8295407, 40.7581507]
+  },
+
+  "properties": {
+    "title": "Shi Li Xiang",
+    "description": "Cuisine: Chinese | 133-58 41 Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83535789999999, 40.7569735]
+  },
+
+  "properties": {
+    "title": "Coco Fresh Tea & Juice",
+    "description": "Cuisine: Teahouses, Desserts | 40-24 College Point Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82711619999999, 40.753275]
+  },
+
+  "properties": {
+    "title": "Yi Lan",
+    "description": "Cuisine: Chinese | 42-79A Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.831344, 40.7671149]
+  },
+
+  "properties": {
+    "title": "Golden Deli",
+    "description": "Cuisine: Delis, Sandwiches | 32-21 Linden Pl, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8113937, 40.76456779999999]
+  },
+
+  "properties": {
+    "title": "Northern Sushi",
+    "description": "Cuisine: Japanese, Sushi | 153-14 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8307937, 40.7608666]
+  },
+
+  "properties": {
+    "title": "Fay Da Bakery",
+    "description": "Cuisine: Chinese | 41-60 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7910626, 40.7675863]
+  },
+
+  "properties": {
+    "title": "Sushi Village",
+    "description": "Cuisine: Japanese, Sushi | 32-50 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.831811, 40.763794]
+  },
+
+  "properties": {
+    "title": "Mamak",
+    "description": "Cuisine: Malaysian | 35-20 Farrington St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8157492, 40.7554185]
+  },
+
+  "properties": {
+    "title": "Sunrise Cafe",
+    "description": "Cuisine: Diners & Coffee Shops | 45-04 Parsons Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8324959, 40.7603239]
+  },
+
+  "properties": {
+    "title": "Prince Noodle House",
+    "description": "Cuisine: Szechuan | 37-17 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83196819999999, 40.75950539999999]
+  },
+
+  "properties": {
+    "title": "Sentosa",
+    "description": "Cuisine: Malaysian | 39-07 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290528, 40.7593211]
+  },
+
+  "properties": {
+    "title": "Haagen-Dazs",
+    "description": "Cuisine: Desserts | 136-20 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8255257, 40.7429038]
+  },
+
+  "properties": {
+    "title": "Corner 28",
+    "description": "Cuisine: Sushi | 40-28 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8254164, 40.74257739999999]
+  },
+
+  "properties": {
+    "title": "Lake Pavilion",
+    "description": "Cuisine: Chinese | 60-15 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Kung Fu Tea",
+    "description": "Cuisine: Chinese | 41-11 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8046492, 40.76219450000001]
+  },
+
+  "properties": {
+    "title": "Happy Karaoke",
+    "description": "Cuisine: Korean | 160-30 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8303347, 40.7611508]
+  },
+
+  "properties": {
+    "title": "Zebra Lounge 2",
+    "description": "Cuisine: Chinese | 136-11 38th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8282729, 40.7643832]
+  },
+
+  "properties": {
+    "title": "Chung Ah",
+    "description": "Cuisine: Korean | 35-38 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8087592, 40.7632644]
+  },
+
+  "properties": {
+    "title": "Sukarak",
+    "description": "Cuisine: Korean | 156-28 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8321798, 40.7615159]
+  },
+
+  "properties": {
+    "title": "Good Kitchen Seafood",
+    "description": "Cuisine: Cantonese | 135-29 37th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.825705, 40.75151400000001]
+  },
+
+  "properties": {
+    "title": "First Hot Pot",
+    "description": "Cuisine: Szechuan | 43-45 Main Street, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8298118, 40.7605752]
+  },
+
+  "properties": {
+    "title": "Mulan",
+    "description": "Cuisine: Asian Fusion | 136-17 39th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8330494, 40.7607303]
+  },
+
+  "properties": {
+    "title": "Peking Duck House",
+    "description": "Cuisine: Chinese | 37-02 Prince St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83121299999999, 40.758699]
+  },
+
+  "properties": {
+    "title": "101 Taiwanese",
+    "description": "Cuisine: Chinese | 135-11 40th Rd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8333431, 40.7605342]
+  },
+
+  "properties": {
+    "title": "Yu Sushi & Bar",
+    "description": "Cuisine: Sushi | 133-44 37th Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8259411, 40.7434878]
+  },
+
+  "properties": {
+    "title": "Main Street Imperial Gourmet",
+    "description": "Cuisine: Asian (other) | 59-14 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.814735, 40.755339]
+  },
+
+  "properties": {
+    "title": "Pioneer Cuisine",
+    "description": "Cuisine: Taiwanese | 45-21 Parsons Blvd., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83161199999999, 40.761745]
+  },
+
+  "properties": {
+    "title": "Grand Shanghai Restaurant",
+    "description": "Cuisine: Shanghai | 36-50 Main St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8327345, 40.7599528]
+  },
+
+  "properties": {
+    "title": "Canton Gourmet",
+    "description": "Cuisine: Cantonese | 38-06 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80420590000001, 40.76077]
+  },
+
+  "properties": {
+    "title": "Kim Cha Yul",
+    "description": "Cuisine: Korean | 41-22 162 St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82827499999999, 40.763104]
+  },
+
+  "properties": {
+    "title": "Tasty Sweety",
+    "description": "Cuisine: Chinese | 36-22 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.830865, 40.761004]
+  },
+
+  "properties": {
+    "title": "River Japanese Cuisine",
+    "description": "Cuisine: Sushi | 37-18 Main St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8120227, 40.76461279999999]
+  },
+
+  "properties": {
+    "title": "Geo Si Gi",
+    "description": "Cuisine: Korean | 152-28 Northern Blvd., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82771699999999, 40.755074]
+  },
+
+  "properties": {
+    "title": "Maple Garden",
+    "description": "Cuisine: Chinese | 42-09 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8052028, 40.7627613]
+  },
+
+  "properties": {
+    "title": "Hansol Nutrition Center",
+    "description": "Cuisine: Korean | 160-26 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8297046, 40.7580785]
+  },
+
+  "properties": {
+    "title": "Yun Tian Low Sea Food",
+    "description": "Cuisine: Chinese | 133-54 41st Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.79162099999999, 40.758066]
+  },
+
+  "properties": {
+    "title": "Sala",
+    "description": "Cuisine: Mediterranean | 189-11 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83238829999999, 40.76126240000001]
+  },
+
+  "properties": {
+    "title": "Dip Dip Hot Pot",
+    "description": "Cuisine: Hunan Szechuan | 135-21A 37th Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.826965, 40.76024]
+  },
+
+  "properties": {
+    "title": "Feng Mao BBQ",
+    "description": "Cuisine: BBQ Skewers | 136-88 Roosevelt Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8305506, 40.7611159]
+  },
+
+  "properties": {
+    "title": "Tai Pan Bakery",
+    "description": "Cuisine: Chinese, Bakeries | 37-25 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83148179999999, 40.7657852]
+  },
+
+  "properties": {
+    "title": "Shogun Palace",
+    "description": "Cuisine: Japanese, Sushi, Seafood | 34-20 Linden Pl, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8030864, 40.7620996]
+  },
+
+  "properties": {
+    "title": "Myung San",
+    "description": "Cuisine: Korean | 162-21 Depot Rd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83196819999999, 40.75950539999999]
+  },
+
+  "properties": {
+    "title": "King 5 Noodle House",
+    "description": "Cuisine: Chinese | 39-07 Prince St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83196819999999, 40.75950539999999]
+  },
+
+  "properties": {
+    "title": "Iris Tea & Bakery",
+    "description": "Cuisine: Desserts, Bakeries | 39-07 Prince St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83196819999999, 40.75950539999999]
+  },
+
+  "properties": {
+    "title": "A Taste of Shanghai",
+    "description": "Cuisine: Shanghai | 39-07 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8300579, 40.7611909]
+  },
+
+  "properties": {
+    "title": "Shiny Tea",
+    "description": "Cuisine: Chinese | 136-19 38th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8268925, 40.7607315]
+  },
+
+  "properties": {
+    "title": "Kimganae",
+    "description": "Cuisine: Korean | 39-12 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83165079999999, 40.7648952]
+  },
+
+  "properties": {
+    "title": "Debasaki",
+    "description": "Cuisine: Asian Fusion, Chicken | 33-67 Farrington St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82957660000001, 40.75793609999999]
+  },
+
+  "properties": {
+    "title": "Biang",
+    "description": "Cuisine: Chinese | 41-10 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7916566, 40.7577678]
+  },
+
+  "properties": {
+    "title": "GaHwa",
+    "description": "Cuisine: Korean | 189-08 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80573869999999, 40.763124]
+  },
+
+  "properties": {
+    "title": "Modurang Cafe",
+    "description": "Cuisine: Cafes & Coffeehouses | 159-25 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290528, 40.7593211]
+  },
+
+  "properties": {
+    "title": "SzeChuan Cuisine",
+    "description": "Cuisine: Chinese | 136-20 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82285329999999, 40.7646561]
+  },
+
+  "properties": {
+    "title": "Zhen Wei Zhen",
+    "description": "Cuisine: Chinese | 144-18 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.81072600000002, 40.764891]
+  },
+
+  "properties": {
+    "title": "Sulrak Garden",
+    "description": "Cuisine: Korean, Barbecue | 154-01 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8309889, 40.7599921]
+  },
+
+  "properties": {
+    "title": "Ku Shiang",
+    "description": "Cuisine: Chinese | 135-40 39th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "East Manor",
+    "description": "Cuisine: Chinese | 46-45 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8315744, 40.75868759999999]
+  },
+
+  "properties": {
+    "title": "Sifu Chio",
+    "description": "Cuisine: Chinese | 40-09 Prince St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83257809999999, 40.7611623]
+  },
+
+  "properties": {
+    "title": "Szechuan Gourmet",
+    "description": "Cuisine: Szechuan | 135-15 37th Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8197976, 40.7654095]
+  },
+
+  "properties": {
+    "title": "J & J Sandwich King",
+    "description": "Cuisine: Delis, Sandwiches | 146-25 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8309227, 40.7611914]
+  },
+
+  "properties": {
+    "title": "Fay Da Bakery",
+    "description": "Cuisine: Chinese | 37-11 Main St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82679499999999, 40.759374]
+  },
+
+  "properties": {
+    "title": "Il Bok",
+    "description": "Cuisine: Chinese | 136-77 41st Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8244026, 40.7760223]
+  },
+
+  "properties": {
+    "title": "Lotus Pad",
+    "description": "Cuisine: Chinese | 25-25 Parsons Blvd., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8259441, 40.7436134]
+  },
+
+  "properties": {
+    "title": "New Bodai Vegetarian",
+    "description": "Cuisine: Chinese | 59-08 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7934781, 40.7701871]
+  },
+
+  "properties": {
+    "title": "Kati Allo",
+    "description": "Cuisine: Greek | 29-06 172nd St, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83081, 40.758854]
+  },
+
+  "properties": {
+    "title": "Gui Lin Mi Fen",
+    "description": "Cuisine: Mix Chinese | 135-25 40th Rd., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8103005, 40.7643006]
+  },
+
+  "properties": {
+    "title": "Gaja Gaja",
+    "description": "Cuisine: Korean | 154-28 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8281355, 40.76512779999999]
+  },
+
+  "properties": {
+    "title": "Ailan Bakery",
+    "description": "Cuisine: Chinese | 35-06 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80696449999999, 40.7633877]
+  },
+
+  "properties": {
+    "title": "Boulevard Deli",
+    "description": "Cuisine: Delis | 158-25 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83196819999999, 40.75950539999999]
+  },
+
+  "properties": {
+    "title": "Sunway Restaurant",
+    "description": "Cuisine: Cantonese | 39-07 Prince St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82647109999999, 40.76031529999999]
+  },
+
+  "properties": {
+    "title": "Fried Dumpling",
+    "description": "Cuisine: Chinese | 40-04 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8306391, 40.76187669999999]
+  },
+
+  "properties": {
+    "title": "Imperial Palace",
+    "description": "Cuisine: Chinese | 136-13 37th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82878099999999, 40.758925]
+  },
+
+  "properties": {
+    "title": "Spring Fish Village",
+    "description": "Cuisine: Szechuan | 136-21 41st Ave., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8330235, 40.7606738]
+  },
+
+  "properties": {
+    "title": "Mapo Szechuan",
+    "description": "Cuisine: Chinese | 37-04 Prince St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.83104569999999, 40.7599913]
+  },
+
+  "properties": {
+    "title": "Ku-Shiang",
+    "description": "Cuisine: Taiwanese | 135-38 39th Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Pho Bang",
+    "description": "Cuisine: Vietnamese | 41-07 Kissena Blvd, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8120977, 40.7646289]
+  },
+
+  "properties": {
+    "title": "Bonjuk",
+    "description": "Cuisine: Korean | 152-26 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.810315, 40.76411299999999]
+  },
+
+  "properties": {
+    "title": "Palazzo",
+    "description": "Cuisine: Asian Fusion | 154-17 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8015887, 40.7605829]
+  },
+
+  "properties": {
+    "title": "Nolbu Sushi",
+    "description": "Cuisine: Korean, Sushi | 164-25 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.815417, 40.761922]
+  },
+
+  "properties": {
+    "title": "Pho 32 N Shabu",
+    "description": "Cuisine: Vietnamese | 14906 41st Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8460186, 40.7824483]
+  },
+
+  "properties": {
+    "title": "Little Pepper",
+    "description": "Cuisine: Szechuan | 18-24 College Point Blvd., Flushing NY 11356",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8079092, 40.76366549999999]
+  },
+
+  "properties": {
+    "title": "Shin Hwang Je Topokki",
+    "description": "Cuisine: Korean | 157-22 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8266873, 40.75227719999999]
+  },
+
+  "properties": {
+    "title": "Arita Ichiban",
+    "description": "Cuisine: Japanese | 43-07 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.80868889999999, 40.7639077]
+  },
+
+  "properties": {
+    "title": "Kyochon",
+    "description": "Cuisine: Chicken | 156-52 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82567900000001, 40.7455975]
+  },
+
+  "properties": {
+    "title": "Phil & Sons",
+    "description": "Cuisine: Italian | 57-29 Main St., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8140925, 40.765154]
+  },
+
+  "properties": {
+    "title": "Jang Soo Chon",
+    "description": "Cuisine: Korean, Barbecue | 150-32 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82581789999999, 40.74300179999999]
+  },
+
+  "properties": {
+    "title": "Happy Garden",
+    "description": "Cuisine: Chinese | 60-06 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8251867, 40.7605964]
+  },
+
+  "properties": {
+    "title": "Jin Cheng",
+    "description": "Cuisine: Chinese | 142-38 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8327455, 40.76077009999999]
+  },
+
+  "properties": {
+    "title": "White Bear",
+    "description": "Cuisine: Chinese | 135-02 Prince St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8186367, 40.761304]
+  },
+
+  "properties": {
+    "title": "Feng Mao",
+    "description": "Cuisine: Chinese | 136-80 41st Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8298445, 40.7684456]
+  },
+
+  "properties": {
+    "title": "Old Street Food Place",
+    "description": "Cuisine: Chinese | 86 138th St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8170987, 40.7544637]
+  },
+
+  "properties": {
+    "title": "Yummy House",
+    "description": "Cuisine: Chinese | 144-20 45th Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.81845179999999, 40.765182]
+  },
+
+  "properties": {
+    "title": "Extra Cheese Pizzeria",
+    "description": "Cuisine: Pizza | 147-20 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8051335, 40.7629702]
+  },
+
+  "properties": {
+    "title": "Java Day Cafe",
+    "description": "Cuisine: Cafes & Coffeehouses | 160-09 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8265961, 40.7716279]
+  },
+
+  "properties": {
+    "title": "Na Moo Dol",
+    "description": "Cuisine: Korean | 29-02 Union St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.81756759999999, 40.76527979999999]
+  },
+
+  "properties": {
+    "title": "Dynasty Chinese",
+    "description": "Cuisine: Chinese | 147-46 Northern Blvd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7941883, 40.7536924]
+  },
+
+  "properties": {
+    "title": "Sheehans",
+    "description": "Cuisine: Sandwiches, Bar Food | 171-57 46th Ave, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.830434, 40.758595]
+  },
+
+  "properties": {
+    "title": "Meishi Lin",
+    "description": "Cuisine: Chinese | 135-32 40th Rd, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82878099999999, 40.758925]
+  },
+
+  "properties": {
+    "title": "Hot Pot House",
+    "description": "Cuisine: Chinese | 136-21 41st Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8286956, 40.7572907]
+  },
+
+  "properties": {
+    "title": "Latin Bakery",
+    "description": "Cuisine: Latin American, Bakeries | 41-41 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8060182, 40.7536821]
+  },
+
+  "properties": {
+    "title": "Punjabi Deli & Restaurant",
+    "description": "Cuisine: Indian | 160-20 46th Ave, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82565, 40.745482]
+  },
+
+  "properties": {
+    "title": "Shanghai Cuisine 33",
+    "description": "Cuisine: Chinese | 57-33 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7897655, 40.76685080000001]
+  },
+
+  "properties": {
+    "title": "Yamato Sushi",
+    "description": "Cuisine: Sushi, Japanese | 33-23 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82824289999999, 40.7571151]
+  },
+
+  "properties": {
+    "title": "Guan Dong Yi Jia",
+    "description": "Cuisine: North East Chinese | 46-09 Kissena Blvd., Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8280638, 40.7628169]
+  },
+
+  "properties": {
+    "title": "Sugar Sugar Dessert",
+    "description": "Cuisine: Dessert | 36-30 Union St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8310873, 40.75746789999999]
+  },
+
+  "properties": {
+    "title": "iCook Hot Pot",
+    "description": "Cuisine: Korean, Soups | 133-24 41st Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8265659, 40.760188]
+  },
+
+  "properties": {
+    "title": "T-swirl Crepe",
+    "description": "Cuisine: Dessert | 40-08 Union St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8328344, 40.7613198]
+  },
+
+  "properties": {
+    "title": "Prince Tea House",
+    "description": "Cuisine: Desserts | 36-39 Prince St, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.82813, 40.76033]
+  },
+
+  "properties": {
+    "title": "Gui Zhou Miao Zia",
+    "description": "Cuisine: Taiwanese | 136-55 Roosevelt Ave., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8071988, 40.7634619]
+  },
+
+  "properties": {
+    "title": "Doraon 1.5 Dak Galbi",
+    "description": "Cuisine: Korean, Chicken | 158-03 Northern Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290528, 40.7593211]
+  },
+
+  "properties": {
+    "title": "Mojoilla Fresh",
+    "description": "Cuisine: Crepes, Desserts | 136-20 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290528, 40.7593211]
+  },
+
+  "properties": {
+    "title": "Live Seafood",
+    "description": "Cuisine: Chinese | 136-20 Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7901949, 40.7670392]
+  },
+
+  "properties": {
+    "title": "Ginza",
+    "description": "Cuisine: Japanese, Sushi | 33-41 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8264806, 40.7601089]
+  },
+
+  "properties": {
+    "title": "Hao Shi Lai",
+    "description": "Cuisine: Chinese |  4010 Union St., Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8290288, 40.7598529]
+  },
+
+  "properties": {
+    "title": "Yohielo",
+    "description": "Cuisine: Desserts | 136 27A Roosevelt Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.833541, 40.759974]
+  },
+
+  "properties": {
+    "title": "Han Kou Steaks & Appetizer",
+    "description": "Cuisine: Chinese | 133-31 39th Ave, Flushing NY 11354",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.8273262, 40.7540613]
+  },
+
+  "properties": {
+    "title": "Hunan Kitchen of Grand Sichuan",
+    "description": "Cuisine: Chinese | 42-47 Main St, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.7959932, 40.7732948]
+  },
+
+  "properties": {
+    "title": "Nagoya",
+    "description": "Cuisine: Japanese, Sushi | 25-73 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.85124979999999, 40.78906569999999]
+  },
+
+  "properties": {
+    "title": "Vanegas Caterers",
+    "description": "Cuisine: Eclectic & International | 11512 9th Ave, Flushing NY 11356",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.79616109999999, 40.7733837]
+  },
+
+  "properties": {
+    "title": "King Wok",
+    "description": "Cuisine: Chinese | 25-67 Francis Lewis Blvd, Flushing NY 11358",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+},
+
+{
+  "type": "Feature",
+
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.81540400000002, 40.762204]
+  },
+
+  "properties": {
+    "title": "Panda King",
+    "description": "Cuisine: Chinese | 149-11 41st Ave, Flushing NY 11355",
+    "marker-color": "#f86767",
+    "marker-size": "small",
+    "marker-symbol": "restaurant"
+  }
+} ]
