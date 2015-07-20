@@ -239,7 +239,6 @@
                     </h4>
                     <p>65-30 Kissena Boulevard<br>Flushing, NY 11367</p>
                     <ul class="list-unstyled">
-                        <li><i class="fa fa-phone fa-fw"></i> (123) 456-7890</li>
                         <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:info@quic.nyc">info@quic.nyc</a>
                         </li>
                     </ul>
@@ -299,7 +298,9 @@
         L.mapbox.accessToken = 'pk.eyJ1IjoiYXJ5YW5qYWJiYXJpIiwiYSI6IjJhMGM3Y2VjZGU2ZjRhZTVjZGRkYjYzMzI4MmMzMDNiIn0.kZlSR_oToMC4VOmNCIfIfg';
         var map = L.mapbox.map('map', 'aryanjabbari.cb525595', { zoomControl: false});
         
-        map.scrollWheelZoom.disable();       
+        map.scrollWheelZoom.disable();
+        map.touchZoom.disable();
+        map.dragging.disable();
     </script>
 
 </body>
