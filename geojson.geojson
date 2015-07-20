@@ -10,7 +10,7 @@
   "properties": {
     "title": "Arya Kabab House",
     "description": "Cuisine: Other<br>33-35 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -27,7 +27,7 @@
   "properties": {
     "title": "Da Myun",
     "description": "Cuisine: Korean, Noodle Shops<br>41-10 162nd St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -44,7 +44,7 @@
   "properties": {
     "title": "Hang",
     "description": "Cuisine: Mala Tang<br>133-35 Roosevelt Ave., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -61,7 +61,7 @@
   "properties": {
     "title": "Kissa Bar",
     "description": "Cuisine: Mix<br>133-42 37th Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -78,7 +78,7 @@
   "properties": {
     "title": "Teaus",
     "description": "Cuisine: Teahouses<br>40-10 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -95,7 +95,7 @@
   "properties": {
     "title": "Moon Cafe",
     "description": "Cuisine: Cafes & Coffeehouses<br>137-06 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -112,7 +112,7 @@
   "properties": {
     "title": "Lanzhou Handmade Noodle",
     "description": "Cuisine: Chinese<br>41-28 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -129,7 +129,7 @@
   "properties": {
     "title": "Fruitti Yummi",
     "description": "Cuisine: Desserts<br>57-51 Myrtle Ave, Flushing NY 11385",
-    "marker-color": "#f86767",
+    "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -145,8 +145,8 @@
 
   "properties": {
     "title": "Magic Tea House",
-    "description": "Cuisine: Dessert<br>135-03 Roosevelt Ave., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "description": "Cuisine: Dessert<br>135-03 Roosevelt Ave., Flushing NY 11354",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -163,7 +163,7 @@
   "properties": {
     "title": "Chong Qing Hot Pot",
     "description": "Cuisine: Chinese<br>136-20 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -180,7 +180,7 @@
   "properties": {
     "title": "QQbee",
     "description": "Cuisine: Desserts, Asian (other)<br>40-10 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -197,7 +197,7 @@
   "properties": {
     "title": "Yummy Sushi House",
     "description": "Cuisine: Sushi<br>135-11 38th Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -214,7 +214,7 @@
   "properties": {
     "title": "Palace Restaurant",
     "description": "Cuisine: Chinese<br>136-55 Roosevelt Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -231,7 +231,7 @@
   "properties": {
     "title": "Kalamaki GR",
     "description": "Cuisine: Greek, Mediterranean<br>29-06 172nd St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -248,7 +248,7 @@
   "properties": {
     "title": "Mango Mango",
     "description": "Cuisine: Dessert<br>133-35 Roosevelt Ave., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -265,7 +265,7 @@
   "properties": {
     "title": "JB Crispy Pancake",
     "description": "Cuisine: Taiwanese<br>133-35 Roosevelt Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -282,7 +282,7 @@
   "properties": {
     "title": "Piccolo Sogno Pizzeria Trttr",
     "description": "Cuisine: Italian, Pizza<br>195-14 47th Ave, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -299,7 +299,7 @@
   "properties": {
     "title": "Silk Hookah Lounge & Grill",
     "description": "Cuisine: Middle Eastern<br>192-08 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -316,7 +316,7 @@
   "properties": {
     "title": "North Shore Diner",
     "description": "Cuisine: Diners & Coffee Shops<br>196-52 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -333,7 +333,7 @@
   "properties": {
     "title": "Masuyo Asian Fusion",
     "description": "Cuisine: Japanese<br>73-01 Main St., Kew Gardens Hill NY 11367",
-    "marker-color": "#f86767",
+    "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -350,7 +350,7 @@
   "properties": {
     "title": "Gammeeok Tang",
     "description": "Cuisine: Korean<br>196-50 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -367,7 +367,7 @@
   "properties": {
     "title": "Sparkys Deli",
     "description": "Cuisine: Delis, Sandwiches<br>28-28 College Point Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -384,7 +384,7 @@
   "properties": {
     "title": "Baoding CFC",
     "description": "Cuisine: Chinese<br>42-05 162nd St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -401,7 +401,7 @@
   "properties": {
     "title": "Chung Moo",
     "description": "Cuisine: Korean, Sushi<br>39-04 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -418,7 +418,7 @@
   "properties": {
     "title": "Arirang Restaurant",
     "description": "Cuisine: Korean, Soups<br>41-04 163rd St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -435,7 +435,7 @@
   "properties": {
     "title": "Thanya Thai Cuisine",
     "description": "Cuisine: Thai<br>33-47 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -452,7 +452,7 @@
   "properties": {
     "title": "Kennedy Fried Chicken",
     "description": "Cuisine: Chicken<br>136-04 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -469,7 +469,7 @@
   "properties": {
     "title": "Cutting Board",
     "description": "Cuisine: Hong Kong<br>37-20 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -486,7 +486,7 @@
   "properties": {
     "title": "Lu's Seafood",
     "description": "Cuisine: Taiwanese<br>38-18 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -503,7 +503,7 @@
   "properties": {
     "title": "Nu Wok Kitchen",
     "description": "Cuisine: Chinese<br>60-06 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -520,7 +520,7 @@
   "properties": {
     "title": "Fu Run",
     "description": "Cuisine: North East Chinese<br>40-09 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -537,7 +537,7 @@
   "properties": {
     "title": "Tong Tong Tonkatsu",
     "description": "Cuisine: Japanese, Korean<br>146-17A Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -554,7 +554,7 @@
   "properties": {
     "title": "Shang Hai Si Fang Dis",
     "description": "Cuisine: Chinese<br>135-25 40th Rd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -571,7 +571,7 @@
   "properties": {
     "title": "Fay Da Bakery",
     "description": "Cuisine: Chinese<br>136-18 39th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -588,7 +588,7 @@
   "properties": {
     "title": "Lee-Soo Restaurant",
     "description": "Cuisine: Korean<br>152-24 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -605,7 +605,7 @@
   "properties": {
     "title": "Asian Gourmet",
     "description": "Cuisine: Sushi<br>57-11 Main St., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -622,7 +622,7 @@
   "properties": {
     "title": "Sushi Family Express",
     "description": "Cuisine: Japanese, Sushi, Korean<br>35-48 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -639,7 +639,7 @@
   "properties": {
     "title": "BBQ Village",
     "description": "Cuisine: Korean, Barbecue<br>157-26 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -656,7 +656,7 @@
   "properties": {
     "title": "Xiao Yuan Huan",
     "description": "Cuisine: Chinese<br>136-20 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -673,7 +673,7 @@
   "properties": {
     "title": "Kung Fu Tea",
     "description": "Cuisine: Cafes & Coffeehouses<br>136-20 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -690,7 +690,7 @@
   "properties": {
     "title": "Seoul Soon Dae",
     "description": "Cuisine: Korean<br>158-15 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -707,7 +707,7 @@
   "properties": {
     "title": "Spicy Road",
     "description": "Cuisine: Chinese<br>43-18 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -724,7 +724,7 @@
   "properties": {
     "title": "Mad For Chicken",
     "description": "Cuisine: Chicken, Korean<br>157-18 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -741,7 +741,7 @@
   "properties": {
     "title": "Nan Xiang Dumpling House",
     "description": "Cuisine: Shanghai<br>38-12 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -758,7 +758,7 @@
   "properties": {
     "title": "OK Ryan",
     "description": "Cuisine: Chinese<br>41-04 College Point Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -775,7 +775,7 @@
   "properties": {
     "title": "Yao Tai Lou",
     "description": "Cuisine: Chinese<br>135-25A 40th Rd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -792,7 +792,7 @@
   "properties": {
     "title": "Sik Gaek",
     "description": "Cuisine: Korean<br>161-29 Crocheron Ave, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -809,7 +809,7 @@
   "properties": {
     "title": "Grand Restaurant",
     "description": "Cuisine: Chinese<br>40-21 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -826,7 +826,7 @@
   "properties": {
     "title": "Mixx",
     "description": "Cuisine: Burgers, Sandwiches<br>44-03 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -843,7 +843,7 @@
   "properties": {
     "title": "Coco Fresh Tea & Juice",
     "description": "Cuisine: Teahouses, Desserts<br>39-22 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -860,7 +860,7 @@
   "properties": {
     "title": "Kato Cafe",
     "description": "Cuisine: Chinese<br>135-01 35th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -877,7 +877,7 @@
   "properties": {
     "title": "Asian Cafe",
     "description": "Cuisine: Asian Fusion<br>59-08 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -894,7 +894,7 @@
   "properties": {
     "title": "Francis Lewis Gourmet Deli",
     "description": "Cuisine: Delis, Sandwiches<br>32-61 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -911,7 +911,7 @@
   "properties": {
     "title": "Great Wall",
     "description": "Cuisine: Chinese<br>199-19 32nd Ave, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -928,7 +928,7 @@
   "properties": {
     "title": "Jjajang.com",
     "description": "Cuisine: Chinese, Korean, Seafood<br>150-05 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -945,7 +945,7 @@
   "properties": {
     "title": "Yupdduk NYC",
     "description": "Cuisine: Korean<br>157-22 Northern Blvd., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -962,7 +962,7 @@
   "properties": {
     "title": "Hly Chinese Cuisine",
     "description": "Cuisine: Chinese<br>43-23 Main St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -979,7 +979,7 @@
   "properties": {
     "title": "LZ Cafe",
     "description": "Cuisine: Chinese<br>136-20 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -996,7 +996,7 @@
   "properties": {
     "title": "Super Deli",
     "description": "Cuisine: Delis, Sandwiches<br>144-10 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1013,7 +1013,7 @@
   "properties": {
     "title": "Fay Da Bakery",
     "description": "Cuisine: Chinese<br>46-15 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1030,7 +1030,7 @@
   "properties": {
     "title": "Roll Zip",
     "description": "Cuisine: Korean, Japanese, Sushi<br>36-14 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1047,7 +1047,7 @@
   "properties": {
     "title": "Flushing Noodle Shop",
     "description": "Cuisine: Chinese<br>135-42 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1064,7 +1064,7 @@
   "properties": {
     "title": "KUNG FU HIBACHI",
     "description": "Cuisine: Asian Fusion<br>39-07 Prince St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1080,8 +1080,8 @@
 
   "properties": {
     "title": "Hunan House",
-    "description": "Cuisine: Hunan<br>137-40 Northern Blvd., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "description": "Cuisine: Hunan<br>137-40 Northern Blvd., Flushing NY 11354",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1098,7 +1098,7 @@
   "properties": {
     "title": "Bangkok Thai Cuisine",
     "description": "Cuisine: Thai<br>38-04 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1115,7 +1115,7 @@
   "properties": {
     "title": "Malay Restaurant",
     "description": "Cuisine: Malaysian<br>135-17 40th Rd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1132,7 +1132,7 @@
   "properties": {
     "title": "O' Crab!",
     "description": "Cuisine: Cajun<br>147-34 Northern Blvd., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1149,7 +1149,7 @@
   "properties": {
     "title": "Browne Park Deli",
     "description": "Cuisine: Delis, Sandwiches<br>150-09 Bayside Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1166,7 +1166,7 @@
   "properties": {
     "title": "Izakaya Kan",
     "description": "Cuisine: Korean, Japanese, Sushi<br>160-30 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1183,7 +1183,7 @@
   "properties": {
     "title": "Teaus",
     "description": "Cuisine: Tea<br>4010 Union St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1200,7 +1200,7 @@
   "properties": {
     "title": "BBQ Chicken",
     "description": "Cuisine: Chicken, Barbecue, Wings<br>158-23 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1217,7 +1217,7 @@
   "properties": {
     "title": "IHOP",
     "description": "Cuisine: Diners & Coffee Shops<br>155-17 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1234,7 +1234,7 @@
   "properties": {
     "title": "Hyderabadi Biryani",
     "description": "Cuisine: Indian<br>44-27 Kissena Blvd., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1251,7 +1251,7 @@
   "properties": {
     "title": "New Kissena",
     "description": "Cuisine: Chinese<br>44-29 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1268,7 +1268,7 @@
   "properties": {
     "title": "Flushing Best",
     "description": "Cuisine: Delis, Sandwiches<br>138-16 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1285,7 +1285,7 @@
   "properties": {
     "title": "Shanghai Cuisine 33",
     "description": "Cuisine: Shanghai<br>57-33 Main St., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1302,7 +1302,7 @@
   "properties": {
     "title": "Zhu Ji Dumpling Stall",
     "description": "Cuisine: Chinese<br>40-52 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1318,8 +1318,8 @@
 
   "properties": {
     "title": "New Age Market",
-    "description": "Cuisine: Dessert<br>160-06 Northern Blvd., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "description": "Cuisine: Dessert<br>160-06 Northern Blvd., Flushing NY 11358",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1336,7 +1336,7 @@
   "properties": {
     "title": "Gong Cha",
     "description": "Cuisine: Teahouses<br>136-20 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1353,7 +1353,7 @@
   "properties": {
     "title": "Red Bowl",
     "description": "Cuisine: Mix Chinese<br>40-52 Main St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1370,7 +1370,7 @@
   "properties": {
     "title": "Sol Hyang Gee",
     "description": "Cuisine: BBQ Skewers<br>136-73 41st Rd., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1387,7 +1387,7 @@
   "properties": {
     "title": "Crazy Crab",
     "description": "Cuisine: Chinese<br>40-42 College Point Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1404,7 +1404,7 @@
   "properties": {
     "title": "Xiao Dong Bei",
     "description": "Cuisine: North East Chinese<br>133-51 37th Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1421,7 +1421,7 @@
   "properties": {
     "title": "Chen Mapo Szechuan",
     "description": "Cuisine: Szechuan<br>37-04 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1438,7 +1438,7 @@
   "properties": {
     "title": "New Cathay",
     "description": "Cuisine: Chinese<br>195-12 47th Ave, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1455,7 +1455,7 @@
   "properties": {
     "title": "Michael & Sons",
     "description": "Cuisine: Italian, Pizza<br>192-13 47th Ave, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1472,7 +1472,7 @@
   "properties": {
     "title": "Mythos Authentic Greek Cuisine",
     "description": "Cuisine: Greek<br>196-29 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1489,7 +1489,7 @@
   "properties": {
     "title": "Dae Bak",
     "description": "Cuisine: Korean, Barbecue<br>146-06 34th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1506,7 +1506,7 @@
   "properties": {
     "title": "Mango Mango Dessert",
     "description": "Cuisine: Desserts<br>133-35 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1523,7 +1523,7 @@
   "properties": {
     "title": "Tous les Jours",
     "description": "Cuisine: Cafes & Coffeehouses<br>42-35 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1540,7 +1540,7 @@
   "properties": {
     "title": "Foo Kee Seafood",
     "description": "Cuisine: Chinese<br>136-14 38th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1557,7 +1557,7 @@
   "properties": {
     "title": "East Lake Seafood",
     "description": "Cuisine: Chinese<br>37-17 Prince St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1574,7 +1574,7 @@
   "properties": {
     "title": "Red Happy Family",
     "description": "Cuisine: Chinese<br>135-29 40th Rd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1591,7 +1591,7 @@
   "properties": {
     "title": "Quickly NYC",
     "description": "Cuisine: Japanese, Asian (other)<br>41-40 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1608,7 +1608,7 @@
   "properties": {
     "title": "Wu Chinese Restaurant",
     "description": "Cuisine: Cantonese<br>42-12A Main St., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1625,7 +1625,7 @@
   "properties": {
     "title": "Taco Hut",
     "description": "Cuisine: Southwestern, Mexican<br>32-67 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1642,7 +1642,7 @@
   "properties": {
     "title": "Je Ju Do",
     "description": "Cuisine: Sushi, Japanese, Korean<br>162-10 Crocheron Ave, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1659,7 +1659,7 @@
   "properties": {
     "title": "Okinae",
     "description": "Cuisine: Korean<br>40-30 149th Pl, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1676,7 +1676,7 @@
   "properties": {
     "title": "Pho Bac Express",
     "description": "Cuisine: Vietnamese<br>136-20 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1693,7 +1693,7 @@
   "properties": {
     "title": "Dong Hae Ru",
     "description": "Cuisine: Korean<br>36-26 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1710,7 +1710,7 @@
   "properties": {
     "title": "Graziella",
     "description": "Cuisine: Italian, Pizza<br>33-29 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1727,7 +1727,7 @@
   "properties": {
     "title": "New Dragon Kitchen",
     "description": "Cuisine: Chinese<br>45-12 162nd St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1744,7 +1744,7 @@
   "properties": {
     "title": "Picnic Garden",
     "description": "Cuisine: Korean, Barbecue<br>147-42 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1761,7 +1761,7 @@
   "properties": {
     "title": "The COOP Express",
     "description": "Cuisine: Korean<br>39-16 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1778,7 +1778,7 @@
   "properties": {
     "title": "Happy Family Hotpot Restaurant",
     "description": "Cuisine: Chinese<br>36-35 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1795,7 +1795,7 @@
   "properties": {
     "title": "Kyedong",
     "description": "Cuisine: Korean, Chicken<br>150-54 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1812,7 +1812,7 @@
   "properties": {
     "title": "Noodle Village",
     "description": "Cuisine: Chinese<br>136-20 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1829,7 +1829,7 @@
   "properties": {
     "title": "Tong Hai Tung",
     "description": "Cuisine: Chinese<br>41-12 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1846,7 +1846,7 @@
   "properties": {
     "title": "East Buffet",
     "description": "Cuisine: Chinese<br>42-07 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1863,7 +1863,7 @@
   "properties": {
     "title": "Sarku Japan",
     "description": "Cuisine: Chinese<br>133-38 Whitestone Expy, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1880,7 +1880,7 @@
   "properties": {
     "title": "Jang Tuh",
     "description": "Cuisine: Korean<br>136-93 37th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1897,7 +1897,7 @@
   "properties": {
     "title": "Asian Chef",
     "description": "Cuisine: Chinese<br>29-04 172nd St., Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1914,7 +1914,7 @@
   "properties": {
     "title": "Spicy & Tasty",
     "description": "Cuisine: Chinese<br>39-07 Prince St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1931,7 +1931,7 @@
   "properties": {
     "title": "Lu Xiang Yuan",
     "description": "Cuisine: Chinese<br>42-87 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1948,7 +1948,7 @@
   "properties": {
     "title": "Udon West",
     "description": "Cuisine: Japanese, Noodle Shops<br>137-80 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1965,7 +1965,7 @@
   "properties": {
     "title": "Great Wall Kitchen",
     "description": "Cuisine: Chinese<br>43-41 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1982,7 +1982,7 @@
   "properties": {
     "title": "Hwa Lung Kitchen",
     "description": "Cuisine: Chinese<br>36-07 164th St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -1999,7 +1999,7 @@
   "properties": {
     "title": "Tong Sam Gyup Goo Yi",
     "description": "Cuisine: Korean<br>162-23 Depot Rd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2016,7 +2016,7 @@
   "properties": {
     "title": "Yao Fhing",
     "description": "Cuisine: Chinese<br>45-06 Parsons Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2033,7 +2033,7 @@
   "properties": {
     "title": "Gyro Corner",
     "description": "Cuisine: Greek, Mediterranean<br>32-69 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2050,7 +2050,7 @@
   "properties": {
     "title": "On & On",
     "description": "Cuisine: Chinese<br>40-46 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2067,7 +2067,7 @@
   "properties": {
     "title": "Han Joo Chik Naeng Myun & BBQ",
     "description": "Cuisine: Korean, Barbecue<br>41-06 149th Pl, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2084,7 +2084,7 @@
   "properties": {
     "title": "Asian Food Products",
     "description": "Cuisine: Asian (other)<br>140-13 Cherry Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2101,7 +2101,7 @@
   "properties": {
     "title": "Asian Jewels",
     "description": "Cuisine: Chinese<br>133-30 39th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2118,7 +2118,7 @@
   "properties": {
     "title": "El Recuerdo",
     "description": "Cuisine: South American, Seafood<br>146-05 34th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2135,7 +2135,7 @@
   "properties": {
     "title": "Ajisen Ramen",
     "description": "Cuisine: Japanese, Noodle Shops<br>38-10 138th St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2152,7 +2152,7 @@
   "properties": {
     "title": "Diverse Dim Sum",
     "description": "Cuisine: Chinese<br>133-31 39th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2169,7 +2169,7 @@
   "properties": {
     "title": "King Noodle",
     "description": "Cuisine: Mix Chinese<br>20-02 Utopia Parkway, Whitestone NY 11357",
-    "marker-color": "#f86767",
+    "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2186,7 +2186,7 @@
   "properties": {
     "title": "Gyro World",
     "description": "Cuisine: Middle Eastern<br>194-23 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2203,7 +2203,7 @@
   "properties": {
     "title": "Amore Pizzeria",
     "description": "Cuisine: Pizza, Italian<br>30-27 Stratton St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2220,7 +2220,7 @@
   "properties": {
     "title": "Cheogajip Chicken",
     "description": "Cuisine: Korean, Chicken, Pizza<br>160-24 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2237,7 +2237,7 @@
   "properties": {
     "title": "San Soo Kap San",
     "description": "Cuisine: Korean, Barbecue, Sushi<br>38-13 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2254,7 +2254,7 @@
   "properties": {
     "title": "Lucia Pizza",
     "description": "Cuisine: Pizza, Italian<br>136-55 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2271,7 +2271,7 @@
   "properties": {
     "title": "Delicias Hispanas Deli",
     "description": "Cuisine: Delis, Sandwiches<br>146-01 34th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2288,7 +2288,7 @@
   "properties": {
     "title": "Luxury Fusion",
     "description": "Cuisine: Korean<br>41-13 150th St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2305,7 +2305,7 @@
   "properties": {
     "title": "Noodle Flower",
     "description": "Cuisine: Korean<br>29-18 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2322,7 +2322,7 @@
   "properties": {
     "title": "Magna Ristorante",
     "description": "Cuisine: Italian<br>35-25 Farrington St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2339,7 +2339,7 @@
   "properties": {
     "title": "San Soo Kap San",
     "description": "Cuisine: Korean, Barbecue<br>171-10 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2356,7 +2356,7 @@
   "properties": {
     "title": "Five Guys Burgers & Fries",
     "description": "Cuisine: Burgers<br>40-24 College Point Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2373,7 +2373,7 @@
   "properties": {
     "title": "Samwongahk",
     "description": "Cuisine: Chinese<br>144-20 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2390,7 +2390,7 @@
   "properties": {
     "title": "Kan Wah",
     "description": "Cuisine: Chinese<br>59-14 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2407,7 +2407,7 @@
   "properties": {
     "title": "David's Cookies",
     "description": "Cuisine: Pastry<br>61-08 188th St., Fresh Meadows NY 11365",
-    "marker-color": "#f86767",
+    "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2424,7 +2424,7 @@
   "properties": {
     "title": "Dae Sung Kal Kuk Soo",
     "description": "Cuisine: Korean, Noodle Shops<br>45-14 162nd St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2441,7 +2441,7 @@
   "properties": {
     "title": "Cheong Hae Jin",
     "description": "Cuisine: Korean, Sushi, Japanese<br>160-20 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2458,7 +2458,7 @@
   "properties": {
     "title": "East Seafood",
     "description": "Cuisine: Korean, Sushi<br>150-60 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2475,7 +2475,7 @@
   "properties": {
     "title": "NY & Seoul",
     "description": "Cuisine: Korean, Barbecue<br>41-05 150th St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2492,7 +2492,7 @@
   "properties": {
     "title": "Gateaux Bakery & Cafe",
     "description": "Cuisine: Cafes & Coffeehouses<br>150-24 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2509,7 +2509,7 @@
   "properties": {
     "title": "El Rancho",
     "description": "Cuisine: South American<br>171-03 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2526,7 +2526,7 @@
   "properties": {
     "title": "Mapo Galmaegi",
     "description": "Cuisine: Korean, Barbecue<br>136-71 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2543,7 +2543,7 @@
   "properties": {
     "title": "Fay Da Bakery",
     "description": "Cuisine: Chinese<br>41-33 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2560,7 +2560,7 @@
   "properties": {
     "title": "Temple Canteen",
     "description": "Cuisine: Indian<br>45-57 Bowne St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2577,7 +2577,7 @@
   "properties": {
     "title": "No. 1 East",
     "description": "Cuisine: Chinese<br>41-27 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2594,7 +2594,7 @@
   "properties": {
     "title": "Tai Pan Bakery",
     "description": "Cuisine: Chinese<br>42-05 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2611,7 +2611,7 @@
   "properties": {
     "title": "Sun Mary",
     "description": "Cuisine: Bakeries<br>133-57 41st Rd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2628,7 +2628,7 @@
   "properties": {
     "title": "Hahm Ji Bach",
     "description": "Cuisine: Korean<br>41-08 149th Pl, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2645,7 +2645,7 @@
   "properties": {
     "title": "Regina Pizzeria",
     "description": "Cuisine: Pizza, Italian<br>60-08 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2662,7 +2662,7 @@
   "properties": {
     "title": "Dumpling Galaxy",
     "description": "Cuisine: Dumpling<br>42-35 Main St., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2679,7 +2679,7 @@
   "properties": {
     "title": "Kum Gang San",
     "description": "Cuisine: Korean<br>138-28 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2696,7 +2696,7 @@
   "properties": {
     "title": "Great House",
     "description": "Cuisine: Chinese<br>41-13 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2713,7 +2713,7 @@
   "properties": {
     "title": "Fay Da Bakery",
     "description": "Cuisine: Chinese<br>40-24 College Point Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2730,7 +2730,7 @@
   "properties": {
     "title": "Kabul Kabob House",
     "description": "Cuisine: Central Asian, Persian<br>42-51 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2747,7 +2747,7 @@
   "properties": {
     "title": "Al Rahmania",
     "description": "Cuisine: Indian, Pakistani<br>43-39 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2764,7 +2764,7 @@
   "properties": {
     "title": "Janchi Janchi",
     "description": "Cuisine: Korean<br>138-28 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2781,7 +2781,7 @@
   "properties": {
     "title": "Primo Amore",
     "description": "Cuisine: Italian<br>34-33 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2798,7 +2798,7 @@
   "properties": {
     "title": "Las Hermanas",
     "description": "Cuisine: Latin American<br>42-26 College Point Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2815,7 +2815,7 @@
   "properties": {
     "title": "Pho Vietnamese Cuisine",
     "description": "Cuisine: Vietnamese<br>38-02 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2832,7 +2832,7 @@
   "properties": {
     "title": "Moon Star",
     "description": "Cuisine: Chinese<br>172-16 46th Ave, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2849,7 +2849,7 @@
   "properties": {
     "title": "Poon Deli Convenience",
     "description": "Cuisine: Delis, Sandwiches<br>41-23 Union St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2866,7 +2866,7 @@
   "properties": {
     "title": "Milk Barn Farms",
     "description": "Cuisine: Delis, Sandwiches<br>41-02 162nd St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2883,7 +2883,7 @@
   "properties": {
     "title": "Woo Chon",
     "description": "Cuisine: Korean, Barbecue<br>41-19 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2900,7 +2900,7 @@
   "properties": {
     "title": "Barone Pizza",
     "description": "Cuisine: Pizza, Italian<br>40-27 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2917,7 +2917,7 @@
   "properties": {
     "title": "La Amistad Bakery",
     "description": "Cuisine: South American, Bakeries<br>40-37 162nd St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2934,7 +2934,7 @@
   "properties": {
     "title": "Mani 1",
     "description": "Cuisine: Chinese<br>40-26 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2951,7 +2951,7 @@
   "properties": {
     "title": "New Asian",
     "description": "Cuisine: Chinese<br>41-24 162nd St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2968,7 +2968,7 @@
   "properties": {
     "title": "SINGAS",
     "description": "Cuisine: Italian<br>43-69 Kissena Blvd., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -2985,7 +2985,7 @@
   "properties": {
     "title": "Venice Pizza",
     "description": "Cuisine: Pizza, Italian<br>41-94 Bowne St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3002,7 +3002,7 @@
   "properties": {
     "title": "Gaji Gaji",
     "description": "Cuisine: Korean<br>34-12 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3019,7 +3019,7 @@
   "properties": {
     "title": "New York Handu BBQ",
     "description": "Cuisine: Chinese<br>43-18 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3035,8 +3035,8 @@
 
   "properties": {
     "title": "Choopan Kabab",
-    "description": "Cuisine: Halal<br>43-27 Main Street, Flushing NY 11367",
-    "marker-color": "#f86767",
+    "description": "Cuisine: Halal<br>43-27 Main Street, Flushing NY 11355",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3053,7 +3053,7 @@
   "properties": {
     "title": "Lao Dong Bei",
     "description": "Cuisine: North East Chinese<br>44-09 Kissena Blvd., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3070,7 +3070,7 @@
   "properties": {
     "title": "Geum Sung",
     "description": "Cuisine: Korean<br>40-07 149th Pl, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3087,7 +3087,7 @@
   "properties": {
     "title": "Peking Chinese Restaurant",
     "description": "Cuisine: Chinese<br>144-11 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3104,7 +3104,7 @@
   "properties": {
     "title": "Taiwanes Food",
     "description": "Cuisine: Chinese<br>133-49 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3121,7 +3121,7 @@
   "properties": {
     "title": "JC Deli",
     "description": "Cuisine: Delis, Sandwiches<br>25-75 College Point Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3138,7 +3138,7 @@
   "properties": {
     "title": "Peking Empire",
     "description": "Cuisine: Chinese<br>141-06 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3155,7 +3155,7 @@
   "properties": {
     "title": "Sandwich Bar",
     "description": "Cuisine: Sandwiches<br>71-32 Main St, Flushing NY 11367",
-    "marker-color": "#f86767",
+    "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3172,7 +3172,7 @@
   "properties": {
     "title": "Matese Pizzeria",
     "description": "Cuisine: Pizza, Italian<br>26-15 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3188,8 +3188,8 @@
 
   "properties": {
     "title": "Mandu Factory",
-    "description": "Cuisine: Korean<br>131-01 39th Ave, Flushing NY 13354",
-    "marker-color": "#f86767",
+    "description": "Cuisine: Korean<br>131-01 39th Ave, Flushing NY 11354",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3206,7 +3206,7 @@
   "properties": {
     "title": "Ke Zhang",
     "description": "Cuisine: Chinese<br>45-72 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3223,7 +3223,7 @@
   "properties": {
     "title": "Shanghai Tide",
     "description": "Cuisine: Chinese<br>135-20 40th Rd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3240,7 +3240,7 @@
   "properties": {
     "title": "Rolly Kimbab",
     "description": "Cuisine: Korean<br>163-16 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3257,7 +3257,7 @@
   "properties": {
     "title": "Fukuoka Shabu Shabu",
     "description": "Cuisine: Chinese<br>45-68 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3274,7 +3274,7 @@
   "properties": {
     "title": "Spicy King",
     "description": "Cuisine: Chinese<br>35-34 Farrington St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3291,7 +3291,7 @@
   "properties": {
     "title": "Kung Fu Xiao Long Bao",
     "description": "Cuisine: Shanghai<br>59-16 Main St., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3308,7 +3308,7 @@
   "properties": {
     "title": "Axis Bar",
     "description": "Cuisine: Korean, Cocktails<br>157-02 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3325,7 +3325,7 @@
   "properties": {
     "title": "Red Chopstick",
     "description": "Cuisine: Chinese<br>136-17 41st Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3342,7 +3342,7 @@
   "properties": {
     "title": "Su Ra Chung",
     "description": "Cuisine: Korean<br>149-09 41st Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3359,7 +3359,7 @@
   "properties": {
     "title": "Deluge",
     "description": "Cuisine: Asian Fusion<br>135-20 39th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3376,7 +3376,7 @@
   "properties": {
     "title": "Fratelli Pizzeria",
     "description": "Cuisine: Pizza, Sandwiches<br>40-36 162nd St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3393,7 +3393,7 @@
   "properties": {
     "title": "Pizza Club Slices & Squares",
     "description": "Cuisine: Pizza, Italian<br>25-71 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3410,7 +3410,7 @@
   "properties": {
     "title": "Tost Cafe",
     "description": "Cuisine: Cafes & Coffeehouses<br>60-10 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3427,7 +3427,7 @@
   "properties": {
     "title": "Little Pepper Hot Pot",
     "description": "Cuisine: Chinese<br>133-43 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3444,7 +3444,7 @@
   "properties": {
     "title": "AH2 Ice Tea",
     "description": "Cuisine: Tea<br>38-03 Main St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3461,7 +3461,7 @@
   "properties": {
     "title": "Koreana",
     "description": "Cuisine: Korean, Barbecue, Sushi<br>136-20 38th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3478,7 +3478,7 @@
   "properties": {
     "title": "Henan Feng Wei",
     "description": "Cuisine: Chinese<br>136-31 41st Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3495,7 +3495,7 @@
   "properties": {
     "title": "Xiao Du Hui",
     "description": "Cuisine: Chinese<br>135-19 40th Rd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3512,7 +3512,7 @@
   "properties": {
     "title": "New Golden Szechuan",
     "description": "Cuisine: Szechuan<br>133-47 Roosevelt Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3529,7 +3529,7 @@
   "properties": {
     "title": "Bangane",
     "description": "Cuisine: Korean<br>165-19 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3546,7 +3546,7 @@
   "properties": {
     "title": "Gong Cha",
     "description": "Cuisine: Tea<br>40-06 Union St., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3563,7 +3563,7 @@
   "properties": {
     "title": "Pho Hong",
     "description": "Cuisine: Vietnamese<br>41-01 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3580,7 +3580,7 @@
   "properties": {
     "title": "Minnis Shabu Shabu II",
     "description": "Cuisine: Chinese<br>136-17 38th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3597,7 +3597,7 @@
   "properties": {
     "title": "Jade Asian",
     "description": "Cuisine: Chinese<br>136-28 39th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3614,7 +3614,7 @@
   "properties": {
     "title": "Curry Leaves Malaysian",
     "description": "Cuisine: Malaysian<br>135-31 40th Rd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3631,7 +3631,7 @@
   "properties": {
     "title": "El Patron",
     "description": "Cuisine: Mexican<br>194-01 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3648,7 +3648,7 @@
   "properties": {
     "title": "Galbi Ma Eul",
     "description": "Cuisine: Korean, Barbecue<br>194-03 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3665,7 +3665,7 @@
   "properties": {
     "title": "Domand Deli & Caterers",
     "description": "Cuisine: Delis, Sandwiches<br>30-29 Stratton St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3682,7 +3682,7 @@
   "properties": {
     "title": "Bubblechai Sushi",
     "description": "Cuisine: Japanese<br>43-06 Main St., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3699,7 +3699,7 @@
   "properties": {
     "title": "Mae Il Jan Chi",
     "description": "Cuisine: Korean<br>149-32 41st Ave., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3716,7 +3716,7 @@
   "properties": {
     "title": "Big Apple",
     "description": "Cuisine: Chinese<br>32-55 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3733,7 +3733,7 @@
   "properties": {
     "title": "Lucky Hand Pull Noodle House",
     "description": "Cuisine: Chinese<br>46-22 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3750,7 +3750,7 @@
   "properties": {
     "title": "88 Canteen",
     "description": "Cuisine: Taiwanese<br>58-46 Main St., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3767,7 +3767,7 @@
   "properties": {
     "title": "Yi-Jia",
     "description": "Cuisine: Chinese<br>46-26 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3784,7 +3784,7 @@
   "properties": {
     "title": "Tasty House 18",
     "description": "Cuisine: Chinese<br>44-12 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3801,7 +3801,7 @@
   "properties": {
     "title": "Great East",
     "description": "Cuisine: Chinese<br>29-30 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3818,7 +3818,7 @@
   "properties": {
     "title": "New Super Snack",
     "description": "Cuisine: Asian (other)<br>41-28 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3835,7 +3835,7 @@
   "properties": {
     "title": "Mogu Sushi",
     "description": "Cuisine: Japanese, Sushi<br>133-22 39th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3852,7 +3852,7 @@
   "properties": {
     "title": "Yu Garden",
     "description": "Cuisine: Shanghai<br>46-20 Kissena Blvd., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3869,7 +3869,7 @@
   "properties": {
     "title": "Zebra Lounge",
     "description": "Cuisine: Asian Fusion, Cocktails<br>35-06 Farrington St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3886,7 +3886,7 @@
   "properties": {
     "title": "Golden Palace",
     "description": "Cuisine: Chinese<br>140-09 Cherry Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3903,7 +3903,7 @@
   "properties": {
     "title": "Tasty Roast House",
     "description": "Cuisine: Chinese<br>59-16 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3920,7 +3920,7 @@
   "properties": {
     "title": "GaHwa",
     "description": "Cuisine: Korean<br>29-32 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3937,7 +3937,7 @@
   "properties": {
     "title": "Taipan Snack",
     "description": "Cuisine: Chinese<br>39-01 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3954,7 +3954,7 @@
   "properties": {
     "title": "KULU Desserts",
     "description": "Cuisine: Desserts<br>37-06 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3971,7 +3971,7 @@
   "properties": {
     "title": "Shi Li Xiang",
     "description": "Cuisine: Chinese<br>133-58 41 Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -3988,7 +3988,7 @@
   "properties": {
     "title": "Coco Fresh Tea & Juice",
     "description": "Cuisine: Teahouses, Desserts<br>40-24 College Point Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4005,7 +4005,7 @@
   "properties": {
     "title": "Yi Lan",
     "description": "Cuisine: Chinese<br>42-79A Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4022,7 +4022,7 @@
   "properties": {
     "title": "Golden Deli",
     "description": "Cuisine: Delis, Sandwiches<br>32-21 Linden Pl, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4039,7 +4039,7 @@
   "properties": {
     "title": "Northern Sushi",
     "description": "Cuisine: Japanese, Sushi<br>153-14 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4056,7 +4056,7 @@
   "properties": {
     "title": "Fay Da Bakery",
     "description": "Cuisine: Chinese<br>41-60 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4073,7 +4073,7 @@
   "properties": {
     "title": "Sushi Village",
     "description": "Cuisine: Japanese, Sushi<br>32-50 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4089,8 +4089,8 @@
 
   "properties": {
     "title": "Mamak",
-    "description": "Cuisine: Malaysian<br>35-20 Farrington St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "description": "Cuisine: Malaysian<br>35-20 Farrington St, Flushing NY 11354",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4107,7 +4107,7 @@
   "properties": {
     "title": "Sunrise Cafe",
     "description": "Cuisine: Diners & Coffee Shops<br>45-04 Parsons Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4124,7 +4124,7 @@
   "properties": {
     "title": "Prince Noodle House",
     "description": "Cuisine: Szechuan<br>37-17 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4141,7 +4141,7 @@
   "properties": {
     "title": "Sentosa",
     "description": "Cuisine: Malaysian<br>39-07 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4158,7 +4158,7 @@
   "properties": {
     "title": "Haagen-Dazs",
     "description": "Cuisine: Desserts<br>136-20 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4175,7 +4175,7 @@
   "properties": {
     "title": "Corner 28",
     "description": "Cuisine: Sushi<br>40-28 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4192,7 +4192,7 @@
   "properties": {
     "title": "Lake Pavilion",
     "description": "Cuisine: Chinese<br>60-15 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4209,7 +4209,7 @@
   "properties": {
     "title": "Kung Fu Tea",
     "description": "Cuisine: Chinese<br>41-11 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4226,7 +4226,7 @@
   "properties": {
     "title": "Happy Karaoke",
     "description": "Cuisine: Korean<br>160-30 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4243,7 +4243,7 @@
   "properties": {
     "title": "Zebra Lounge 2",
     "description": "Cuisine: Chinese<br>136-11 38th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4260,7 +4260,7 @@
   "properties": {
     "title": "Chung Ah",
     "description": "Cuisine: Korean<br>35-38 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4277,7 +4277,7 @@
   "properties": {
     "title": "Sukarak",
     "description": "Cuisine: Korean<br>156-28 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4294,7 +4294,7 @@
   "properties": {
     "title": "Good Kitchen Seafood",
     "description": "Cuisine: Cantonese<br>135-29 37th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4311,7 +4311,7 @@
   "properties": {
     "title": "First Hot Pot",
     "description": "Cuisine: Szechuan<br>43-45 Main Street, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4328,7 +4328,7 @@
   "properties": {
     "title": "Mulan",
     "description": "Cuisine: Asian Fusion<br>136-17 39th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4345,7 +4345,7 @@
   "properties": {
     "title": "Peking Duck House",
     "description": "Cuisine: Chinese<br>37-02 Prince St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4362,7 +4362,7 @@
   "properties": {
     "title": "101 Taiwanese",
     "description": "Cuisine: Chinese<br>135-11 40th Rd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4379,7 +4379,7 @@
   "properties": {
     "title": "Yu Sushi & Bar",
     "description": "Cuisine: Sushi<br>133-44 37th Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4396,7 +4396,7 @@
   "properties": {
     "title": "Main Street Imperial Gourmet",
     "description": "Cuisine: Asian (other)<br>59-14 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4413,7 +4413,7 @@
   "properties": {
     "title": "Pioneer Cuisine",
     "description": "Cuisine: Taiwanese<br>45-21 Parsons Blvd., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4430,7 +4430,7 @@
   "properties": {
     "title": "Grand Shanghai Restaurant",
     "description": "Cuisine: Shanghai<br>36-50 Main St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4447,7 +4447,7 @@
   "properties": {
     "title": "Canton Gourmet",
     "description": "Cuisine: Cantonese<br>38-06 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4464,7 +4464,7 @@
   "properties": {
     "title": "Kim Cha Yul",
     "description": "Cuisine: Korean<br>41-22 162 St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4481,7 +4481,7 @@
   "properties": {
     "title": "Tasty Sweety",
     "description": "Cuisine: Chinese<br>36-22 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4498,7 +4498,7 @@
   "properties": {
     "title": "River Japanese Cuisine",
     "description": "Cuisine: Sushi<br>37-18 Main St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4515,7 +4515,7 @@
   "properties": {
     "title": "Geo Si Gi",
     "description": "Cuisine: Korean<br>152-28 Northern Blvd., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4532,7 +4532,7 @@
   "properties": {
     "title": "Maple Garden",
     "description": "Cuisine: Chinese<br>42-09 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4549,7 +4549,7 @@
   "properties": {
     "title": "Hansol Nutrition Center",
     "description": "Cuisine: Korean<br>160-26 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4566,7 +4566,7 @@
   "properties": {
     "title": "Yun Tian Low Sea Food",
     "description": "Cuisine: Chinese<br>133-54 41st Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4583,7 +4583,7 @@
   "properties": {
     "title": "Sala",
     "description": "Cuisine: Mediterranean<br>189-11 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4600,7 +4600,7 @@
   "properties": {
     "title": "Dip Dip Hot Pot",
     "description": "Cuisine: Hunan Szechuan<br>135-21A 37th Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4617,7 +4617,7 @@
   "properties": {
     "title": "Feng Mao BBQ",
     "description": "Cuisine: BBQ Skewers<br>136-88 Roosevelt Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4634,7 +4634,7 @@
   "properties": {
     "title": "Tai Pan Bakery",
     "description": "Cuisine: Chinese, Bakeries<br>37-25 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4651,7 +4651,7 @@
   "properties": {
     "title": "Shogun Palace",
     "description": "Cuisine: Japanese, Sushi, Seafood<br>34-20 Linden Pl, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4668,7 +4668,7 @@
   "properties": {
     "title": "Myung San",
     "description": "Cuisine: Korean<br>162-21 Depot Rd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4685,7 +4685,7 @@
   "properties": {
     "title": "King 5 Noodle House",
     "description": "Cuisine: Chinese<br>39-07 Prince St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4702,7 +4702,7 @@
   "properties": {
     "title": "Iris Tea & Bakery",
     "description": "Cuisine: Desserts, Bakeries<br>39-07 Prince St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4719,7 +4719,7 @@
   "properties": {
     "title": "A Taste of Shanghai",
     "description": "Cuisine: Shanghai<br>39-07 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4736,7 +4736,7 @@
   "properties": {
     "title": "Shiny Tea",
     "description": "Cuisine: Chinese<br>136-19 38th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4753,7 +4753,7 @@
   "properties": {
     "title": "Kimganae",
     "description": "Cuisine: Korean<br>39-12 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4770,7 +4770,7 @@
   "properties": {
     "title": "Debasaki",
     "description": "Cuisine: Asian Fusion, Chicken<br>33-67 Farrington St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4787,7 +4787,7 @@
   "properties": {
     "title": "Biang",
     "description": "Cuisine: Chinese<br>41-10 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4804,7 +4804,7 @@
   "properties": {
     "title": "GaHwa",
     "description": "Cuisine: Korean<br>189-08 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4821,7 +4821,7 @@
   "properties": {
     "title": "Modurang Cafe",
     "description": "Cuisine: Cafes & Coffeehouses<br>159-25 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4838,7 +4838,7 @@
   "properties": {
     "title": "SzeChuan Cuisine",
     "description": "Cuisine: Chinese<br>136-20 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4855,7 +4855,7 @@
   "properties": {
     "title": "Zhen Wei Zhen",
     "description": "Cuisine: Chinese<br>144-18 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4872,7 +4872,7 @@
   "properties": {
     "title": "Sulrak Garden",
     "description": "Cuisine: Korean, Barbecue<br>154-01 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4889,7 +4889,7 @@
   "properties": {
     "title": "Ku Shiang",
     "description": "Cuisine: Chinese<br>135-40 39th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4906,7 +4906,7 @@
   "properties": {
     "title": "East Manor",
     "description": "Cuisine: Chinese<br>46-45 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4923,7 +4923,7 @@
   "properties": {
     "title": "Sifu Chio",
     "description": "Cuisine: Chinese<br>40-09 Prince St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4940,7 +4940,7 @@
   "properties": {
     "title": "Szechuan Gourmet",
     "description": "Cuisine: Szechuan<br>135-15 37th Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4957,7 +4957,7 @@
   "properties": {
     "title": "J & J Sandwich King",
     "description": "Cuisine: Delis, Sandwiches<br>146-25 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4974,7 +4974,7 @@
   "properties": {
     "title": "Fay Da Bakery",
     "description": "Cuisine: Chinese<br>37-11 Main St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -4991,7 +4991,7 @@
   "properties": {
     "title": "Il Bok",
     "description": "Cuisine: Chinese<br>136-77 41st Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5008,7 +5008,7 @@
   "properties": {
     "title": "Lotus Pad",
     "description": "Cuisine: Chinese<br>25-25 Parsons Blvd., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5025,7 +5025,7 @@
   "properties": {
     "title": "New Bodai Vegetarian",
     "description": "Cuisine: Chinese<br>59-08 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5042,7 +5042,7 @@
   "properties": {
     "title": "Kati Allo",
     "description": "Cuisine: Greek<br>29-06 172nd St, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5059,7 +5059,7 @@
   "properties": {
     "title": "Gui Lin Mi Fen",
     "description": "Cuisine: Mix Chinese<br>135-25 40th Rd., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5076,7 +5076,7 @@
   "properties": {
     "title": "Gaja Gaja",
     "description": "Cuisine: Korean<br>154-28 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5093,7 +5093,7 @@
   "properties": {
     "title": "Ailan Bakery",
     "description": "Cuisine: Chinese<br>35-06 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5110,7 +5110,7 @@
   "properties": {
     "title": "Boulevard Deli",
     "description": "Cuisine: Delis<br>158-25 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5127,7 +5127,7 @@
   "properties": {
     "title": "Sunway Restaurant",
     "description": "Cuisine: Cantonese<br>39-07 Prince St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5144,7 +5144,7 @@
   "properties": {
     "title": "Fried Dumpling",
     "description": "Cuisine: Chinese<br>40-04 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5161,7 +5161,7 @@
   "properties": {
     "title": "Imperial Palace",
     "description": "Cuisine: Chinese<br>136-13 37th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5178,7 +5178,7 @@
   "properties": {
     "title": "Spring Fish Village",
     "description": "Cuisine: Szechuan<br>136-21 41st Ave., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5195,7 +5195,7 @@
   "properties": {
     "title": "Mapo Szechuan",
     "description": "Cuisine: Chinese<br>37-04 Prince St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5212,7 +5212,7 @@
   "properties": {
     "title": "Ku-Shiang",
     "description": "Cuisine: Taiwanese<br>135-38 39th Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5229,7 +5229,7 @@
   "properties": {
     "title": "Pho Bang",
     "description": "Cuisine: Vietnamese<br>41-07 Kissena Blvd, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5246,7 +5246,7 @@
   "properties": {
     "title": "Bonjuk",
     "description": "Cuisine: Korean<br>152-26 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5263,7 +5263,7 @@
   "properties": {
     "title": "Palazzo",
     "description": "Cuisine: Asian Fusion<br>154-17 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5280,7 +5280,7 @@
   "properties": {
     "title": "Nolbu Sushi",
     "description": "Cuisine: Korean, Sushi<br>164-25 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5297,7 +5297,7 @@
   "properties": {
     "title": "Pho 32 N Shabu",
     "description": "Cuisine: Vietnamese<br>14906 41st Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5314,7 +5314,7 @@
   "properties": {
     "title": "Little Pepper",
     "description": "Cuisine: Szechuan<br>18-24 College Point Blvd., Flushing NY 11356",
-    "marker-color": "#f86767",
+    "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5331,7 +5331,7 @@
   "properties": {
     "title": "Shin Hwang Je Topokki",
     "description": "Cuisine: Korean<br>157-22 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5348,7 +5348,7 @@
   "properties": {
     "title": "Arita Ichiban",
     "description": "Cuisine: Japanese<br>43-07 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5365,7 +5365,7 @@
   "properties": {
     "title": "Kyochon",
     "description": "Cuisine: Chicken<br>156-52 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5382,7 +5382,7 @@
   "properties": {
     "title": "Phil & Sons",
     "description": "Cuisine: Italian<br>57-29 Main St., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5399,7 +5399,7 @@
   "properties": {
     "title": "Jang Soo Chon",
     "description": "Cuisine: Korean, Barbecue<br>150-32 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5416,7 +5416,7 @@
   "properties": {
     "title": "Happy Garden",
     "description": "Cuisine: Chinese<br>60-06 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5433,7 +5433,7 @@
   "properties": {
     "title": "Jin Cheng",
     "description": "Cuisine: Chinese<br>142-38 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5450,7 +5450,7 @@
   "properties": {
     "title": "White Bear",
     "description": "Cuisine: Chinese<br>135-02 Prince St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5467,7 +5467,7 @@
   "properties": {
     "title": "Feng Mao",
     "description": "Cuisine: Chinese<br>136-80 41st Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5484,7 +5484,7 @@
   "properties": {
     "title": "Old Street Food Place",
     "description": "Cuisine: Chinese<br>86 138th St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5501,7 +5501,7 @@
   "properties": {
     "title": "Yummy House",
     "description": "Cuisine: Chinese<br>144-20 45th Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5518,7 +5518,7 @@
   "properties": {
     "title": "Extra Cheese Pizzeria",
     "description": "Cuisine: Pizza<br>147-20 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5535,7 +5535,7 @@
   "properties": {
     "title": "Java Day Cafe",
     "description": "Cuisine: Cafes & Coffeehouses<br>160-09 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5552,7 +5552,7 @@
   "properties": {
     "title": "Na Moo Dol",
     "description": "Cuisine: Korean<br>29-02 Union St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5569,7 +5569,7 @@
   "properties": {
     "title": "Dynasty Chinese",
     "description": "Cuisine: Chinese<br>147-46 Northern Blvd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5586,7 +5586,7 @@
   "properties": {
     "title": "Sheehans",
     "description": "Cuisine: Sandwiches, Bar Food<br>171-57 46th Ave, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5603,7 +5603,7 @@
   "properties": {
     "title": "Meishi Lin",
     "description": "Cuisine: Chinese<br>135-32 40th Rd, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5620,7 +5620,7 @@
   "properties": {
     "title": "Hot Pot House",
     "description": "Cuisine: Chinese<br>136-21 41st Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5637,7 +5637,7 @@
   "properties": {
     "title": "Latin Bakery",
     "description": "Cuisine: Latin American, Bakeries<br>41-41 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5654,7 +5654,7 @@
   "properties": {
     "title": "Punjabi Deli & Restaurant",
     "description": "Cuisine: Indian<br>160-20 46th Ave, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5671,7 +5671,7 @@
   "properties": {
     "title": "Shanghai Cuisine 33",
     "description": "Cuisine: Chinese<br>57-33 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5688,7 +5688,7 @@
   "properties": {
     "title": "Yamato Sushi",
     "description": "Cuisine: Sushi, Japanese<br>33-23 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5705,7 +5705,7 @@
   "properties": {
     "title": "Guan Dong Yi Jia",
     "description": "Cuisine: North East Chinese<br>46-09 Kissena Blvd., Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5722,7 +5722,7 @@
   "properties": {
     "title": "Sugar Sugar Dessert",
     "description": "Cuisine: Dessert<br>36-30 Union St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5739,7 +5739,7 @@
   "properties": {
     "title": "iCook Hot Pot",
     "description": "Cuisine: Korean, Soups<br>133-24 41st Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5756,7 +5756,7 @@
   "properties": {
     "title": "T-swirl Crepe",
     "description": "Cuisine: Dessert<br>40-08 Union St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5773,7 +5773,7 @@
   "properties": {
     "title": "Prince Tea House",
     "description": "Cuisine: Desserts<br>36-39 Prince St, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5790,7 +5790,7 @@
   "properties": {
     "title": "Gui Zhou Miao Zia",
     "description": "Cuisine: Taiwanese<br>136-55 Roosevelt Ave., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5807,7 +5807,7 @@
   "properties": {
     "title": "Doraon 1.5 Dak Galbi",
     "description": "Cuisine: Korean, Chicken<br>158-03 Northern Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5824,7 +5824,7 @@
   "properties": {
     "title": "Mojoilla Fresh",
     "description": "Cuisine: Crepes, Desserts<br>136-20 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5841,7 +5841,7 @@
   "properties": {
     "title": "Live Seafood",
     "description": "Cuisine: Chinese<br>136-20 Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5858,7 +5858,7 @@
   "properties": {
     "title": "Ginza",
     "description": "Cuisine: Japanese, Sushi<br>33-41 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5875,7 +5875,7 @@
   "properties": {
     "title": "Hao Shi Lai",
     "description": "Cuisine: Chinese<br> 4010 Union St., Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5892,7 +5892,7 @@
   "properties": {
     "title": "Yohielo",
     "description": "Cuisine: Desserts<br>136 27A Roosevelt Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5909,7 +5909,7 @@
   "properties": {
     "title": "Han Kou Steaks & Appetizer",
     "description": "Cuisine: Chinese<br>133-31 39th Ave, Flushing NY 11354",
-    "marker-color": "#f86767",
+    "marker-color": "#008cba",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5926,7 +5926,7 @@
   "properties": {
     "title": "Hunan Kitchen of Grand Sichuan",
     "description": "Cuisine: Chinese<br>42-47 Main St, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5943,7 +5943,7 @@
   "properties": {
     "title": "Nagoya",
     "description": "Cuisine: Japanese, Sushi<br>25-73 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5960,7 +5960,7 @@
   "properties": {
     "title": "Vanegas Caterers",
     "description": "Cuisine: Eclectic & International<br>11512 9th Ave, Flushing NY 11356",
-    "marker-color": "#f86767",
+    "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5977,7 +5977,7 @@
   "properties": {
     "title": "King Wok",
     "description": "Cuisine: Chinese<br>25-67 Francis Lewis Blvd, Flushing NY 11358",
-    "marker-color": "#f86767",
+    "marker-color": "#669900",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
@@ -5994,7 +5994,7 @@
   "properties": {
     "title": "Panda King",
     "description": "Cuisine: Chinese<br>149-11 41st Ave, Flushing NY 11355",
-    "marker-color": "#f86767",
+    "marker-color": "#cc0000",
     "marker-size": "small",
     "marker-symbol": "restaurant"
   }
