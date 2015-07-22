@@ -10,6 +10,7 @@
     <meta name="author" content="">
 
     <title>Underground Flushing Food</title>
+    <?php include('./lib/sample.php'); ?>
     
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
@@ -91,6 +92,13 @@
                         <a role="button" data-toggle="collapse" data-target="#goldenshoppingmall" aria-expanded="false" aria-controls="goldenshoppingmall">
                             <h4 class="panel-title">Golden Shopping Mall</h4>
                         </a>
+                        <?php
+                            $gshoppingmall = get_business('golden-shopping-mall-flushing');
+                            $json = json_decode($gshoppingmall, true);
+                            $url = $json['rating_img_url'];
+                            echo '<img src="'.$url.'">';
+                        ?>
+
                     </div>
                     <div id="goldenshoppingmall" class="panel-collapse collapse">
                         <div class="panel-collapse">
@@ -126,6 +134,12 @@
                         <a role="button" data-toggle="collapse" data-target="#newworld" aria-expanded="false" aria-controls=newworld>
                             <h4 class="panel-title">New World Mall Food Court</h4>
                         </a>
+                        <?php
+                            $newworldmallfoodcourt= get_business('new-world-mall-food-court-flushing');
+                            $json = json_decode($newworldmallfoodcourt, true);
+                            $url = $json['rating_img_url'];
+                            echo '<img src="'.$url.'">';
+                        ?>
                     </div>
                     <div id="newworld" class="panel-collapse collapse">
                         <div class="panel-body">
@@ -140,6 +154,12 @@
                         <a role="button" data-toggle="collapse" data-target="#whitebear" aria-expanded="false" aria-controls=whitebear>
                             <h4 class="panel-title">White Bear</h4>
                         </a>
+                        <?php
+                            $whitebear = get_business('white-bear-flushing');
+                            $json = json_decode($whitebear, true);
+                            $url = $json['rating_img_url'];
+                            echo '<img src="'.$url.'">';
+                        ?>
                     </div>
                     <div id="whitebear" class="panel-collapse collapse">
                         <div class="panel-body">
@@ -154,6 +174,12 @@
                         <a role="button" data-toggle="collapse" data-target="#nanxiang" aria-expanded="false" aria-controls=nanxiang>
                             <h4 class="panel-title">Nan Xiang Xiao Long Bao</h4>
                         </a>
+                        <?php
+                            $nanxiang = get_business('nan-xiang-dumpling-house-flushing');
+                            $json = json_decode($nanxiang, true);
+                            $url = $json['rating_img_url'];
+                            echo '<img src="'.$url.'">';
+                        ?>
                     </div>
                     <div id="nanxiang" class="panel-collapse collapse">
                         <div class="panel-body">
@@ -168,10 +194,16 @@
                         <a role="button" data-toggle="collapse" data-target="#joesshanghai" aria-expanded="false" aria-controls=joesshanghai>
                             <h4 class="panel-title">Joe's Shanghai</h4>
                         </a>
+                        <?php
+                            $joesshanghai = get_business('joes-shanghai-flushing');
+                            $json = json_decode($joesshanghai, true);
+                            $url = $json['rating_img_url'];
+                            echo '<img src="'.$url.'">';
+                        ?>
                     </div>
                     <div id="joesshanghai" class="panel-collapse collapse">
                         <div class="panel-body">
-                            The first Joe's Shanghai was founded in Flushing, New York in 1995. Immediately our two special soup dumplings, crab pork meat became a New York favorite.<br>Other special dishes includes Spicy Szechuan Style Sliced Beef; Crispy Jumbo Prawns with Lime Sauce; Braised Duck, Braised Pork Shoulders and not to mention our different varieties of cold cuts like Wine Chicken; Shanghai Fried Bean Curd; Braised Sliced Beef.
+                            The first Joe's Shanghai was founded in Flushing, New York in 1995. Immediately our two special soup dumplings, crab pork meat became a New York favorite.  Other special dishes includes Spicy Szechuan Style Sliced Beef; Crispy Jumbo Prawns with Lime Sauce; Braised Duck, Braised Pork Shoulders and not to mention our different varieties of cold cuts like Wine Chicken; Shanghai Fried Bean Curd; Braised Sliced Beef.
                         </div>
                     </div>
                 </div>
