@@ -187,7 +187,7 @@
                             $yelp_id = 'joes-shanghai-flushing';
                             $joesshanghai = get_business($yelp_id);
                             $json = json_decode($joesshanghai, true);
-                            $url = $json['rating_img_url'];
+                            $rating_img_url = $json['rating_img_url'];
                             echo yelp_biz_html_generator($yelp_id, $rating_img_url);
                         ?>
                     </div>
