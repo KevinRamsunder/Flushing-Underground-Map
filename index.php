@@ -85,8 +85,11 @@
 
     <!-- Services -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
+
     <section id="restaurants" class="services bg-primary">
         <div class="container">
+        <div class="row">
+            <div class="col-xs-8 col-xs-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
             <div class="panel-group" role="tablist">
                 
                 <!-- Golden Shopping Mall -->
@@ -196,10 +199,11 @@
                 </div>
             </div>
             <!-- /.panel -->
+            </div>
         </div>
-        <!-- /.container -->
+    <!-- /.container -->
+        </div>
     </section>
-
     <!-- Callout -->
     <aside class="callout" id="flushingchamber">
         <div class="text-vertical-center">
