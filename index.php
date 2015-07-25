@@ -73,8 +73,8 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
-            <h1>Underground Flushing Food Map</h1>
-            <h3>Discover the food of Flushing, Queens.</h3>
+            <h1 style="font-family: montBold; text-transform:uppercase; color:#fff; font-size:4.74em; margin-bottom: -15px; margin-top: -50px;">Underground</h1>
+            <h1 style="font-family: montReg; text-transform:uppercase; color:#fff; font-size:3.6em;">Flushing Food Map</h1>
             <br>
             <a href="#map" class="btn btn-dark btn-lg">View the Map</a>
             <a href="#restaurants" class="btn btn-dark btn-lg">View the Restaurants</a>
@@ -113,24 +113,6 @@
                             <div class="panel-body">
                                 Small stalls and foods like dumplings and noodles fill this tiny basement. 
                             </div>
-                        </div>
-                        <div class="panel-group"> <!-- TODO create indented panel-inner class -->
-                            
-                            <!-- Xian Famous Foods -->
-                            <div class="panel panel-default">
-                                <div class="panel-heading" role="tab">
-                                    <a role="button" data-toggle="collapse" data-target="#xianfamous" aria-expanded="false" aria-controls="xianfamous">
-                                        <h4 class="panel-title">Xi'an Famous Foods</h4>
-                                    </a>
-                                </div>
-                                <div id="xianfamous" class="panel-collapse collapse">
-                                    <div id="xianfamous" class="panel-body">
-                                        The original location in all its glory. Opened in late 2005, this hole-in-the-wall resides in the basement of Flushing's Golden Shopping Mall, one of the first food courts that established Flushing as a mecca of authentic Chinese food in New York City. There are about ten seats for this food stall, although this location is a shared space.
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        <!-- /.panel-group -->    
                         </div>
                     <!-- /#goldenshoppingmall -->
                     </div>
@@ -364,6 +346,10 @@
         L.mapbox.accessToken = 'pk.eyJ1IjoiYXJ5YW5qYWJiYXJpIiwiYSI6IjJhMGM3Y2VjZGU2ZjRhZTVjZGRkYjYzMzI4MmMzMDNiIn0.kZlSR_oToMC4VOmNCIfIfg';
         var map = L.mapbox.map('map', 'aryanjabbari.cb525595', { zoomControl: false});
         
+        var featureLayer = L.mapbox.featureLayer()
+        .loadURL('geojson.geojson')
+        .addTo(map);
+
         map.scrollWheelZoom.disable();
         map.touchZoom.disable();
         map.dragging.disable();
