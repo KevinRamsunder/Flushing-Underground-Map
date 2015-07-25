@@ -352,7 +352,6 @@
 
         map.scrollWheelZoom.disable();
         map.touchZoom.disable();
-        map.dragging.disable();
     </script>
 
 </body>
