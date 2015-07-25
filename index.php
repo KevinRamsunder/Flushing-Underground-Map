@@ -73,8 +73,8 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
-            <h1 style="font-family: montBold; text-transform:uppercase; color:#fff; font-size:4.74em; margin-bottom: -15px; margin-top: -50px;">Underground</h1>
-            <h1 style="font-family: montReg; text-transform:uppercase; color:#fff; font-size:3.6em;">Flushing Food Map</h1>
+            <h1>Underground Flushing Food Map</h1>
+            <h3>Discover the food of Flushing, Queens.</h3>
             <br>
             <a href="#map" class="btn btn-dark btn-lg">View the Map</a>
             <a href="#restaurants" class="btn btn-dark btn-lg">View the Restaurants</a>
