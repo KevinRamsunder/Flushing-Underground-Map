@@ -9,7 +9,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/arya-kabob-house-flushing-2' target='_blank'>Arya Kabab House</a>",
-    "description": "Cuisine: Other<br>Phone: (347) 368-4471<br>33-35 Francis Lewis Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/arya-kabob-house-flushing-2' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Other<br>33-35 Francis Lewis Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -26,7 +26,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/da-myun-flushing' target='_blank'>Da Myun</a>",
-    "description": "Cuisine: Korean, Noodle Shops<br>Phone: (347) 368-6557<br>41-10 162nd St, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/da-myun-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Noodle Shops<br>41-10 162nd St, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -43,7 +43,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/new-york-food-court-flushing' target='_blank'>Hang</a>",
-    "description": "Cuisine: Mala Tang<br>Phone: (347) 368-6735<br>133-35 Roosevelt Ave., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/new-york-food-court-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Mala Tang<br>133-35 Roosevelt Ave., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -60,7 +60,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kissa-bar-flushing-5' target='_blank'>Kissa Bar</a>",
-    "description": "Cuisine: Mix<br>Phone: (347) 368-6755<br>133-42 37th Ave., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kissa-bar-flushing-5' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Mix<br>133-42 37th Ave., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -77,7 +77,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/teaus-flushing-2' target='_blank'>Teaus</a>",
-    "description": "Cuisine: Teahouses<br>Phone: (347) 369-6191<br>40-10 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/teaus-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Teahouses<br>40-10 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -94,7 +94,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/moon-cafe-flushing-2' target='_blank'>Moon Cafe</a>",
-    "description": "Cuisine: Cafes & Coffeehouses<br>Phone: (347) 732-0329<br>137-06 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/moon-cafe-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Cafes & Coffeehouses<br>137-06 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -111,7 +111,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/lan-zhou-handmade-noodle-flushing' target='_blank'>Lanzhou Handmade Noodle</a>",
-    "description": "Cuisine: Chinese<br>Phone: (347) 757-8208<br>41-28 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/lan-zhou-handmade-noodle-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>41-28 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -128,7 +128,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/fruitti-yummi-frozen-yogurt-ridgewood' target='_blank'>Fruitti Yummi</a>",
-    "description": "Cuisine: Desserts<br>Phone: (347) 799-1344<br>57-51 Myrtle Ave, Flushing NY 11385",
+    "description": "<a href='http://www.yelp.com/biz/fruitti-yummi-frozen-yogurt-ridgewood' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Desserts<br>57-51 Myrtle Ave, Flushing NY 11385",
     "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -145,7 +145,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/magic-tea-house-flushing' target='_blank'>Magic Tea House</a>",
-    "description": "Cuisine: Dessert<br>Phone: (347) 822-8082<br>135-03 Roosevelt Ave., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/magic-tea-house-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Dessert<br>135-03 Roosevelt Ave., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -162,7 +162,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/new-world-mall-food-court-flushing' target='_blank'>Chong Qing Hot Pot</a>",
-    "description": "Cuisine: Chinese<br>Phone: (646) 318-9586<br>136-20 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/new-world-mall-food-court-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-20 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -179,7 +179,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/qqbee-flushing' target='_blank'>QQbee</a>",
-    "description": "Cuisine: Desserts, Asian (other)<br>Phone: (646) 535-3390<br>40-10 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/qqbee-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Desserts, Asian (other)<br>40-10 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -196,7 +196,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/yummy-sushi-house-flushing' target='_blank'>Yummy Sushi House</a>",
-    "description": "Cuisine: Sushi<br>Phone: (646) 573-5508<br>135-11 38th Ave., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/yummy-sushi-house-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Sushi<br>135-11 38th Ave., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -213,7 +213,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kalamaki-gr-flushing-2' target='_blank'>Kalamaki GR</a>",
-    "description": "Cuisine: Greek, Mediterranean<br>Phone: (646) 798-0338<br>29-06 172nd St, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/kalamaki-gr-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Greek, Mediterranean<br>29-06 172nd St, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -230,7 +230,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mango-mango-dessert-flushing-2' target='_blank'>Mango Mango</a>",
-    "description": "Cuisine: Dessert<br>Phone: (646) 881-6992<br>133-35 Roosevelt Ave., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/mango-mango-dessert-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Dessert<br>133-35 Roosevelt Ave., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -247,7 +247,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/jb-crispy-pancake-flushing' target='_blank'>JB Crispy Pancake</a>",
-    "description": "Cuisine: Taiwanese<br>Phone: (646) 915-7853<br>133-35 Roosevelt Ave., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/jb-crispy-pancake-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Taiwanese<br>133-35 Roosevelt Ave., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -264,7 +264,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/piccolo-sogno-flushing' target='_blank'>Piccolo Sogno Pizza</a>",
-    "description": "Cuisine: Italian, Pizza<br>Phone: (718) 224-1717<br>195-14 47th Ave, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/piccolo-sogno-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Italian, Pizza<br>195-14 47th Ave, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -281,7 +281,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/silk-hookah-lounge-and-grill-flushing' target='_blank'>Silk Hookah Lounge & Grill</a>",
-    "description": "Cuisine: Middle Eastern<br>Phone: (718) 225-7455<br>192-08 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/silk-hookah-lounge-and-grill-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Middle Eastern<br>192-08 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -298,7 +298,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/north-shore-diner-flushing' target='_blank'>North Shore Diner</a>",
-    "description": "Cuisine: Diners & Coffee Shops<br>Phone: (718) 225-8000<br>196-52 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/north-shore-diner-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Diners & Coffee Shops<br>196-52 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -315,7 +315,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/masuyo-asian-fusion-flushing-2' target='_blank'>Masuyo Asian Fusion</a>",
-    "description": "Cuisine: Japanese<br>Phone: (718) 268-1818<br>73-01 Main St., Kew Gardens Hill NY 11367",
+    "description": "<a href='http://www.yelp.com/biz/masuyo-asian-fusion-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Japanese<br>73-01 Main St., Kew Gardens Hill NY 11367",
     "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -332,7 +332,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/gammeeok-tang-flushing' target='_blank'>Gammeeok Tang</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 279-7080<br>196-50 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/gammeeok-tang-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>196-50 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -349,7 +349,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sparkys-deli-flushing' target='_blank'>Sparkys Deli</a>",
-    "description": "Cuisine: Delis, Sandwiches<br>Phone: (718) 304-0211<br>28-28 College Point Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/sparkys-deli-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Delis, Sandwiches<br>28-28 College Point Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -366,7 +366,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/baoding-cfc-flushing' target='_blank'>Baoding CFC</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 304-5257<br>42-05 162nd St, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/baoding-cfc-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>42-05 162nd St, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -383,7 +383,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/chung-moo-rollrice-and-dongas-flushing' target='_blank'>Chung Moo</a>",
-    "description": "Cuisine: Korean, Sushi<br>Phone: (718) 308-6582<br>39-04 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/chung-moo-rollrice-and-dongas-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Sushi<br>39-04 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -400,7 +400,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/arirang-restaurant-flushing-2' target='_blank'>Arirang Restaurant</a>",
-    "description": "Cuisine: Korean, Soups<br>Phone: (718) 321-0185<br>41-04 163rd St, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/arirang-restaurant-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean, Soups<br>41-04 163rd St, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -417,7 +417,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/thanya-thai-cuisine-flushing' target='_blank'>Thanya Thai Cuisine</a>",
-    "description": "Cuisine: Thai<br>Phone: (718) 321-0506<br>33-47 Francis Lewis Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/thanya-thai-cuisine-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Thai<br>33-47 Francis Lewis Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -434,7 +434,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kennedy-fried-chicken-flushing-2' target='_blank'>Kennedy Fried Chicken</a>",
-    "description": "Cuisine: Chicken<br>Phone: (718) 321-0775<br>136-04 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kennedy-fried-chicken-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f64056afac01/ico/stars/v1/stars_1.png' alt='Yelp rating'></a><br>Cuisine: Chicken<br>136-04 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -451,7 +451,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/cutting-board-flushing-flushing' target='_blank'>Cutting Board</a>",
-    "description": "Cuisine: Hong Kong<br>Phone: (718) 321-0800<br>37-20 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/cutting-board-flushing-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Hong Kong<br>37-20 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -468,7 +468,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/66-lus-seafood-flushing-2' target='_blank'>Lu's Seafood</a>",
-    "description": "Cuisine: Taiwanese<br>Phone: (718) 321-0904<br>38-18 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/66-lus-seafood-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Taiwanese<br>38-18 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -485,7 +485,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/fu-run-flushing' target='_blank'>Fu Run</a>",
-    "description": "Cuisine: North East Chinese<br>Phone: (718) 321-1363<br>40-09 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/fu-run-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: North East Chinese<br>40-09 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -502,7 +502,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/tong-tong-tonkatsu-flushing' target='_blank'>Tong Tong Tonkatsu</a>",
-    "description": "Cuisine: Japanese, Korean<br>Phone: (718) 321-1599<br>146-17A Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/tong-tong-tonkatsu-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Japanese, Korean<br>146-17A Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -519,7 +519,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/shanghai-si-fang-dish-flushing' target='_blank'>Shang Hai Si Fang Dis</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 321-1616<br>135-25 40th Rd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/shanghai-si-fang-dish-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>135-25 40th Rd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -536,7 +536,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/fay-da-bakery-flushing' target='_blank'>Fay Da Bakery</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 321-1759<br>136-18 39th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/fay-da-bakery-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-18 39th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -553,7 +553,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/lee-soo-restaurant-murray-hill' target='_blank'>Lee-Soo Restaurant</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 321-2007<br>152-24 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/lee-soo-restaurant-murray-hill' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>152-24 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -570,7 +570,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/asian-gourmet-new-york' target='_blank'>Asian Gourmet</a>",
-    "description": "Cuisine: Sushi<br>Phone: (718) 321-2226<br>57-11 Main St., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/asian-gourmet-new-york' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Sushi<br>57-11 Main St., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -587,7 +587,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sushi-family-flushing' target='_blank'>Sushi Family Express</a>",
-    "description": "Cuisine: Japanese, Sushi, Korean<br>Phone: (718) 321-2231<br>35-48 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/sushi-family-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Japanese, Sushi, Korean<br>35-48 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -604,7 +604,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/bbq-village-flushing-2' target='_blank'>BBQ Village</a>",
-    "description": "Cuisine: Korean, Barbecue<br>Phone: (718) 321-2770<br>157-26 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/bbq-village-flushing-2' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue<br>157-26 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -621,7 +621,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/xiao-yuan-huan-flushing-2' target='_blank'>Xiao Yuan Huan</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 321-2828<br>136-20 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/xiao-yuan-huan-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-20 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -638,7 +638,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kung-fu-tea-flushing-3' target='_blank'>Kung Fu Tea</a>",
-    "description": "Cuisine: Cafes & Coffeehouses<br>Phone: (718) 321-2886<br>136-20 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kung-fu-tea-flushing-3' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Cafes & Coffeehouses<br>136-20 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -655,7 +655,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/seoul-soon-dae-flushing' target='_blank'>Seoul Soon Dae</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 321-3231<br>158-15 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/seoul-soon-dae-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>158-15 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -672,7 +672,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/spicy-house-flushing' target='_blank'>Spicy Road</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 321-3688<br>43-18 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/spicy-house-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>43-18 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -689,7 +689,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mad-for-chicken-flushing' target='_blank'>Mad For Chicken</a>",
-    "description": "Cuisine: Chicken, Korean<br>Phone: (718) 321-3818<br>157-18 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mad-for-chicken-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chicken, Korean<br>157-18 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -706,7 +706,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/nan-xiang-dumpling-house-flushing' target='_blank'>Nan Xiang Dumpling House</a>",
-    "description": "Cuisine: Shanghai<br>Phone: (718) 321-3838<br>38-12 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/nan-xiang-dumpling-house-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Shanghai<br>38-12 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -723,7 +723,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/ok-ryan-restaurant-flushing' target='_blank'>OK Ryan</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 321-7309<br>41-04 College Point Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/ok-ryan-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>41-04 College Point Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -740,7 +740,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/yao-tai-lou-restaurant-flushing' target='_blank'>Yao Tai Lou</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 321-7388<br>135-25A 40th Rd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/yao-tai-lou-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>135-25A 40th Rd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -757,7 +757,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sik-gaek-chun-ha-flushing' target='_blank'>Sik Gaek</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 321-7770<br>161-29 Crocheron Ave, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/sik-gaek-chun-ha-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>161-29 Crocheron Ave, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -774,7 +774,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/grand-restaurant-flushing' target='_blank'>Grand Restaurant</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 321-8258<br>40-21 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/grand-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>40-21 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -791,7 +791,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mixx-flushing' target='_blank'>Mixx</a>",
-    "description": "Cuisine: Burgers, Sandwiches<br>Phone: (718) 321-8298<br>44-03 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/mixx-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Burgers, Sandwiches<br>44-03 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -808,7 +808,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/coco-fresh-tea-and-juice-flushing' target='_blank'>Coco Fresh Tea & Juice</a>",
-    "description": "Cuisine: Teahouses, Desserts<br>Phone: (718) 321-8566<br>39-22 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/coco-fresh-tea-and-juice-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Teahouses, Desserts<br>39-22 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -825,7 +825,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kato-cafe-flushing' target='_blank'>Kato Cafe</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 321-8818<br>135-01 35th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kato-cafe-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>135-01 35th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -842,7 +842,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/asian-cafe-flushing' target='_blank'>Asian Cafe</a>",
-    "description": "Cuisine: Asian Fusion<br>Phone: (718) 321-8822<br>59-08 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/asian-cafe-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Asian Fusion<br>59-08 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -859,7 +859,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/francis-lewis-gourmet-deli-grocery-flushing' target='_blank'>Francis Lewis Gourmet Deli</a>",
-    "description": "Cuisine: Delis, Sandwiches<br>Phone: (718) 321-9385<br>32-61 Francis Lewis Blvd, Flushing NY 11358",
+    "description": "Cuisine: Delis, Sandwiches<br>32-61 Francis Lewis Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -876,7 +876,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/great-wall-restaurant-bayside' target='_blank'>Great Wall</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 352-8899<br>199-19 32nd Ave, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/great-wall-restaurant-bayside' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>199-19 32nd Ave, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -893,7 +893,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/jjajang-com-flushing' target='_blank'>Jjajang.com</a>",
-    "description": "Cuisine: Chinese, Korean, Seafood<br>Phone: (718) 353-0077<br>150-05 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/jjajang-com-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese, Korean, Seafood<br>150-05 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -910,7 +910,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/yupdduk-flushing-flushing' target='_blank'>Yupdduk NYC</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 353-0081<br>157-22 Northern Blvd., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/yupdduk-flushing-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>157-22 Northern Blvd., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -927,7 +927,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/hly-chinese-cuisine-flushing' target='_blank'>Hly Chinese Cuisine</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 353-0278<br>43-23 Main St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/hly-chinese-cuisine-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>43-23 Main St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -944,7 +944,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/new-world-mall-food-court-flushing' target='_blank'>LZ Cafe</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 353-0551<br>136-20 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/new-world-mall-food-court-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-20 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -961,7 +961,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/super-deli-flushing' target='_blank'>Super Deli</a>",
-    "description": "Cuisine: Delis, Sandwiches<br>Phone: (718) 353-0690<br>144-10 Northern Blvd, Flushing NY 11354",
+    "description": "Cuisine: Delis, Sandwiches<br>144-10 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -978,7 +978,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/fay-da-bakery-new-york-12' target='_blank'>Fay Da Bakery</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 353-0730<br>46-15 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/fay-da-bakery-new-york-12' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>46-15 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -995,7 +995,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/roll-zip-queens' target='_blank'>Roll Zip</a>",
-    "description": "Cuisine: Korean, Japanese, Sushi<br>Phone: (718) 353-1123<br>36-14 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/roll-zip-queens' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Japanese, Sushi<br>36-14 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1012,7 +1012,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/flushing-noodle-shop-flushing' target='_blank'>Flushing Noodle Shop</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 353-1166<br>135-42 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/flushing-noodle-shop-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>135-42 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1029,7 +1029,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kungfu-hibachi-queens' target='_blank'>KUNG FU HIBACHI</a>",
-    "description": "Cuisine: Asian Fusion<br>Phone: (718) 353-1575<br>39-07 Prince St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kungfu-hibachi-queens' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Asian Fusion<br>39-07 Prince St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1046,7 +1046,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/hunan-house-flushing' target='_blank'>Hunan House</a>",
-    "description": "Cuisine: Hunan<br>Phone: (718) 353-1808<br>137-40 Northern Blvd., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/hunan-house-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Hunan<br>137-40 Northern Blvd., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1063,7 +1063,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/bangkok-thai-cuisine-flushing' target='_blank'>Bangkok Thai Cuisine</a>",
-    "description": "Cuisine: Thai<br>Phone: (718) 353-1888<br>38-04 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/bangkok-thai-cuisine-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Thai<br>38-04 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1080,7 +1080,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/malay-restaurant-flushing' target='_blank'>Malay Restaurant</a>",
-    "description": "Cuisine: Malaysian<br>Phone: (718) 353-2901<br>135-17 40th Rd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/malay-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Malaysian<br>135-17 40th Rd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1097,7 +1097,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/o-crab-flushing-2' target='_blank'>O' Crab!</a>",
-    "description": "Cuisine: Cajun<br>Phone: (718) 353-3530<br>147-34 Northern Blvd., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/o-crab-flushing-2' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Cajun<br>147-34 Northern Blvd., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1114,7 +1114,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/bowne-park-deli-flushing' target='_blank'>Browne Park Deli</a>",
-    "description": "Cuisine: Delis, Sandwiches<br>Phone: (718) 353-3955<br>150-09 Bayside Ave, Flushing NY 11354",
+    "description": "Cuisine: Delis, Sandwiches<br>150-09 Bayside Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1131,7 +1131,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kan-izakaya-flushing' target='_blank'>Izakaya Kan</a>",
-    "description": "Cuisine: Korean, Japanese, Sushi<br>Phone: (718) 353-4006<br>160-30 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/kan-izakaya-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean, Japanese, Sushi<br>160-30 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1148,7 +1148,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/teaus-flushing-2' target='_blank'>Teaus</a>",
-    "description": "Cuisine: Tea<br>Phone: (718) 353-4200<br>4010 Union St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/teaus-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Tea<br>4010 Union St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1165,7 +1165,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/bbq-chicken-flushing' target='_blank'>BBQ Chicken</a>",
-    "description": "Cuisine: Chicken, Barbecue, Wings<br>Phone: (718) 353-5330<br>158-23 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/bbq-chicken-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chicken, Barbecue, Wings<br>158-23 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1182,7 +1182,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/ihop-flushing-2' target='_blank'>IHOP</a>",
-    "description": "Cuisine: Diners & Coffee Shops<br>Phone: (718) 353-5576<br>155-17 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/ihop-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Diners & Coffee Shops<br>155-17 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1199,7 +1199,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/hyderabadi-biryani-and-chat-flushing' target='_blank'>Hyderabadi Biryani</a>",
-    "description": "Cuisine: Indian<br>Phone: (718) 353-5577<br>44-27 Kissena Blvd., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/hyderabadi-biryani-and-chat-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Indian<br>44-27 Kissena Blvd., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1216,7 +1216,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/new-kissena-flushing' target='_blank'>New Kissena</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 353-5707<br>44-29 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/new-kissena-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>44-29 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1233,7 +1233,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/shanghai-cuisine-33-flushing' target='_blank'>Shanghai Cuisine 33</a>",
-    "description": "Cuisine: Shanghai<br>Phone: (718) 353-5791<br>57-33 Main St., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/shanghai-cuisine-33-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Shanghai<br>57-33 Main St., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1250,7 +1250,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/zhu-ji-dumpling-stall-flushing-2' target='_blank'>Zhu Ji Dumpling Stall</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 353-6265<br>40-52 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/zhu-ji-dumpling-stall-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>40-52 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1267,7 +1267,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/new-age-market-flushing' target='_blank'>New Age Market</a>",
-    "description": "Cuisine: Dessert<br>Phone: (718) 353-7313<br>160-06 Northern Blvd., Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/new-age-market-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Dessert<br>160-06 Northern Blvd., Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1284,7 +1284,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/gong-cha-flushing-8' target='_blank'>Gong Cha</a>",
-    "description": "Cuisine: Teahouses<br>Phone: (718) 353-7327<br>136-20 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/gong-cha-flushing-8' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Teahouses<br>136-20 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1301,7 +1301,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/red-bowl-noodle-shop-flushing' target='_blank'>Red Bowl</a>",
-    "description": "Cuisine: Mix Chinese<br>Phone: (718) 353-7683<br>40-52 Main St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/red-bowl-noodle-shop-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Mix Chinese<br>40-52 Main St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1318,7 +1318,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sol-hyang-ki-flushing' target='_blank'>Sol Hyang Gee</a>",
-    "description": "Cuisine: BBQ Skewers<br>Phone: (718) 353-8160<br>136-73 41st Rd., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/sol-hyang-ki-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: BBQ Skewers<br>136-73 41st Rd., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1335,7 +1335,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/crazy-crab-flushing' target='_blank'>Crazy Crab</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 353-8188<br>40-42 College Point Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/crazy-crab-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>40-42 College Point Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1352,7 +1352,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/xiao-dong-bei-chinese-cuisine-queens' target='_blank'>Xiao Dong Bei</a>",
-    "description": "Cuisine: North East Chinese<br>Phone: (718) 353-8998<br>133-51 37th Ave., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/xiao-dong-bei-chinese-cuisine-queens' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png' alt='Yelp rating'></a><br>Cuisine: North East Chinese<br>133-51 37th Ave., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1369,7 +1369,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mapo-szechuan-flushing' target='_blank'>Chen Mapo Szechuan</a>",
-    "description": "Cuisine: Szechuan<br>Phone: (718) 353-9538<br>37-04 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mapo-szechuan-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Szechuan<br>37-04 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1386,7 +1386,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/new-cathay-restaurant-flushing' target='_blank'>New Cathay</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 357-3798<br>195-12 47th Ave, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/new-cathay-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>195-12 47th Ave, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1403,7 +1403,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/michael-and-sons-pizza-and-italian-food-flushing' target='_blank'>Michael & Sons</a>",
-    "description": "Cuisine: Italian, Pizza<br>Phone: (718) 357-6528<br>192-13 47th Ave, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/michael-and-sons-pizza-and-italian-food-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Italian, Pizza<br>192-13 47th Ave, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1420,7 +1420,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mythos-authentic-greek-cuisine-flushing' target='_blank'>Mythos Authentic Greek Cuisine</a>",
-    "description": "Cuisine: Greek<br>Phone: (718) 357-6596<br>196-29 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/mythos-authentic-greek-cuisine-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Greek<br>196-29 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1437,7 +1437,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/dae-bach-sik-dang-flushing' target='_blank'>Dae Bak</a>",
-    "description": "Cuisine: Korean, Barbecue<br>Phone: (718) 358-0002<br>146-06 34th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/dae-bach-sik-dang-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue<br>146-06 34th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1454,7 +1454,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mango-mango-dessert-flushing-2' target='_blank'>Mango Mango Dessert</a>",
-    "description": "Cuisine: Desserts<br>Phone: (718) 358-0215<br>133-35 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mango-mango-dessert-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Desserts<br>133-35 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1471,7 +1471,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/tous-les-jours-flushing-3' target='_blank'>Tous les Jours</a>",
-    "description": "Cuisine: Cafes & Coffeehouses<br>Phone: (718) 358-0288<br>42-35 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/tous-les-jours-flushing-3' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Cafes & Coffeehouses<br>42-35 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1488,7 +1488,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/foo-kee-seafood-restaurant-flushing' target='_blank'>Foo Kee Seafood</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 358-0666<br>136-14 38th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/foo-kee-seafood-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-14 38th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1505,7 +1505,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/east-lake-seafood-restaurant-flushing' target='_blank'>East Lake Seafood</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 358-0888<br>37-17 Prince St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/east-lake-seafood-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>37-17 Prince St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1522,7 +1522,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/friend-house-queens' target='_blank'>Friend House</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 358-1818<br>135-29 40th Rd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/friend-house-queens' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>135-29 40th Rd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1539,7 +1539,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/quickly-flushing' target='_blank'>Quickly NYC</a>",
-    "description": "Cuisine: Japanese, Asian (other)<br>Phone: (718) 358-1835<br>41-40 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/quickly-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Japanese, Asian (other)<br>41-40 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1556,7 +1556,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/dragon-town-flushing' target='_blank'>Dragon Town</a>",
-    "description": "Cuisine: Cantonese<br>Phone: (718) 358-1883<br>42-12A Main St., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/dragon-town-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Cantonese<br>42-12A Main St., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1573,7 +1573,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/taco-hut-new-york' target='_blank'>Taco Hut</a>",
-    "description": "Cuisine: Southwestern, Mexican<br>Phone: (718) 358-2333<br>32-67 Francis Lewis Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/taco-hut-new-york' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Southwestern, Mexican<br>32-67 Francis Lewis Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1590,7 +1590,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/je-ju-do-flushing' target='_blank'>Je Ju Do</a>",
-    "description": "Cuisine: Sushi, Japanese, Korean<br>Phone: (718) 358-3333<br>162-10 Crocheron Ave, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/je-ju-do-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Sushi, Japanese, Korean<br>162-10 Crocheron Ave, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1607,7 +1607,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/okinae-korean-restaurant-murray-hill' target='_blank'>Okinae</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 358-3355<br>40-30 149th Pl, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/okinae-korean-restaurant-murray-hill' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>40-30 149th Pl, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1624,7 +1624,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/pho-bac-flushing' target='_blank'>Pho Bac Express</a>",
-    "description": "Cuisine: Vietnamese<br>Phone: (718) 358-3500<br>136-20 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/pho-bac-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Vietnamese<br>136-20 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1641,7 +1641,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/dong-hae-ru-restaurant-flushing-2' target='_blank'>Dong Hae Ru</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 358-3869<br>36-26 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/dong-hae-ru-restaurant-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>36-26 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1658,7 +1658,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/graziella-ristorante-flushing' target='_blank'>Graziella</a>",
-    "description": "Cuisine: Italian, Pizza<br>Phone: (718) 358-4706<br>33-29 Francis Lewis Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/graziella-ristorante-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Italian, Pizza<br>33-29 Francis Lewis Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1675,7 +1675,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/universe-dragon-flushing' target='_blank'>Universe Dragon</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 358-5037<br>45-12 162nd St, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/universe-dragon-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>45-12 162nd St, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1692,7 +1692,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/picnic-garden-flushing' target='_blank'>Picnic Garden</a>",
-    "description": "Cuisine: Korean, Barbecue<br>Phone: (718) 358-5959<br>147-42 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/picnic-garden-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue<br>147-42 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1709,7 +1709,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/happy-family-hotpot-flushing-2' target='_blank'>Happy Family Hotpot Restaurant</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 358-6667<br>36-35 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/happy-family-hotpot-flushing-2' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>36-35 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1726,7 +1726,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kyedong-fried-chicken-flushing' target='_blank'>Kyedong</a>",
-    "description": "Cuisine: Korean, Chicken<br>Phone: (718) 358-8300<br>150-54 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kyedong-fried-chicken-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Chicken<br>150-54 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1743,7 +1743,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/noodle-village-so-good-stall-2-flushing' target='_blank'>Noodle Village</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 358-8855<br>136-20 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/noodle-village-so-good-stall-2-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-20 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1760,7 +1760,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/tong-hai-tung-bakery-flushing' target='_blank'>Tong Hai Tung</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 358-8878<br>41-12 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/tong-hai-tung-bakery-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>41-12 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1777,7 +1777,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/east-buffet-and-restaurant-flushing' target='_blank'>East Buffet</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 358-9810<br>42-07 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/east-buffet-and-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>42-07 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1794,7 +1794,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sarku-japan-flushing' target='_blank'>Sarku Japan</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 359-0810<br>133-38 Whitestone Expy, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/sarku-japan-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>133-38 Whitestone Expy, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1811,7 +1811,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/jang-tuh-sutbulgui-flushing' target='_blank'>Jang Tuh</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 359-1227<br>136-93 37th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/jang-tuh-sutbulgui-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>136-93 37th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1828,7 +1828,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/asian-chef-flushing' target='_blank'>Asian Chef</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 359-1313<br>29-04 172nd St., Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/asian-chef-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>29-04 172nd St., Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1845,7 +1845,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/spicy-and-tasty-flushing' target='_blank'>Spicy & Tasty</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 359-1601<br>39-07 Prince St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/spicy-and-tasty-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>39-07 Prince St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1862,7 +1862,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/lu-xiang-yuan-flushing' target='_blank'>Lu Xiang Yuan</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 359-2108<br>42-87 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/lu-xiang-yuan-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>42-87 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1879,7 +1879,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/udon-west-flushing' target='_blank'>Udon West</a>",
-    "description": "Cuisine: Japanese, Noodle Shops<br>Phone: (718) 359-2324<br>137-80 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/udon-west-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Japanese, Noodle Shops<br>137-80 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1896,7 +1896,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/great-wall-kitchen-flushing' target='_blank'>Great Wall Kitchen</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 359-2393<br>43-41 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/great-wall-kitchen-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>43-41 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1913,7 +1913,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/hwa-lung-kitchen-flushing' target='_blank'>Hwa Lung Kitchen</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 359-2624<br>36-07 164th St, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/hwa-lung-kitchen-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>36-07 164th St, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1930,7 +1930,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/tong-sam-gyup-goo-ee-korean-restaurant-flushing-2' target='_blank'>Tong Sam Gyup Goo Yi</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 359-4583<br>162-23 Depot Rd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/tong-sam-gyup-goo-ee-korean-restaurant-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>162-23 Depot Rd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1947,7 +1947,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/yao-shing-chinese-restaurant-flushing' target='_blank'>Yao Fhing</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 359-4888<br>45-06 Parsons Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/yao-shing-chinese-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>45-06 Parsons Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1964,7 +1964,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/gyro-corner-flushing' target='_blank'>Gyro Corner</a>",
-    "description": "Cuisine: Greek, Mediterranean<br>Phone: (718) 359-5454<br>32-69 Francis Lewis Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/gyro-corner-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Greek, Mediterranean<br>32-69 Francis Lewis Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1981,7 +1981,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/ding-tai-restaurant-flushing' target='_blank'>Ding Tai Restaurant</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 359-6655<br>40-46 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/ding-tai-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>40-46 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -1998,7 +1998,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/han-joo-chik-naeng-myun-and-bbq-flushing' target='_blank'>Han Joo Chik Naeng Myun & BBQ</a>",
-    "description": "Cuisine: Korean, Barbecue<br>Phone: (718) 359-6888<br>41-06 149th Pl, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/han-joo-chik-naeng-myun-and-bbq-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue<br>41-06 149th Pl, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2015,7 +2015,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/new-asian-food-flushing' target='_blank'>Asian Food Products</a>",
-    "description": "Cuisine: Asian (other)<br>Phone: (718) 359-7148<br>140-13 Cherry Ave, Flushing NY 11355",
+    "description": "Cuisine: Asian (other)<br>140-13 Cherry Ave, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2032,7 +2032,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/asian-jewels-seafood-restaurant-flushing' target='_blank'>Asian Jewels</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 359-8600<br>133-30 39th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/asian-jewels-seafood-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>133-30 39th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2049,7 +2049,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/el-recuerdo-new-york' target='_blank'>El Recuerdo</a>",
-    "description": "Cuisine: South American, Seafood<br>Phone: (718) 359-8698<br>146-05 34th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/el-recuerdo-new-york' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: South American, Seafood<br>146-05 34th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2066,7 +2066,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/ajisen-ramen-flushing-2' target='_blank'>Ajisen Ramen</a>",
-    "description": "Cuisine: Japanese, Noodle Shops<br>Phone: (718) 395-8119<br>38-10 138th St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/ajisen-ramen-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Japanese, Noodle Shops<br>38-10 138th St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2083,7 +2083,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/diverse-dim-sum-flushing' target='_blank'>Diverse Dim Sum</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 395-8188<br>133-31 39th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/diverse-dim-sum-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>133-31 39th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2100,7 +2100,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/king-noodle-whitestone' target='_blank'>King Noodle</a>",
-    "description": "Cuisine: Mix Chinese<br>Phone: (718) 423-4888<br>20-02 Utopia Parkway, Whitestone NY 11357",
+    "description": "<a href='http://www.yelp.com/biz/king-noodle-whitestone' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Mix Chinese<br>20-02 Utopia Parkway, Whitestone NY 11357",
     "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2117,7 +2117,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/gyro-world-flushing' target='_blank'>Gyro World</a>",
-    "description": "Cuisine: Middle Eastern<br>Phone: (718) 428-3800<br>194-23 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/gyro-world-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Middle Eastern<br>194-23 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2134,7 +2134,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/amore-pizzeria-flushing' target='_blank'>Amore Pizzeria</a>",
-    "description": "Cuisine: Pizza, Italian<br>Phone: (718) 445-0579<br>30-27 Stratton St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/amore-pizzeria-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Pizza, Italian<br>30-27 Stratton St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2151,7 +2151,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/cheogajip-fried-chicken-new-york' target='_blank'>Cheogajip Chicken</a>",
-    "description": "Cuisine: Korean, Chicken, Pizza<br>Phone: (718) 445-0806<br>160-24 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/cheogajip-fried-chicken-new-york' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean, Chicken, Pizza<br>160-24 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2168,7 +2168,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/san-soo-kap-san-flushing' target='_blank'>San Soo Kap San</a>",
-    "description": "Cuisine: Korean, Barbecue, Sushi<br>Phone: (718) 445-1165<br>38-13 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/san-soo-kap-san-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue, Sushi<br>38-13 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2185,7 +2185,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/lucia-pizza-flushing' target='_blank'>Lucia Pizza</a>",
-    "description": "Cuisine: Pizza, Italian<br>Phone: (718) 445-1313<br>136-55 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/lucia-pizza-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Pizza, Italian<br>136-55 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2202,7 +2202,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/delicias-hispanas-deli-flushing' target='_blank'>Delicias Hispanas Deli</a>",
-    "description": "Cuisine: Delis, Sandwiches<br>Phone: (718) 445-2162<br>146-01 34th Ave, Flushing NY 11354",
+    "description": "Cuisine: Delis, Sandwiches<br>146-01 34th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2219,7 +2219,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/noodle-flower-new-york' target='_blank'>Noodle Flower</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 445-3155<br>29-18 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/noodle-flower-new-york' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>29-18 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2236,7 +2236,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/magna-ristorante-flushing' target='_blank'>Magna Ristorante</a>",
-    "description": "Cuisine: Italian<br>Phone: (718) 445-3352<br>35-25 Farrington St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/magna-ristorante-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Italian<br>35-25 Farrington St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2253,7 +2253,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/san-soo-kap-san-flushing-2' target='_blank'>San Soo Kap San</a>",
-    "description": "Cuisine: Korean, Barbecue<br>Phone: (718) 445-4850<br>171-10 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/san-soo-kap-san-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue<br>171-10 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2270,7 +2270,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/five-guys-burgers-and-fries-flushing-2' target='_blank'>Five Guys Burgers & Fries</a>",
-    "description": "Cuisine: Burgers<br>Phone: (718) 445-7800<br>40-24 College Point Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/five-guys-burgers-and-fries-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Burgers<br>40-24 College Point Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2287,7 +2287,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sam-won-gahk-flushing' target='_blank'>Samwongahk</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 445-8500<br>144-20 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/sam-won-gahk-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>144-20 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2304,7 +2304,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kan-wah-restaurant-flushing' target='_blank'>Kan Wah</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 445-9799<br>59-14 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/kan-wah-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>59-14 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2321,7 +2321,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/dae-sung-kal-kuk-soo-restaurant-flushing' target='_blank'>Dae Sung Kal Kuk Soo</a>",
-    "description": "Cuisine: Korean, Noodle Shops<br>Phone: (718) 460-0088<br>45-14 162nd St, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/dae-sung-kal-kuk-soo-restaurant-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Korean, Noodle Shops<br>45-14 162nd St, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2338,7 +2338,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/cheong-hae-jin-flushing' target='_blank'>Cheong Hae Jin</a>",
-    "description": "Cuisine: Korean, Sushi, Japanese<br>Phone: (718) 460-0500<br>160-20 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/cheong-hae-jin-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Korean, Sushi, Japanese<br>160-20 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2355,7 +2355,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/east-seafood-restaurant-flushing' target='_blank'>East Seafood</a>",
-    "description": "Cuisine: Korean, Sushi<br>Phone: (718) 460-1044<br>150-60 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/east-seafood-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Sushi<br>150-60 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2372,7 +2372,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/ny-and-seoul-flushing' target='_blank'>NY & Seoul</a>",
-    "description": "Cuisine: Korean, Barbecue<br>Phone: (718) 460-1266<br>41-05 150th St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/ny-and-seoul-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue<br>41-05 150th St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2389,7 +2389,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/gateaux-bakery-and-cafe-flushing' target='_blank'>Gateaux Bakery & Cafe</a>",
-    "description": "Cuisine: Cafes & Coffeehouses<br>Phone: (718) 460-1894<br>150-24 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/gateaux-bakery-and-cafe-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Cafes & Coffeehouses<br>150-24 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2406,7 +2406,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/el-rancho-salvadoreno-flushing' target='_blank'>El Rancho</a>",
-    "description": "Cuisine: South American<br>Phone: (718) 460-4266<br>171-03 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/el-rancho-salvadoreno-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: South American<br>171-03 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2423,7 +2423,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mapo-galmaegi-flushing' target='_blank'>Mapo Galmaegi</a>",
-    "description": "Cuisine: Korean, Barbecue<br>Phone: (718) 460-6200<br>136-71 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mapo-galmaegi-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue<br>136-71 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2440,7 +2440,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/fay-da-bakery-queens-3' target='_blank'>Fay Da Bakery</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 460-8018<br>41-33 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/fay-da-bakery-queens-3' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>41-33 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2457,7 +2457,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/ganesh-temple-canteen-flushing' target='_blank'>Temple Canteen</a>",
-    "description": "Cuisine: Indian<br>Phone: (718) 460-8484<br>45-57 Bowne St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/ganesh-temple-canteen-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Indian<br>45-57 Bowne St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2474,7 +2474,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/no-1-east-restaurant-flushing' target='_blank'>No. 1 East</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 460-8686<br>41-27 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/no-1-east-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>41-27 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2491,7 +2491,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/tai-pan-bakery-flushing-2' target='_blank'>Tai Pan Bakery</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 460-8787<br>42-05 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/tai-pan-bakery-flushing-2' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>42-05 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2508,7 +2508,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sun-mary-bakery-flushing' target='_blank'>Sun Mary</a>",
-    "description": "Cuisine: Bakeries<br>Phone: (718) 460-8800<br>133-57 41st Rd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/sun-mary-bakery-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Bakeries<br>133-57 41st Rd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2525,7 +2525,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/hahm-ji-bach-flushing-2' target='_blank'>Hahm Ji Bach</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 460-9289<br>41-08 149th Pl, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/hahm-ji-bach-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>41-08 149th Pl, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2542,7 +2542,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/regina-pizzeria-flushing' target='_blank'>Regina Pizzeria</a>",
-    "description": "Cuisine: Pizza, Italian<br>Phone: (718) 461-0065<br>60-08 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/regina-pizzeria-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Pizza, Italian<br>60-08 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2559,7 +2559,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/dumpling-galaxy-flushing' target='_blank'>Dumpling Galaxy</a>",
-    "description": "Cuisine: Dumpling<br>Phone: (718) 461-0808<br>42-35 Main St., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/dumpling-galaxy-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Dumpling<br>42-35 Main St., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2576,7 +2576,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kum-gang-san-restaurant-flushing' target='_blank'>Kum Gang San</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 461-0909<br>138-28 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kum-gang-san-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>138-28 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2593,7 +2593,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/great-house-restaurant-flushing' target='_blank'>Great House</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 461-1313<br>41-13 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/great-house-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>41-13 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2610,7 +2610,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/fay-da-bakery-queens-4' target='_blank'>Fay Da Bakery</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 461-1888<br>40-24 College Point Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/fay-da-bakery-queens-4' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>40-24 College Point Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2627,7 +2627,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kabul-kabab-house-flushing' target='_blank'>Kabul Kabob House</a>",
-    "description": "Cuisine: Central Asian, Persian<br>Phone: (718) 461-1919<br>42-51 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/kabul-kabab-house-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Central Asian, Persian<br>42-51 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2644,7 +2644,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/janchi-janchi-new-york' target='_blank'>Janchi Janchi</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 461-3030<br>138-28 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/janchi-janchi-new-york' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>138-28 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2661,7 +2661,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/primo-amore-italian-restaurant-flushing' target='_blank'>Primo Amore</a>",
-    "description": "Cuisine: Italian<br>Phone: (718) 461-6100<br>34-33 Francis Lewis Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/primo-amore-italian-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Italian<br>34-33 Francis Lewis Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2678,7 +2678,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/pho-vietnamese-restaurant-flushing-2' target='_blank'>Pho Vietnamese Cuisine</a>",
-    "description": "Cuisine: Vietnamese<br>Phone: (718) 461-8686<br>38-02 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/pho-vietnamese-restaurant-flushing-2' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Vietnamese<br>38-02 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2695,7 +2695,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/moon-star-chinese-takeout-rest-flushing' target='_blank'>Moon Star</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 461-8826<br>172-16 46th Ave, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/moon-star-chinese-takeout-rest-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>172-16 46th Ave, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2712,7 +2712,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/woo-chon-flushing' target='_blank'>Woo Chon</a>",
-    "description": "Cuisine: Korean, Barbecue<br>Phone: (718) 463-0803<br>41-19 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/woo-chon-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue<br>41-19 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2729,7 +2729,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/barone-pizza-flushing' target='_blank'>Barone Pizza</a>",
-    "description": "Cuisine: Pizza, Italian<br>Phone: (718) 463-2218<br>40-27 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/barone-pizza-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Pizza, Italian<br>40-27 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2746,7 +2746,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/la-amistad-bakery-murray-hill' target='_blank'>La Amistad Bakery</a>",
-    "description": "Cuisine: South American, Bakeries<br>Phone: (718) 463-2477<br>40-37 162nd St, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/la-amistad-bakery-murray-hill' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: South American, Bakeries<br>40-37 162nd St, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2763,7 +2763,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mani-korean-chinese-restaurant-flushing' target='_blank'>Mani 1</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 463-2520<br>40-26 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mani-korean-chinese-restaurant-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>40-26 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2780,7 +2780,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/singas-famous-pizza-flushing-2' target='_blank'>SINGAS</a>",
-    "description": "Cuisine: Italian<br>Phone: (718) 463-4343<br>43-69 Kissena Blvd., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/singas-famous-pizza-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Italian<br>43-69 Kissena Blvd., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2797,7 +2797,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/venice-pizza-flushing' target='_blank'>Venice Pizza</a>",
-    "description": "Cuisine: Pizza, Italian<br>Phone: (718) 539-0104<br>41-94 Bowne St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/venice-pizza-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Pizza, Italian<br>41-94 Bowne St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2814,7 +2814,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/choopan-kabab-house-flushing' target='_blank'>Choopan Kabab</a>",
-    "description": "Cuisine: Halal<br>Phone: (718) 539-3180<br>43-27 Main Street, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/choopan-kabab-house-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Halal<br>43-27 Main Street, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2831,7 +2831,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/lao-dong-bei-flushing' target='_blank'>Lao Dong Bei</a>",
-    "description": "Cuisine: North East Chinese<br>Phone: (718) 539-4100<br>44-09 Kissena Blvd., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/lao-dong-bei-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: North East Chinese<br>44-09 Kissena Blvd., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2848,7 +2848,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kum-sung-chik-naengmyun-flushing' target='_blank'>Geum Sung</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 539-4596<br>40-07 149th Pl, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kum-sung-chik-naengmyun-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>40-07 149th Pl, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2865,7 +2865,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/peking-chinese-restaurant-flushing' target='_blank'>Peking Chinese Restaurant</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 539-5000<br>144-11 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/peking-chinese-restaurant-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>144-11 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2882,7 +2882,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kings-cafe-taiwanese-cuisine-flushing' target='_blank'>Taiwanes Food</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 539-5115<br>133-49 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kings-cafe-taiwanese-cuisine-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>133-49 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2899,7 +2899,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sandwich-bar-new-york' target='_blank'>Sandwich Bar</a>",
-    "description": "Cuisine: Sandwiches<br>Phone: (718) 544-1014<br>71-32 Main St, Flushing NY 11367",
+    "description": "<a href='http://www.yelp.com/biz/sandwich-bar-new-york' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Sandwiches<br>71-32 Main St, Flushing NY 11367",
     "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2916,7 +2916,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mandu-factory-flushing' target='_blank'>Mandu Factory</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 578-7677<br>131-01 39th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mandu-factory-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>131-01 39th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2933,7 +2933,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/ke-zhang-flushing-2' target='_blank'>Ke Zhang</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 661-0008<br>45-72 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/ke-zhang-flushing-2' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>45-72 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2950,7 +2950,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/shanghai-tide-flushing' target='_blank'>Shanghai Tide</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 661-0900<br>135-20 40th Rd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/shanghai-tide-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>135-20 40th Rd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2967,7 +2967,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/rolly-kimbab-flushing-2' target='_blank'>Rolly Kimbab</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 661-1544<br>163-16 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/rolly-kimbab-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>163-16 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -2984,7 +2984,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/fukuoka-shabu-shabu-flushing' target='_blank'>Fukuoka Shabu Shabu</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 661-1616<br>45-68 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/fukuoka-shabu-shabu-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>45-68 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3001,7 +3001,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kung-fu-xiao-long-bao-flushing' target='_blank'>Kung Fu Xiao Long Bao</a>",
-    "description": "Cuisine: Shanghai<br>Phone: (718) 661-2882<br>59-16 Main St., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/kung-fu-xiao-long-bao-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Shanghai<br>59-16 Main St., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3018,7 +3018,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/axis-bar-queens' target='_blank'>Axis Bar</a>",
-    "description": "Cuisine: Korean, Cocktails<br>Phone: (718) 661-4567<br>157-02 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/axis-bar-queens' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean, Cocktails<br>157-02 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3035,7 +3035,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/red-chopstick-flushing' target='_blank'>Red Chopstick</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 661-6655<br>136-17 41st Ave, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/red-chopstick-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-17 41st Ave, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3052,7 +3052,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/su-ra-chung-flushing' target='_blank'>Su Ra Chung</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 661-9292<br>149-09 41st Ave, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/su-ra-chung-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>149-09 41st Ave, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3069,7 +3069,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/deluge-restaurant-flushing' target='_blank'>Deluge</a>",
-    "description": "Cuisine: Asian Fusion<br>Phone: (718) 670-7400<br>135-20 39th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/deluge-restaurant-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Asian Fusion<br>135-20 39th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3086,7 +3086,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/little-pepper-hot-pot-flushing' target='_blank'>Little Pepper Hot Pot</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 690-2206<br>133-43 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/little-pepper-hot-pot-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>133-43 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3103,7 +3103,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/ah2-icetea-flushing' target='_blank'>AH2 Ice Tea</a>",
-    "description": "Cuisine: Tea<br>Phone: (718) 709-8373<br>38-03 Main St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/ah2-icetea-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Tea<br>38-03 Main St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3120,7 +3120,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/koreana-restaurant-and-bar-flushing' target='_blank'>Koreana</a>",
-    "description": "Cuisine: Korean, Barbecue, Sushi<br>Phone: (718) 713-0308<br>136-20 38th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/koreana-restaurant-and-bar-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue, Sushi<br>136-20 38th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3137,7 +3137,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/zhongyuan-hot-pot-flushing' target='_blank'>Zhong Yuan Hot Pot</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 762-1818<br>136-31 41st Ave, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/zhongyuan-hot-pot-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-31 41st Ave, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3154,7 +3154,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/xiao-du-hui-flushing' target='_blank'>Xiao Du Hui</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 762-1955<br>135-19 40th Rd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/xiao-du-hui-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>135-19 40th Rd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3171,7 +3171,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/szechuan-house-flushing' target='_blank'>New Golden Szechuan</a>",
-    "description": "Cuisine: Szechuan<br>Phone: (718) 762-2664<br>133-47 Roosevelt Ave., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/szechuan-house-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Szechuan<br>133-47 Roosevelt Ave., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3188,7 +3188,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/bangane-flushing-2' target='_blank'>Bangane</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 762-2799<br>165-19 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/bangane-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>165-19 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3205,7 +3205,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/gong-cha-bubble-tea-flushing-4' target='_blank'>Gong Cha</a>",
-    "description": "Cuisine: Tea<br>Phone: (718) 762-2874<br>40-06 Union St., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/gong-cha-bubble-tea-flushing-4' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Tea<br>40-06 Union St., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3222,7 +3222,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/pho-hoang-flushing' target='_blank'>Pho Hong</a>",
-    "description": "Cuisine: Vietnamese<br>Phone: (718) 762-6151<br>41-01 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/pho-hoang-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Vietnamese<br>41-01 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3239,7 +3239,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/minnis-shabu-shabu-ii-flushing' target='_blank'>Minnis Shabu Shabu II</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 762-6277<br>136-17 38th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/minnis-shabu-shabu-ii-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-17 38th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3256,7 +3256,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/jade-asian-restaurant-and-caterer-flushing' target='_blank'>Jade Asian</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 762-8821<br>136-28 39th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/jade-asian-restaurant-and-caterer-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-28 39th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3273,7 +3273,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/curry-leaves-flushing' target='_blank'>Curry Leaves Malaysian</a>",
-    "description": "Cuisine: Malaysian<br>Phone: (718) 762-9313<br>135-31 40th Rd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/curry-leaves-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Malaysian<br>135-31 40th Rd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3290,7 +3290,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/el-patron-flushing' target='_blank'>El Patron</a>",
-    "description": "Cuisine: Mexican<br>Phone: (718) 819-2121<br>194-01 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/el-patron-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Mexican<br>194-01 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3307,7 +3307,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/galbi-ma-eul-flushing-2' target='_blank'>Galbi Ma Eul</a>",
-    "description": "Cuisine: Korean, Barbecue<br>Phone: (718) 819-2171<br>194-03 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/galbi-ma-eul-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue<br>194-03 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3324,7 +3324,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/bubblechai-sushi-flushing' target='_blank'>Bubblechai Sushi</a>",
-    "description": "Cuisine: Japanese<br>Phone: (718) 877-8588<br>43-06 Main St., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/bubblechai-sushi-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Japanese<br>43-06 Main St., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3341,7 +3341,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mae-il-jan-chi-flushing-2' target='_blank'>Mae Il Jan Chi</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 886-0800<br>149-32 41st Ave., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/mae-il-jan-chi-flushing-2' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>149-32 41st Ave., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3358,7 +3358,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/big-apple-chinese-and-japanese-restaurant-flushing' target='_blank'>Big Apple</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-1118<br>32-55 Francis Lewis Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/big-apple-chinese-and-japanese-restaurant-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>32-55 Francis Lewis Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3375,7 +3375,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/lucky-hand-pull-noodle-house-flushing' target='_blank'>Lucky Hand Pull Noodle House</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-1516<br>46-22 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/lucky-hand-pull-noodle-house-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>46-22 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3392,7 +3392,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/88-canteen-flushing' target='_blank'>88 Canteen</a>",
-    "description": "Cuisine: Taiwanese<br>Phone: (718) 886-1555<br>58-46 Main St., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/88-canteen-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Taiwanese<br>58-46 Main St., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3409,7 +3409,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/yi-jia-chinese-restaurant-flushing' target='_blank'>Yi-Jia</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-1558<br>46-26 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/yi-jia-chinese-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>46-26 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3426,7 +3426,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/tasty-house-18-flushing-4' target='_blank'>Tasty House 18</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-1833<br>44-12 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/tasty-house-18-flushing-4' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>44-12 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3443,7 +3443,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/new-super-snack-flushing' target='_blank'>New Super Snack</a>",
-    "description": "Cuisine: Asian (other)<br>Phone: (718) 886-2294<br>41-28 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/new-super-snack-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Asian (other)<br>41-28 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3460,7 +3460,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mogu-sushi-flushing' target='_blank'>Mogu Sushi</a>",
-    "description": "Cuisine: Japanese, Sushi<br>Phone: (718) 886-2618<br>133-22 39th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mogu-sushi-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Japanese, Sushi<br>133-22 39th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3477,7 +3477,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/yu-garden-dumpling-house-flushing' target='_blank'>Yu Garden</a>",
-    "description": "Cuisine: Shanghai<br>Phone: (718) 886-2676<br>46-20 Kissena Blvd., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/yu-garden-dumpling-house-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Shanghai<br>46-20 Kissena Blvd., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3494,7 +3494,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/zebra-lounge-flushing' target='_blank'>Zebra Lounge</a>",
-    "description": "Cuisine: Asian Fusion, Cocktails<br>Phone: (718) 886-3026<br>35-06 Farrington St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/zebra-lounge-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Asian Fusion, Cocktails<br>35-06 Farrington St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3511,7 +3511,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/tasty-roast-house-flushing' target='_blank'>Tasty Roast House</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-3118<br>59-16 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/tasty-roast-house-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>59-16 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3528,7 +3528,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/gahwa-korean-restaurant-flushing' target='_blank'>GaHwa</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 886-3223<br>29-32 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/gahwa-korean-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>29-32 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3545,7 +3545,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/taipan-snack-flushing' target='_blank'>Taipan Snack</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-3266<br>39-01 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/taipan-snack-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>39-01 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3562,7 +3562,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kulu-desserts-flushing' target='_blank'>KULU Desserts</a>",
-    "description": "Cuisine: Desserts<br>Phone: (718) 886-3302<br>37-06 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kulu-desserts-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Desserts<br>37-06 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3579,7 +3579,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/shi-li-xiang-new-york' target='_blank'>Shi Li Xiang</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-3382<br>133-58 41 Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/shi-li-xiang-new-york' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/11e62fee886f/ico/stars/v1/stars_1_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>133-58 41 Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3596,7 +3596,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/coco-fresh-tea-and-juice-flushing-2' target='_blank'>Coco Fresh Tea & Juice</a>",
-    "description": "Cuisine: Teahouses, Desserts<br>Phone: (718) 886-3386<br>40-24 College Point Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/coco-fresh-tea-and-juice-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Teahouses, Desserts<br>40-24 College Point Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3613,7 +3613,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/yi-lan-halal-restaurant-flushing' target='_blank'>Yi Lan</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-3622<br>42-79A Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/yi-lan-halal-restaurant-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>42-79A Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3630,7 +3630,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/northern-sushi-and-sashimi-flushing' target='_blank'>Northern Sushi</a>",
-    "description": "Cuisine: Japanese, Sushi<br>Phone: (718) 886-4123<br>153-14 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/northern-sushi-and-sashimi-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Japanese, Sushi<br>153-14 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3647,7 +3647,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/fay-da-bakery-flushing-2' target='_blank'>Fay Da Bakery</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-4568<br>41-60 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/fay-da-bakery-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>41-60 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3664,7 +3664,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sushi-village-bayside' target='_blank'>Sushi Village</a>",
-    "description": "Cuisine: Japanese, Sushi<br>Phone: (718) 886-4733<br>32-50 Francis Lewis Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/sushi-village-bayside' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Japanese, Sushi<br>32-50 Francis Lewis Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3681,7 +3681,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mamak-malaysia-flushing' target='_blank'>Mamak</a>",
-    "description": "Cuisine: Malaysian<br>Phone: (718) 886-4828<br>35-20 Farrington St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mamak-malaysia-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Malaysian<br>35-20 Farrington St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3698,7 +3698,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sunrise-diner-flushing' target='_blank'>Sunrise Cafe</a>",
-    "description": "Cuisine: Diners & Coffee Shops<br>Phone: (718) 886-4855<br>45-04 Parsons Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/sunrise-diner-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Diners & Coffee Shops<br>45-04 Parsons Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3715,7 +3715,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/prince-noodle-house-flushing-2' target='_blank'>Prince Noodle House</a>",
-    "description": "Cuisine: Szechuan<br>Phone: (718) 886-5595<br>37-17 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/prince-noodle-house-flushing-2' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Szechuan<br>37-17 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3732,7 +3732,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sentosa-malaysian-cuisine-flushing' target='_blank'>Sentosa</a>",
-    "description": "Cuisine: Malaysian<br>Phone: (718) 886-6331<br>39-07 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/sentosa-malaysian-cuisine-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Malaysian<br>39-07 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3749,7 +3749,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/haagen-dazs-shop-flushing' target='_blank'>Haagen-Dazs</a>",
-    "description": "Cuisine: Desserts<br>Phone: (718) 886-6610<br>136-20 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/haagen-dazs-shop-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Desserts<br>136-20 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3766,7 +3766,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/lake-pavilion-flushing-2' target='_blank'>Lake Pavilion</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-6693<br>60-15 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/lake-pavilion-flushing-2' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>60-15 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3783,7 +3783,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/happy-karaoke-flushing' target='_blank'>Happy Karaoke</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 886-6886<br>160-30 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/happy-karaoke-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>160-30 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3800,7 +3800,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/zebra-lounge-2-flushing' target='_blank'>Zebra Lounge 2</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-7366<br>136-11 38th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/zebra-lounge-2-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-11 38th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3817,7 +3817,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sukarak-flushing' target='_blank'>Sukarak</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 886-8100<br>156-28 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/sukarak-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>156-28 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3834,7 +3834,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/dong-yi-feng-good-kitchen-seafood-restaurant-flushing' target='_blank'>Good Kitchen Seafood</a>",
-    "description": "Cuisine: Cantonese<br>Phone: (718) 886-8233<br>135-29 37th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/dong-yi-feng-good-kitchen-seafood-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Cantonese<br>135-29 37th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3851,7 +3851,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/first-hot-pot-queens' target='_blank'>First Hot Pot</a>",
-    "description": "Cuisine: Szechuan<br>Phone: (718) 886-8281<br>43-45 Main Street, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/first-hot-pot-queens' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Szechuan<br>43-45 Main Street, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3868,7 +3868,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mulan-flushing' target='_blank'>Mulan</a>",
-    "description": "Cuisine: Asian Fusion<br>Phone: (718) 886-8526<br>136-17 39th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mulan-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Asian Fusion<br>136-17 39th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3885,7 +3885,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/yu-sushi-bar-flushing' target='_blank'>Yu Sushi & Bar</a>",
-    "description": "Cuisine: Sushi<br>Phone: (718) 886-8668<br>133-44 37th Ave., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/yu-sushi-bar-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Sushi<br>133-44 37th Ave., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3902,7 +3902,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/main-street-imperial-taiwanese-gourmet-flushing' target='_blank'>Main Street Imperial Gourmet</a>",
-    "description": "Cuisine: Asian (other)<br>Phone: (718) 886-8788<br>59-14 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/main-street-imperial-taiwanese-gourmet-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Asian (other)<br>59-14 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3919,7 +3919,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/pioneer-cuisine-flushing' target='_blank'>Pioneer Cuisine</a>",
-    "description": "Cuisine: Taiwanese<br>Phone: (718) 886-8895<br>45-21 Parsons Blvd., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/pioneer-cuisine-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Taiwanese<br>45-21 Parsons Blvd., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3936,7 +3936,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/grand-shanghai-restaurant-flushing' target='_blank'>Grand Shanghai Restaurant</a>",
-    "description": "Cuisine: Shanghai<br>Phone: (718) 886-8972<br>36-50 Main St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/grand-shanghai-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Shanghai<br>36-50 Main St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3953,7 +3953,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/canton-gourmet-flushing' target='_blank'>Canton Gourmet</a>",
-    "description": "Cuisine: Cantonese<br>Phone: (718) 886-9288<br>38-06 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/canton-gourmet-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Cantonese<br>38-06 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3970,7 +3970,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kim-chayuls-myung-poom-kalbi-murray-hill' target='_blank'>Kim Cha Yul</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 886-9292<br>41-22 162 St, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/kim-chayuls-myung-poom-kalbi-murray-hill' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>41-22 162 St, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -3987,7 +3987,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/tasty-sweety-corp-flushing' target='_blank'>Tasty Sweety</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 886-9500<br>36-22 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/tasty-sweety-corp-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>36-22 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4004,7 +4004,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/river-japanese-cuisine-flushing' target='_blank'>River Japanese Cuisine</a>",
-    "description": "Cuisine: Sushi<br>Phone: (718) 886-9880<br>37-18 Main St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/river-japanese-cuisine-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Sushi<br>37-18 Main St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4021,7 +4021,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/geo-si-gi-flushing' target='_blank'>Geo Si Gi</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 888-0001<br>152-28 Northern Blvd., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/geo-si-gi-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>152-28 Northern Blvd., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4038,7 +4038,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/maple-garden-flushing' target='_blank'>Maple Garden</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 888-0011<br>42-09 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/maple-garden-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>42-09 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4055,7 +4055,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/hansol-nutrition-center-flushing-2' target='_blank'>Hansol Nutrition Center</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 888-0200<br>160-26 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/hansol-nutrition-center-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>160-26 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4072,7 +4072,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/yun-tian-lou-restaurant-flushing' target='_blank'>Yun Tian Low Sea Food</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 888-0589<br>133-54 41st Ave, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/yun-tian-lou-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>133-54 41st Ave, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4089,7 +4089,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sala-restaurant-flushing' target='_blank'>Sala</a>",
-    "description": "Cuisine: Mediterranean<br>Phone: (718) 888-0633<br>189-11 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/sala-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Mediterranean<br>189-11 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4106,7 +4106,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/dip-dip-hot-pot-flushing' target='_blank'>Dip Dip Hot Pot</a>",
-    "description": "Cuisine: Hunan Szechuan<br>Phone: (718) 888-0711<br>135-21A 37th Ave., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/dip-dip-hot-pot-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Hunan Szechuan<br>135-21A 37th Ave., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4123,7 +4123,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/feng-mao-queens' target='_blank'>Feng Mao BBQ</a>",
-    "description": "Cuisine: BBQ Skewers<br>Phone: (718) 888-0997<br>136-88 Roosevelt Ave., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/feng-mao-queens' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/b561c24f8341/ico/stars/v1/stars_2.png' alt='Yelp rating'></a><br>Cuisine: BBQ Skewers<br>136-88 Roosevelt Ave., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4140,7 +4140,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/tai-pan-bakery-flushing' target='_blank'>Tai Pan Bakery</a>",
-    "description": "Cuisine: Chinese, Bakeries<br>Phone: (718) 888-1111<br>37-25 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/tai-pan-bakery-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese, Bakeries<br>37-25 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4157,7 +4157,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/shogun-palace-flushing' target='_blank'>Shogun Palace</a>",
-    "description": "Cuisine: Japanese, Sushi, Seafood<br>Phone: (718) 888-1133<br>34-20 Linden Pl, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/shogun-palace-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Japanese, Sushi, Seafood<br>34-20 Linden Pl, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4174,7 +4174,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/myung-san-flushing-3' target='_blank'>Myung San</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 888-1245<br>162-21 Depot Rd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/myung-san-flushing-3' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>162-21 Depot Rd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4191,7 +4191,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/king-5-noodle-house-flushing' target='_blank'>King 5 Noodle House</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 888-1268<br>39-07 Prince St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/king-5-noodle-house-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>39-07 Prince St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4208,7 +4208,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/iris-tea-and-bakery-flushing' target='_blank'>Iris Tea & Bakery</a>",
-    "description": "Cuisine: Desserts, Bakeries<br>Phone: (718) 888-1633<br>39-07 Prince St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/iris-tea-and-bakery-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Desserts, Bakeries<br>39-07 Prince St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4225,7 +4225,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/a-taste-of-shanghai-flushing' target='_blank'>A Taste of Shanghai</a>",
-    "description": "Cuisine: Shanghai<br>Phone: (718) 888-1636<br>39-07 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/a-taste-of-shanghai-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Shanghai<br>39-07 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4242,7 +4242,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/shiny-tea-flushing' target='_blank'>Shiny Tea</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 888-1781<br>136-19 38th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/shiny-tea-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-19 38th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4259,7 +4259,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kimganae-korean-restaurant-flushing' target='_blank'>Kimganae</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 888-3100<br>39-12 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kimganae-korean-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>39-12 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4276,7 +4276,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/biang-flushing' target='_blank'>Biang</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 888-7713<br>41-10 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/biang-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>41-10 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4293,7 +4293,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/ga-hwa-restaurant-queens' target='_blank'>GaHwa</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 888-7734<br>189-08 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/ga-hwa-restaurant-queens' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>189-08 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4310,7 +4310,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/modurang-cafe-flushing' target='_blank'>Modurang Cafe</a>",
-    "description": "Cuisine: Cafes & Coffeehouses<br>Phone: (718) 888-7790<br>159-25 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/modurang-cafe-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Cafes & Coffeehouses<br>159-25 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4327,7 +4327,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/zhen-wei-zhen-queens' target='_blank'>Zhen Wei Zhen</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 888-7892<br>144-18 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/zhen-wei-zhen-queens' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>144-18 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4344,7 +4344,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/u-so-bo-so-korean-bbq-flushing' target='_blank'>U So Bo So Korean BBQ</a>",
-    "description": "Cuisine: Korean, Barbecue<br>Phone: (718) 888-7955<br>154-01 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/u-so-bo-so-korean-bbq-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue<br>154-01 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4361,7 +4361,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/good-fortune-flushing-2' target='_blank'>Good Fortune</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 888-8998<br>46-45 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/good-fortune-flushing-2' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>46-45 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4378,7 +4378,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sifu-chio-flushing' target='_blank'>Sifu Chio</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 888-9295<br>40-09 Prince St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/sifu-chio-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>40-09 Prince St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4395,7 +4395,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/szechuan-gourmet-flushing' target='_blank'>Szechuan Gourmet</a>",
-    "description": "Cuisine: Szechuan<br>Phone: (718) 888-9388<br>135-15 37th Ave., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/szechuan-gourmet-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Szechuan<br>135-15 37th Ave., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4412,7 +4412,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/j-and-j-sandwich-king-flushing' target='_blank'>J & J Sandwich King</a>",
-    "description": "Cuisine: Delis, Sandwiches<br>Phone: (718) 888-9655<br>146-25 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/j-and-j-sandwich-king-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Delis, Sandwiches<br>146-25 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4429,7 +4429,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/fay-da-bakery-queens-2' target='_blank'>Fay Da Bakery</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 888-9890<br>37-11 Main St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/fay-da-bakery-queens-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>37-11 Main St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4446,7 +4446,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/il-bok-korean-restaurant-flushing' target='_blank'>Il Bok</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 939-0003<br>136-77 41st Ave, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/il-bok-korean-restaurant-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-77 41st Ave, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4463,7 +4463,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/lotus-pad-flushing-2' target='_blank'>Lotus Pad</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 939-0925<br>25-25 Parsons Blvd., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/lotus-pad-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>25-25 Parsons Blvd., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4480,7 +4480,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/new-bodai-vegetarian-flushing' target='_blank'>New Bodai Vegetarian</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 939-1188<br>59-08 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/new-bodai-vegetarian-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>59-08 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4497,7 +4497,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kalamaki-gr-flushing-2' target='_blank'>Kalamaki GR</a>",
-    "description": "Cuisine: Greek<br>Phone: (718) 939-1616<br>29-06 172nd St, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/kalamaki-gr-flushing-2' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Greek<br>29-06 172nd St, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4514,7 +4514,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/gui-lin-mi-fen-flushing' target='_blank'>Gui Lin Mi Fen</a>",
-    "description": "Cuisine: Mix Chinese<br>Phone: (718) 939-2025<br>135-25 40th Rd., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/gui-lin-mi-fen-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Mix Chinese<br>135-25 40th Rd., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4531,7 +4531,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/changs-family-restaurant-flushing' target='_blank'>Chang’s Family Restaurant</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 939-2255<br>154-28 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/changs-family-restaurant-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>154-28 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4548,7 +4548,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/ai-lan-bakery-queens' target='_blank'>Ailan Bakery</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 939-2822<br>35-06 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/ai-lan-bakery-queens' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>35-06 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4565,7 +4565,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/boulevard-deli-new-york' target='_blank'>Boulevard Deli</a>",
-    "description": "Cuisine: Delis<br>Phone: (718) 939-2915<br>158-25 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/boulevard-deli-new-york' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Delis<br>158-25 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4582,7 +4582,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sunway-cafe-restaurant-flushing' target='_blank'>Sunway Restaurant</a>",
-    "description": "Cuisine: Cantonese<br>Phone: (718) 939-3330<br>39-07 Prince St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/sunway-cafe-restaurant-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Cantonese<br>39-07 Prince St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4599,7 +4599,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/fried-dumpling-jie-jie-sheng-flushing' target='_blank'>Fried Dumpling</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 939-3489<br>40-04 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/fried-dumpling-jie-jie-sheng-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>40-04 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4616,7 +4616,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/imperial-palace-flushing' target='_blank'>Imperial Palace</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 939-3501<br>136-13 37th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/imperial-palace-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-13 37th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4633,7 +4633,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/spring-fish-village-flushing' target='_blank'>Spring Fish Village</a>",
-    "description": "Cuisine: Szechuan<br>Phone: (718) 939-3633<br>136-21 41st Ave., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/spring-fish-village-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Szechuan<br>136-21 41st Ave., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4650,7 +4650,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mapo-szechuan-flushing' target='_blank'>Mapo Szechuan</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 939-3808<br>37-04 Prince St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mapo-szechuan-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>37-04 Prince St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4667,7 +4667,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/gu-shine-taiwanese-restaurant-flushing-2' target='_blank'>Gu Shine Taiwanese Restaurant</a>",
-    "description": "Cuisine: Taiwanese<br>Phone: (718) 939-5468<br>135-38 39th Ave., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/gu-shine-taiwanese-restaurant-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Taiwanese<br>135-38 39th Ave., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4684,7 +4684,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/phobang-restaurant-flushing' target='_blank'>Pho Bang</a>",
-    "description": "Cuisine: Vietnamese<br>Phone: (718) 939-5520<br>41-07 Kissena Blvd, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/phobang-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Vietnamese<br>41-07 Kissena Blvd, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4701,7 +4701,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/bonjuk-flushing' target='_blank'>Bonjuk</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 939-5868<br>152-26 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/bonjuk-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>152-26 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4718,7 +4718,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/palazzo-grill-and-bar-flushing' target='_blank'>Palazzo</a>",
-    "description": "Cuisine: Asian Fusion<br>Phone: (718) 939-7252<br>154-17 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/palazzo-grill-and-bar-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Asian Fusion<br>154-17 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4735,7 +4735,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/nolbu-food-flushing-2' target='_blank'>Nolbu Sushi</a>",
-    "description": "Cuisine: Korean, Sushi<br>Phone: (718) 939-7374<br>164-25 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/nolbu-food-flushing-2' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Korean, Sushi<br>164-25 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4752,7 +4752,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/pho-32-flushing-2' target='_blank'>Pho 32 N Shabu</a>",
-    "description": "Cuisine: Vietnamese<br>Phone: (718) 939-7770<br>14906 41st Ave, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/pho-32-flushing-2' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Vietnamese<br>14906 41st Ave, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4769,7 +4769,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/little-pepper-college-point' target='_blank'>Little Pepper</a>",
-    "description": "Cuisine: Szechuan<br>Phone: (718) 939-7788<br>18-24 College Point Blvd., Flushing NY 11356",
+    "description": "<a href='http://www.yelp.com/biz/little-pepper-college-point' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Szechuan<br>18-24 College Point Blvd., Flushing NY 11356",
     "marker-color": "#6c6c6c",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4786,7 +4786,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/shin-hwang-je-topokki-flushing' target='_blank'>Shin Hwang Je Topokki</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 939-8080<br>157-22 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/shin-hwang-je-topokki-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>157-22 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4803,7 +4803,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/arita-ichiban-flushing' target='_blank'>Arita Ichiban</a>",
-    "description": "Cuisine: Japanese<br>Phone: (718) 939-8999<br>43-07 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/arita-ichiban-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Japanese<br>43-07 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4820,7 +4820,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/kyochon-flushing' target='_blank'>Kyochon</a>",
-    "description": "Cuisine: Chicken<br>Phone: (718) 939-9292<br>156-52 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/kyochon-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chicken<br>156-52 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4837,7 +4837,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/phil-and-sons-pizzeria-and-restaurant-flushing' target='_blank'>Phil & Sons</a>",
-    "description": "Cuisine: Italian<br>Phone: (718) 961-0263<br>57-29 Main St., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/phil-and-sons-pizzeria-and-restaurant-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Italian<br>57-29 Main St., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4854,7 +4854,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/jang-soo-chon-flushing' target='_blank'>Jang Soo Chon</a>",
-    "description": "Cuisine: Korean, Barbecue<br>Phone: (718) 961-0800<br>150-32 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/jang-soo-chon-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Barbecue<br>150-32 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4871,7 +4871,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/happy-garden-restaurant-flushing' target='_blank'>Happy Garden</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 961-1388<br>60-06 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/happy-garden-restaurant-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>60-06 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4888,7 +4888,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/jin-cheng-restaurant-flushing' target='_blank'>Jin Cheng</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 961-1668<br>142-38 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/jin-cheng-restaurant-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>142-38 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4905,7 +4905,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/white-bear-flushing' target='_blank'>White Bear</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 961-2322<br>135-02 Prince St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/white-bear-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>135-02 Prince St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4922,7 +4922,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/old-street-food-place-incorporated-flushing' target='_blank'>Old Street Food Place</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 961-2599<br>86 138th St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/old-street-food-place-incorporated-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>86 138th St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4939,7 +4939,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/yummy-house-flushing' target='_blank'>Yummy House</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 961-3094<br>144-20 45th Ave, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/yummy-house-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>144-20 45th Ave, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4956,7 +4956,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/xtra-cheese-pizza-flushing' target='_blank'>Extra Cheese Pizzeria</a>",
-    "description": "Cuisine: Pizza<br>Phone: (718) 961-3122<br>147-20 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/xtra-cheese-pizza-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Pizza<br>147-20 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4973,7 +4973,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/java-day-cafe-flushing' target='_blank'>Java Day Cafe</a>",
-    "description": "Cuisine: Cafes & Coffeehouses<br>Phone: (718) 961-4444<br>160-09 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/java-day-cafe-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Cafes & Coffeehouses<br>160-09 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -4990,7 +4990,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/na-moo-dol-flushing' target='_blank'>Na Moo Dol</a>",
-    "description": "Cuisine: Korean<br>Phone: (718) 961-4742<br>29-02 Union St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/na-moo-dol-flushing' target='_blank'><img src='http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png' alt='Yelp rating'></a><br>Cuisine: Korean<br>29-02 Union St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5007,7 +5007,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/dynasty-chinese-restaurant-flushing' target='_blank'>Dynasty Chinese</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 961-5100<br>147-46 Northern Blvd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/dynasty-chinese-restaurant-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>147-46 Northern Blvd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5024,7 +5024,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/b-b-s-pub-and-grill-flushing' target='_blank'>B.B.’S Pub and Grill</a>",
-    "description": "Cuisine: Sandwiches, Bar Food<br>Phone: (718) 961-6161<br>171-57 46th Ave, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/b-b-s-pub-and-grill-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Sandwiches, Bar Food<br>171-57 46th Ave, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5041,7 +5041,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mei-shi-lin-flushing' target='_blank'>Meishi Lin</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 961-7500<br>135-32 40th Rd, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mei-shi-lin-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>135-32 40th Rd, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5058,7 +5058,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/hot-pot-house-flushing' target='_blank'>Hot Pot House</a>",
-    "description": "Cuisine: Chinese<br>Phone: (718) 961-8877<br>136-21 41st Ave, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/hot-pot-house-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>136-21 41st Ave, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5075,7 +5075,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/latin-bakery-restaurant-queens' target='_blank'>Latin Bakery</a>",
-    "description": "Cuisine: Latin American, Bakeries<br>Phone: (718) 961-8900<br>41-41 Main St, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/latin-bakery-restaurant-queens' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Latin American, Bakeries<br>41-41 Main St, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5092,7 +5092,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/guan-dong-yi-jia-flushing' target='_blank'>Guan Dong Yi Jia</a>",
-    "description": "Cuisine: North East Chinese<br>Phone: (917) 285-2052<br>46-09 Kissena Blvd., Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/guan-dong-yi-jia-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png' alt='Yelp rating'></a><br>Cuisine: North East Chinese<br>46-09 Kissena Blvd., Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5109,7 +5109,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/sugar-sugar-flushing' target='_blank'>Sugar Sugar Dessert</a>",
-    "description": "Cuisine: Dessert<br>Phone: (917) 285-2223<br>36-30 Union St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/sugar-sugar-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Dessert<br>36-30 Union St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5126,7 +5126,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/icook-buffet-flushing' target='_blank'>iCook Hot Pot</a>",
-    "description": "Cuisine: Korean, Soups<br>Phone: (917) 285-2516<br>133-24 41st Ave, Flushing NY 11355",
+    "description": "<a href='http://www.yelp.com/biz/icook-buffet-flushing' target='_blank'><img src='http://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png' alt='Yelp rating'></a><br>Cuisine: Korean, Soups<br>133-24 41st Ave, Flushing NY 11355",
     "marker-color": "#f86767",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5143,7 +5143,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/t-swirl-cr%C3%AApe-flushing-2' target='_blank'>T-swirl Crepe</a>",
-    "description": "Cuisine: Dessert<br>Phone: (917) 285-2521<br>40-08 Union St., Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/t-swirl-cr%C3%AApe-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Dessert<br>40-08 Union St., Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5160,7 +5160,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/prince-tea-house-flushing-2' target='_blank'>Prince Tea House</a>",
-    "description": "Cuisine: Desserts<br>Phone: (917) 285-2523<br>36-39 Prince St, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/prince-tea-house-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Desserts<br>36-39 Prince St, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5177,7 +5177,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/doraon-1-5-dak-galbi-flushing' target='_blank'>Doraon 1.5 Dak Galbi</a>",
-    "description": "Cuisine: Korean, Chicken<br>Phone: (917) 285-2772<br>158-03 Northern Blvd, Flushing NY 11358",
+    "description": "<a href='http://www.yelp.com/biz/doraon-1-5-dak-galbi-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Korean, Chicken<br>158-03 Northern Blvd, Flushing NY 11358",
     "marker-color": "#4db634",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5194,7 +5194,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/mojoilla-fresh-flushing' target='_blank'>Mojoilla Fresh</a>",
-    "description": "Cuisine: Crepes, Desserts<br>Phone: (917) 535-9099<br>136-20 Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/mojoilla-fresh-flushing' target='_blank'><img src='http://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png' alt='Yelp rating'></a><br>Cuisine: Crepes, Desserts<br>136-20 Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5211,7 +5211,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/yohielo-flushing' target='_blank'>Yohielo</a>",
-    "description": "Cuisine: Desserts<br>Phone: (917) 698-3683<br>136 27A Roosevelt Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/yohielo-flushing' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Desserts<br>136 27A Roosevelt Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
@@ -5228,7 +5228,7 @@
 
   "properties": {
     "title": "<a href='http://www.yelp.com/biz/han-kou-steaks-and-appetizer-flushing-2' target='_blank'>Han Kou Steaks & Appetizer</a>",
-    "description": "Cuisine: Chinese<br>Phone: (917) 698-6084<br>133-31 39th Ave, Flushing NY 11354",
+    "description": "<a href='http://www.yelp.com/biz/han-kou-steaks-and-appetizer-flushing-2' target='_blank'><img src='http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png' alt='Yelp rating'></a><br>Cuisine: Chinese<br>133-31 39th Ave, Flushing NY 11354",
     "marker-color": "#3ca0d3",
     "marker-size": "small",
     "marker-symbol": "restaurant"
