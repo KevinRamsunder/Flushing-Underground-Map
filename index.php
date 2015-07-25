@@ -10,6 +10,10 @@
     <meta name="author" content="">
 
     <title>Underground Flushing Food</title>
+    <?php
+        include('./lib/functions.php');
+        include('./lib/sample.php');
+    ?>
     
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
@@ -20,6 +24,7 @@
 
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet">
+    <link rel="shortcut icon" href="img/favicon.png">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -68,9 +73,8 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
-            <h1 style="font-family: montBold; text-transform:uppercase; color:#fff; font-size:4.74em; margin-bottom: -15px; margin-top: -50px;">Underground</h1>
-            <h1 style="font-family: montReg; text-transform:uppercase; color:#fff; font-size:3.6em;">Flushing Food Map</h1>
-            <!--<h3 style="font-family: Arial, san-serif; color:#eee; font-size:1.5em;">Discover the food of Flushing, Queens.</h3>-->
+            <h1>Underground Flushing Food Map</h1>
+            <h3>Discover the food of Flushing, Queens.</h3>
             <br>
             <a href="#map" class="btn btn-dark btn-lg">View the Map</a>
             <a href="#restaurants" class="btn btn-dark btn-lg">View the Restaurants</a>
@@ -82,8 +86,11 @@
 
     <!-- Services -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
+
     <section id="restaurants" class="services bg-primary">
         <div class="container">
+        <div class="row">
+            <div class="col-xs-8 col-xs-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
             <div class="panel-group" role="tablist">
                 
                 <!-- Golden Shopping Mall -->
@@ -92,6 +99,14 @@
                         <a role="button" data-toggle="collapse" data-target="#goldenshoppingmall" aria-expanded="false" aria-controls=goldenshoppingmall>
                             <h4 class="panel-title">Golden Shopping Mall</h4>
                         </a>
+                        <?php
+                            $yelp_id = 'golden-shopping-mall-flushing';
+                            $gshoppingmall = get_business($yelp_id);
+                            $json = json_decode($gshoppingmall, true);
+                            $rating_img_url = $json['rating_img_url'];
+                            echo yelp_biz_html_generator($yelp_id, $rating_img_url);
+                        ?>
+
                     </div>
                     <div id="goldenshoppingmall" class="panel-collapse collapse">
                         <div class="panel-body">
@@ -106,6 +121,13 @@
                         <a role="button" data-toggle="collapse" data-target="#newworld" aria-expanded="false" aria-controls=newworld>
                             <h4 class="panel-title">New World Mall Food Court</h4>
                         </a>
+                        <?php
+                            $yelp_id = 'new-world-mall-food-court-flushing';
+                            $newworldmallfoodcourt= get_business($yelp_id);
+                            $json = json_decode($newworldmallfoodcourt, true);
+                            $rating_img_url = $json['rating_img_url'];
+                            echo yelp_biz_html_generator($yelp_id, $rating_img_url);
+                        ?>
                     </div>
                     <div id="newworld" class="panel-collapse collapse">
                         <div class="panel-body">
@@ -120,6 +142,13 @@
                         <a role="button" data-toggle="collapse" data-target="#whitebear" aria-expanded="false" aria-controls=whitebear>
                             <h4 class="panel-title">White Bear</h4>
                         </a>
+                        <?php
+                            $yelp_id = 'white-bear-flushing';
+                            $whitebear = get_business($yelp_id);
+                            $json = json_decode($whitebear, true);
+                            $rating_img_url = $json['rating_img_url'];
+                            echo yelp_biz_html_generator($yelp_id, $rating_img_url);
+                        ?>
                     </div>
                     <div id="whitebear" class="panel-collapse collapse">
                         <div class="panel-body">
@@ -134,6 +163,13 @@
                         <a role="button" data-toggle="collapse" data-target="#nanxiang" aria-expanded="false" aria-controls=nanxiang>
                             <h4 class="panel-title">Nan Xiang Xiao Long Bao</h4>
                         </a>
+                        <?php
+                            $yelp_id = 'nan-xiang-dumpling-house-flushing';
+                            $nanxiang = get_business($yelp_id);
+                            $json = json_decode($nanxiang, true);
+                            $rating_img_url = $json['rating_img_url'];
+                            echo yelp_biz_html_generator($yelp_id, $rating_img_url);
+                        ?>
                     </div>
                     <div id="nanxiang" class="panel-collapse collapse">
                         <div class="panel-body">
@@ -148,19 +184,27 @@
                         <a role="button" data-toggle="collapse" data-target="#joesshanghai" aria-expanded="false" aria-controls=joesshanghai>
                             <h4 class="panel-title">Joe's Shanghai</h4>
                         </a>
+                        <?php
+                            $yelp_id = 'joes-shanghai-flushing';
+                            $joesshanghai = get_business($yelp_id);
+                            $json = json_decode($joesshanghai, true);
+                            $url = $json['rating_img_url'];
+                            echo yelp_biz_html_generator($yelp_id, $rating_img_url);
+                        ?>
                     </div>
                     <div id="joesshanghai" class="panel-collapse collapse">
                         <div class="panel-body">
-                            The first Joe's Shanghai was founded in Flushing, New York in 1995. Immediately our two special soup dumplings, crab pork meat became a New York favorite.<br>Other special dishes includes Spicy Szechuan Style Sliced Beef; Crispy Jumbo Prawns with Lime Sauce; Braised Duck, Braised Pork Shoulders and not to mention our different varieties of cold cuts like Wine Chicken; Shanghai Fried Bean Curd; Braised Sliced Beef.
+                            The first Joe's Shanghai was founded in Flushing, New York in 1995. Immediately our two special soup dumplings, crab pork meat became a New York favorite.  Other special dishes includes Spicy Szechuan Style Sliced Beef; Crispy Jumbo Prawns with Lime Sauce; Braised Duck, Braised Pork Shoulders and not to mention our different varieties of cold cuts like Wine Chicken; Shanghai Fried Bean Curd; Braised Sliced Beef.
                         </div>
                     </div>
                 </div>
             </div>
             <!-- /.panel -->
+            </div>
         </div>
-        <!-- /.container -->
+    <!-- /.container -->
+        </div>
     </section>
-
     <!-- Callout -->
     <aside class="callout" id="flushingchamber">
         <div class="text-vertical-center">
@@ -240,7 +284,6 @@
                     </h4>
                     <p>65-30 Kissena Boulevard<br>Flushing, NY 11367</p>
                     <ul class="list-unstyled">
-                        <li><i class="fa fa-phone fa-fw"></i> (123) 456-7890</li>
                         <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:info@quic.nyc">info@quic.nyc</a>
                         </li>
                     </ul>
@@ -300,11 +343,9 @@
         L.mapbox.accessToken = 'pk.eyJ1IjoiYXJ5YW5qYWJiYXJpIiwiYSI6IjJhMGM3Y2VjZGU2ZjRhZTVjZGRkYjYzMzI4MmMzMDNiIn0.kZlSR_oToMC4VOmNCIfIfg';
         var map = L.mapbox.map('map', 'aryanjabbari.cb525595', { zoomControl: false});
         
-        var featureLayer = L.mapbox.featureLayer()
-        .loadURL('geojson.geojson')
-        .addTo(map);
-
-        map.scrollWheelZoom.disable();       
+        map.scrollWheelZoom.disable();
+        map.touchZoom.disable();
+        map.dragging.disable();
     </script>
 
 </body>
