@@ -99,14 +99,7 @@
                         <a role="button" data-toggle="collapse" data-target="#goldenshoppingmall" aria-expanded="false" aria-controls="goldenshoppingmall">
                             <h4 class="panel-title">Golden Shopping Mall</h4>
                         </a>
-                        <?php
-                            $yelp_id = 'golden-shopping-mall-flushing';
-                            $gshoppingmall = get_business($yelp_id);
-                            $json = json_decode($gshoppingmall, true);
-                            $rating_img_url = $json['rating_img_url'];
-                            echo yelp_biz_html_generator($yelp_id, $rating_img_url);
-                        ?>
-
+                        <?php echo getRating('golden-shopping-mall-flushing'); ?>
                     </div>
                     <div id="goldenshoppingmall" class="panel-collapse collapse">
                         <div class="panel-collapse">
@@ -124,13 +117,7 @@
                         <a role="button" data-toggle="collapse" data-target="#newworld" aria-expanded="false" aria-controls=newworld>
                             <h4 class="panel-title">New World Mall Food Court</h4>
                         </a>
-                        <?php
-                            $yelp_id = 'new-world-mall-food-court-flushing';
-                            $newworldmallfoodcourt= get_business($yelp_id);
-                            $json = json_decode($newworldmallfoodcourt, true);
-                            $rating_img_url = $json['rating_img_url'];
-                            echo yelp_biz_html_generator($yelp_id, $rating_img_url);
-                        ?>
+                         <?php echo getRating('new-world-mall-food-court-flushing'); ?>
                     </div>
                     <div id="newworld" class="panel-collapse collapse">
                         <div class="panel-body">
@@ -145,13 +132,7 @@
                         <a role="button" data-toggle="collapse" data-target="#whitebear" aria-expanded="false" aria-controls=whitebear>
                             <h4 class="panel-title">White Bear</h4>
                         </a>
-                        <?php
-                            $yelp_id = 'white-bear-flushing';
-                            $whitebear = get_business($yelp_id);
-                            $json = json_decode($whitebear, true);
-                            $rating_img_url = $json['rating_img_url'];
-                            echo yelp_biz_html_generator($yelp_id, $rating_img_url);
-                        ?>
+                         <?php echo getRating('white-bear-flushing'); ?>
                     </div>
                     <div id="whitebear" class="panel-collapse collapse">
                         <div class="panel-body">
@@ -166,13 +147,7 @@
                         <a role="button" data-toggle="collapse" data-target="#nanxiang" aria-expanded="false" aria-controls=nanxiang>
                             <h4 class="panel-title">Nan Xiang Xiao Long Bao</h4>
                         </a>
-                        <?php
-                            $yelp_id = 'nan-xiang-dumpling-house-flushing';
-                            $nanxiang = get_business($yelp_id);
-                            $json = json_decode($nanxiang, true);
-                            $rating_img_url = $json['rating_img_url'];
-                            echo yelp_biz_html_generator($yelp_id, $rating_img_url);
-                        ?>
+                        <?php echo getRating('nan-xiang-dumpling-house-flushing'); ?>
                     </div>
                     <div id="nanxiang" class="panel-collapse collapse">
                         <div class="panel-body">
@@ -187,13 +162,7 @@
                         <a role="button" data-toggle="collapse" data-target="#joesshanghai" aria-expanded="false" aria-controls=joesshanghai>
                             <h4 class="panel-title">Joe's Shanghai</h4>
                         </a>
-                        <?php
-                            $yelp_id = 'joes-shanghai-flushing';
-                            $joesshanghai = get_business($yelp_id);
-                            $json = json_decode($joesshanghai, true);
-                            $rating_img_url = $json['rating_img_url'];
-                            echo yelp_biz_html_generator($yelp_id, $rating_img_url);
-                        ?>
+                        <?php echo getRating('joes-shanghai-flushing'); ?>
                     </div>
                     <div id="joesshanghai" class="panel-collapse collapse">
                         <div class="panel-body">
