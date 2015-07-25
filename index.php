@@ -96,7 +96,7 @@
                 <!-- Golden Shopping Mall -->
                 <div class="panel panel-default">
                     <div class="panel-heading" role="tab">
-                        <a role="button" data-toggle="collapse" data-target="#goldenshoppingmall" aria-expanded="false" aria-controls=goldenshoppingmall>
+                        <a role="button" data-toggle="collapse" data-target="#goldenshoppingmall" aria-expanded="false" aria-controls="goldenshoppingmall">
                             <h4 class="panel-title">Golden Shopping Mall</h4>
                         </a>
                         <?php
@@ -109,9 +109,30 @@
 
                     </div>
                     <div id="goldenshoppingmall" class="panel-collapse collapse">
-                        <div class="panel-body">
-                            Small stalls and foods like dumplings and noodles fill this tiny basement.
+                        <div class="panel-collapse">
+                            <div class="panel-body">
+                                Small stalls and foods like dumplings and noodles fill this tiny basement. 
+                            </div>
                         </div>
+                        <div class="panel-group"> <!-- TODO create indented panel-inner class -->
+                            
+                            <!-- Xian Famous Foods -->
+                            <div class="panel panel-default">
+                                <div class="panel-heading" role="tab">
+                                    <a role="button" data-toggle="collapse" data-target="#xianfamous" aria-expanded="false" aria-controls="xianfamous">
+                                        <h4 class="panel-title">Xi'an Famous Foods</h4>
+                                    </a>
+                                </div>
+                                <div id="xianfamous" class="panel-collapse collapse">
+                                    <div id="xianfamous" class="panel-body">
+                                        The original location in all its glory. Opened in late 2005, this hole-in-the-wall resides in the basement of Flushing's Golden Shopping Mall, one of the first food courts that established Flushing as a mecca of authentic Chinese food in New York City. There are about ten seats for this food stall, although this location is a shared space.
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        <!-- /.panel-group -->    
+                        </div>
+                    <!-- /#goldenshoppingmall -->
                     </div>
                 </div>
                 
