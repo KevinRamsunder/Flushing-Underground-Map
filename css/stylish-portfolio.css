@@ -22,6 +22,16 @@ body {
     vertical-align: middle;
 }
 
+@font-face {
+    font-family: montBold;
+    src: url('../fonts/Montserrat-Bold.otf');
+}
+
+@font-face {
+    font-family: montReg;
+    src: url('../fonts/Montserrat-Light.otf');
+}
+
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
