@@ -24,7 +24,7 @@
 
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet">
-    <link rel="shortcut icon" href="img/favicon.png">
+    <link rel="icon" href="img/favicon.ico">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
