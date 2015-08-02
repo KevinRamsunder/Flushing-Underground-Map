@@ -21,6 +21,7 @@
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
+    <link href="css/featured.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet">
@@ -87,97 +88,211 @@
     <!-- Services -->
     <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
 
-    <section id="restaurants" class="services bg-primary">
-        <div class="container">
-        <div class="row">
-            <div class="col-xs-8 col-xs-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
-            <div class="panel-group" role="tablist">
-                
-                <!-- Golden Shopping Mall -->
-                <div class="panel panel-default">
-                    <div class="panel-heading" role="tab">
-                        <a role="button" data-toggle="collapse" data-target="#goldenshoppingmall" aria-expanded="false" aria-controls="goldenshoppingmall">
-                            <h4 class="panel-title">Golden Shopping Mall</h4>
-                        </a>
-                        <?php echo getRating('golden-shopping-mall-flushing'); ?>
+    <div id="restaurants">
+    <div id="test">
+    <section id="featured" class="block equal-height">
+                    <div class="container">
+                        <header><h2>Featured</h2></header>
+                        <div class="row">
+                            <div class="col-md-3 col-sm-3">
+                                <div class="item">
+                                    <div class="image">
+                                        <a href="http://www.yelp.com/biz/golden-shopping-mall-flushing" target="_blank">
+                                            <div class="overlay">
+                                                <div class="inner">
+                                                    <div class="content">
+                                                        <h4>Description</h4>
+                                                        <p>Small stalls and foods like dumplings and noodles fill this tiny basement.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <img src="./img/1.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="wrapper">
+                                        <a href="http://www.yelp.com/biz/golden-shopping-mall-flushing" target="_blank"><h3>Golden Shopping Mall</h3></a>
+                                        <figure>41-28 Main Street</figure>
+                                        <div class="info">
+                                            <div class="type">
+                                                <i><img src="./img/restaurant.png" alt=""></i>
+                                                <span>Restaurant</span>
+                                            </div>
+                                            <div class="type">
+                                                    <i><?php echo getRating('golden-shopping-mall-flushing');?></i>
+                                            </div>
+                                            <div class="type">
+                                                    <i><?php echo getRatingCount('golden-shopping-mall-flushing');?></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /.item-->
+                            </div>
+                            <!--/.col-sm-4-->
+                            <div class="col-md-3 col-sm-3">
+                                <div class="item">
+                                    <div class="image">
+                                        <a href="http://www.yelp.com/biz/new-world-mall-food-court-flushing" target="_blank">
+                                            <div class="overlay">
+                                                <div class="inner">
+                                                    <div class="content">
+                                                        <h4>Description</h4>
+                                                        <p>The mall features an exciting food court in the lower level with over 32 different American and Ethnic food vendors.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <img src="./img/2.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="wrapper">
+                                        <a href="http://www.yelp.com/biz/new-world-mall-food-court-flushing" target="_blank"><div class="row"><h3>New World Mall Food Court</h3></a></div>
+                                        <figure>136-20 Roosevelt Avenue</figure>
+                                        <div class="info">
+                                            <div class="type">
+                                                <i><img src="./img/restaurant.png" alt=""></i>
+                                                <span>Restaurant</span>
+                                            </div>
+                                            <div class="type">
+                                                    <i><?php echo getRating('new-world-mall-food-court-flushing');?></i>
+                                            </div>
+                                            <div class="type">
+                                                    <i><?php echo getRatingCount('new-world-mall-food-court-flushing');?></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /.item-->
+                            </div>
+                            <!--/.col-sm-4-->
+                            <div class="col-md-3 col-sm-3">
+                                <div class="item">
+                                        <div class="image">
+                                            <a href="http://www.yelp.com/biz/nan-xiang-dumpling-house-flushing" target="_blank">
+                                                <div class="overlay">
+                                                    <div class="inner">
+                                                        <div class="content">
+                                                            <h4>Description</h4>
+                                                            <p>This Chinese restaurant is famous for their pork soup dumplings.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <img src="./img/3.jpg" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="wrapper">
+                                            <a href="http://www.yelp.com/biz/nan-xiang-dumpling-house-flushing" target="_blank"><div class="row"><h3>Nan Xiang Dumpling House</h3></a></div>
+                                            <figure>38-12 Prince Street</figure>
+                                            <div class="info">
+                                                <div class="type">
+                                                    <i><img src="./img/restaurant.png" alt=""></i>
+                                                    <span>Restaurant</span>
+                                                </div>
+                                                 <div class="type">
+                                                    <i><?php echo getRating('nan-xiang-dumpling-house-flushing');?></i>
+                                                </div>
+                                                <div class="type">
+                                                    <i><?php echo getRatingCount('nan-xiang-dumpling-house-flushing');?></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                </div>
+                            </div>
+                                <!-- /.item-->
+                            <!--/.col-sm-4-->
+                            <!--/.col-sm-4-->
+                            <div class="col-md-3 col-sm-3">
+                                <div class="item">
+                                        <div class="image">
+                                            <a href="http://www.yelp.com/biz/joes-shanghai-flushing" target="_blank">
+                                                <div class="overlay">
+                                                    <div class="inner">
+                                                        <div class="content">
+                                                            <h4>Description</h4>
+                                                            <p>Special dishes includes Spicy Szechuan Style Sliced Beef and Crispy Jumbo Prawns with Lime Sauce.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <img src="./img/4.jpg" alt="">
+                                            </a>
+                                        </div>
+                                        <div class="wrapper">
+                                            <a href="http://www.yelp.com/biz/joes-shanghai-flushing" target="_blank"><h3>Joe’s Shanghai</h3></a>
+                                            <figure>136-21 37th Avenue</figure>
+                                            <div class="info">
+                                                <div class="type">
+                                                    <i><img src="./img/restaurant.png" alt=""></i>
+                                                    <span>Restaurant</span>
+                                                </div>
+                                                <div class="type">
+                                                    <i><?php echo getRating('joes-shanghai-flushing');?></i>
+                                                </div>
+                                                <div class="type">
+                                                    <i><?php echo getRatingCount('joes-shanghai-flushing');?></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                </div>
+                            </div>
+                                <!-- /.item-->
+                                <!-- /.item-->
+                            <!--/.col-sm-4-->
+                        </div>
+                        <!--/.row-->
                     </div>
-                    <div id="goldenshoppingmall" class="panel-collapse collapse">
-                        <div class="panel-collapse">
-                            <div class="panel-body">
-                                Small stalls and foods like dumplings and noodles fill this tiny basement. 
+                    <!--/.container-->
+                    <div class="background opacity-10">
+                        <img src="./img/flushing.jpg" alt="">
+                    </div>
+                </section></div></div>
+
+
+    <div id="flushingchamber">
+        <div id="test">
+            <section id="popular" class="block background-color-white">
+                <div class="container">
+                    <header><h2>Contact Us</h2></header>
+                    <div class="owl-carousel wide carousel">
+                        <div class="slide">
+                            <div class="inner">
+                                <div class="image">
+                                    <img src="./img/callout1.jpg">
+                                </div>
+                                <div class="wrapper">
+                                    <a href="http://flushingchamber.nyc/" target="_blank"><h3>Greater Flushing Chamber of Commerce</h3></a>
+                                    <figure>
+                                        <i class="fa fa-map-marker"></i>
+                                        <span>The Chamber of Commerce Building, 39-01 Main Street, Suite 511, Flushing NY 11354</span>
+                                    </figure>
+                                    <p>The Greater Flushing Chamber of Commerce is the collective voice that represents and advocates for the needs of the diverse business and civic community of greater Flushing. We seek to foster the economic growth, inclusive diversity, and shared prosperity of greater Flushing through advocacy, networking, and mutual aid.</p>
+                                    <a href="http://flushingchamber.nyc/" target="_blank" class="read-more icon">Learn More</a>
+                                </div>
                             </div>
                         </div>
-                    <!-- /#goldenshoppingmall -->
-                    </div>
                 </div>
-                
-                <!-- New World Mall Food Court -->
-                <div class="panel panel-default">
-                    <div class="panel-heading" role="tab">
-                        <a role="button" data-toggle="collapse" data-target="#newworld" aria-expanded="false" aria-controls=newworld>
-                            <h4 class="panel-title">New World Mall Food Court</h4>
-                        </a>
-                         <?php echo getRating('new-world-mall-food-court-flushing'); ?>
-                    </div>
-                    <div id="newworld" class="panel-collapse collapse">
-                        <div class="panel-body">
-                            The mall features an exciting food court in the lower level with over 32 different American and Ethnic food vendors. With a wide range of foods from different areas of North and South-East Asia; stalls offer Malaysian, Thai, Vietnamese, Chinese, Korean and Japanese foods including bento boxes and sushi, ramen noodles, and assorted Asian desserts. In addition, the food court offers a great choice of fast foods.
+                <br><br>
+                <div id="contact" class="owl-carousel wide carousel">
+                        <div class="slide">
+                            <div class="inner">
+                                <div class="image">
+                                    <img src="./img/callout2.jpg">
+                                </div>
+                                <div class="wrapper">
+                                    <a href="http://quic.nyc/" target="_blank"><h3>Queens College Tech Incubator</h3></a>
+                                    <figure>
+                                        <i class="fa fa-map-marker"></i>
+                                        <span>65-30 Kissena Boulevard Flushing, NY 11367</span>
+                                    </figure>
+                                    <p>The Incubator seeks to carry forward the mission of the college by attracting high tech business to campus and giving them access to the diverse and talented students, staff and faculty of the college. It is the ambititon of the incubator to reflect the tremendous diversity and resoucefulnees of the many ethnic communities of Queens itself.</p>
+                                    <a href="http://quic.nyc/" target="_blank" class="read-more icon">Learn More</a>
+                                </div>
+                            </div>
                         </div>
-                    </div>
                 </div>
-                
-                <!-- White Bear -->
-                <div class="panel panel-default">
-                    <div class="panel-heading" role="tab">
-                        <a role="button" data-toggle="collapse" data-target="#whitebear" aria-expanded="false" aria-controls=whitebear>
-                            <h4 class="panel-title">White Bear</h4>
-                        </a>
-                         <?php echo getRating('white-bear-flushing'); ?>
-                    </div>
-                    <div id="whitebear" class="panel-collapse collapse">
-                        <div class="panel-body">
-                            Make sure to try the #6 (pork wontons) and the #17 (dan dan noodles).
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Nan Xiang Xiao Long Bao -->
-                <div class="panel panel-default">
-                    <div class="panel-heading" role="tab">
-                        <a role="button" data-toggle="collapse" data-target="#nanxiang" aria-expanded="false" aria-controls=nanxiang>
-                            <h4 class="panel-title">Nan Xiang Xiao Long Bao</h4>
-                        </a>
-                        <?php echo getRating('nan-xiang-dumpling-house-flushing'); ?>
-                    </div>
-                    <div id="nanxiang" class="panel-collapse collapse">
-                        <div class="panel-body">
-                            This Chinese restaurant is famous for their pork soup dumplings
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Joe's Shanghai -->
-                <div class="panel panel-default">
-                    <div class="panel-heading" role="tab">
-                        <a role="button" data-toggle="collapse" data-target="#joesshanghai" aria-expanded="false" aria-controls=joesshanghai>
-                            <h4 class="panel-title">Joe's Shanghai</h4>
-                        </a>
-                        <?php echo getRating('joes-shanghai-flushing'); ?>
-                    </div>
-                    <div id="joesshanghai" class="panel-collapse collapse">
-                        <div class="panel-body">
-                            The first Joe's Shanghai was founded in Flushing, New York in 1995. Immediately our two special soup dumplings, crab pork meat became a New York favorite.  Other special dishes includes Spicy Szechuan Style Sliced Beef; Crispy Jumbo Prawns with Lime Sauce; Braised Duck, Braised Pork Shoulders and not to mention our different varieties of cold cuts like Wine Chicken; Shanghai Fried Bean Curd; Braised Sliced Beef.
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- /.panel -->
-            </div>
+            </section>
+        </div>
     </div>
-    <!-- /.container -->
-    </div>
-    </section>
-    <!-- Callout -->
+
+    <!-- Callout
     <aside class="callout" id="flushingchamber">
         <div class="text-vertical-center">
             <a href="http://flushingchamber.nyc/" target="_blank">
@@ -185,7 +300,8 @@
             </a>
         </div>
     </aside>
-    
+    -->
+
     <!-- Not in use
 
     <section id="portfolio" class="portfolio">
@@ -248,6 +364,7 @@
     </aside> -->
 
     <!-- Footer -->
+    <!--
     <footer id="contact">
         <div class="container">
             <div class="row">
@@ -274,6 +391,7 @@
             </div>
         </div>
     </footer>
+    -->
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
