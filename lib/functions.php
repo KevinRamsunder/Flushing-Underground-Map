@@ -8,4 +8,10 @@ function getRating($yelp_id) {
     $json = json_decode($rest, true);
     return yelp_biz_html_generator($yelp_id, $json['rating_img_url']);
 }
+
+function getRatingCount($yelp_id) {
+    $rest = get_business($yelp_id);
+    $json = json_decode($rest, true);
+    return ($json['review_count'] . ' Reviews');
+}
 ?>
