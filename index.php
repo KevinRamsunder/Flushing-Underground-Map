@@ -437,9 +437,10 @@
         .loadURL('geojson.geojson')
         .addTo(map);
 
+        if(map.tap) map.tap.disable();
         map.scrollWheelZoom.disable();
         map.touchZoom.disable();
-        map.dragging.disable();
+        //map.dragging.disable();
     </script>
 
 </body>
