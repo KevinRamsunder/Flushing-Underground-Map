@@ -252,7 +252,7 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 #copyright {
@@ -263,4 +263,8 @@ footer {
 
 #quic-name {
     font-size: 2.5em;
+}
+
+#created-by {
+    font-size: 0.4em;
 }

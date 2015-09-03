@@ -295,9 +295,9 @@
     <footer id="copyright">
         <div class="container">
             <div class="row">
-                <div class="col-md-offset-2 col-md-8">
-                    <p class="text-center" id="quic-name">Queens College Tech Incubator Center</p>
-                    <p class="text-center">65-30 Kissena Blvd., Flushing NY<br>
+                <div class="col-md-offset-2 col-md-8 text-center">
+                    <p id="quic-name"><span id="created-by">Created by</span><br>Queens College Tech Incubator Center</p>
+                    <p>65-30 Kissena Blvd., Flushing NY<br>
                         <a href="mailto:info@quic.nyc" alt="QC Tech Incubator Email Address">info@quic.nyc</a><br>
                         <span class="fa fa-facebook-official"></span><span class="fa fa-twitter"></span>
                     </p>
