@@ -254,3 +254,13 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+#copyright {
+    background-color: rgb(231, 25, 57);
+    color: white;
+    font-family: "Gill Sans"
+}
+
+#quic-name {
+    font-size: 2.5em;
+}
