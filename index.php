@@ -348,7 +348,7 @@
         $('#search').keyup(search);
 
         function search() {
-            var userQuery = $("#search").val().toLowerCase();
+            var userQuery = $("#search").val().toLowerCase().trim();
 
             featureLayer.setFilter(function (layers) {
                 return layers.properties.cuisine.toLowerCase().indexOf(userQuery) !== -1;
