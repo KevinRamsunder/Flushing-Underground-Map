@@ -82,11 +82,12 @@
         </div>
     </header>
 
-    <!-- Map -->            
-    <div id="map"></div>
-
-    <!-- Services -->
-    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
+    <!-- Map -->        
+    <div id="map">
+        <div class="col-xs-2">
+            <input id="search" class="form-control search-ui" placeholder="Enter Cuisine Type..."/>
+        </div>
+    </div>
 
     <div id="restaurants">
     <div id="test">
@@ -292,109 +293,9 @@
         </div>
     </div>
 
-    <!-- Callout
-    <aside class="callout" id="flushingchamber">
-        <div class="text-vertical-center">
-            <a href="http://flushingchamber.nyc/" target="_blank">
-                <h1>Flushing Chamber of Commerce</h1>
-            </a>
-        </div>
-    </aside>
-    -->
-
-    <!-- Not in use
-
-    <section id="portfolio" class="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h2>Our Work</h2>
-                    <hr class="small">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="portfolio-item">
-                                <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-1.jpg">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="portfolio-item">
-                                <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-2.jpg">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="portfolio-item">
-                                <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-3.jpg">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="portfolio-item">
-                                <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-4.jpg">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <a href="#" class="btn btn-dark">View More Items</a>
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
-
-
-    <aside class="call-to-action bg-primary">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h3>The buttons below are impossible to resist.</h3>
-                    <a href="#" class="btn btn-lg btn-light">Click Me!</a>
-                    <a href="#" class="btn btn-lg btn-dark">Look at Me!</a>
-                </div>
-            </div>
-        </div>
-    </aside> -->
-
-    <!-- Footer -->
-    <!--
-    <footer id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h4><strong>Queens College Tech Incubator</strong>
-                    </h4>
-                    <p>65-30 Kissena Boulevard<br>Flushing, NY 11367</p>
-                    <ul class="list-unstyled">
-                        <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:info@quic.nyc">info@quic.nyc</a>
-                        </li>
-                    </ul>
-                    <br>
-                    <ul class="list-inline">
-                        <li>
-                            <a href="https://www.facebook.com/pages/Queens-College-Tech-Incubator/651083375025310"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
-                        </li>
-                        <li>
-                            <a href="https://twitter.com/QCTechIncubator"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
-                        </li>
-                    </ul>
-                    <hr class="small">
-                    <p class="text-muted">Copyright &copy; Queens College Tech Incubator 2015</p>
-                </div>
-            </div>
-        </div>
-    </footer>
-    -->
-
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+    <script src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
 
     <!-- Custom Theme JavaScript -->
     <script>
@@ -430,17 +331,29 @@
     
     <!-- Mapbox -->
     <script>
+        // Mapbox API access
         L.mapbox.accessToken = 'pk.eyJ1IjoiYXJ5YW5qYWJiYXJpIiwiYSI6IjJhMGM3Y2VjZGU2ZjRhZTVjZGRkYjYzMzI4MmMzMDNiIn0.kZlSR_oToMC4VOmNCIfIfg';
         var map = L.mapbox.map('map', 'aryanjabbari.cb525595', { zoomControl: false});
         
-        var featureLayer = L.mapbox.featureLayer()
-        .loadURL('geojson.geojson')
-        .addTo(map);
-
+        // init map functions
         if(map.tap) map.tap.disable();
         map.scrollWheelZoom.disable();
         map.touchZoom.disable();
-        //map.dragging.disable();
+
+        // init the geojson layer and add it to the map
+        var featureLayer = L.mapbox.featureLayer().loadURL('geojson.geojson');
+        featureLayer.addTo(map);
+
+        // Search bar functionality, filter by cuisine type
+        $('#search').keyup(search);
+
+        function search() {
+            var userQuery = $("#search").val().toLowerCase();
+
+            featureLayer.setFilter(function (layers) {
+                return layers.properties.cuisine.toLowerCase().indexOf(userQuery) !== -1;
+            });
+        }
     </script>
 
 </body>
